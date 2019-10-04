@@ -32,18 +32,21 @@
 \contentsline {subsection}{Assessment of autophagic flux toward a standardized characterization}{27}{section*.32}% 
 \contentsline {section}{\numberline {1.9}Autophagy modulation in therapy-achieving flux control}{29}{section.1.9}% 
 \contentsline {subsection}{mTOR-dependent autophagy control}{29}{section*.33}% 
-\contentsline {chapter}{\chapternumberline {2}Methodology}{34}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Introduction}{34}{section.2.1}% 
-\contentsline {chapter}{\chapternumberline {3}Autophagic flux assessment}{35}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Introduction}{35}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Effect of spermidine and rilmenidine on cell viability}{36}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Effect of spermidine and rilmenidine on autophagic flux using western blotting}{36}{section.3.3}% 
-\contentsline {subsection}{Abundance of LC3 II and p62}{37}{section*.34}% 
-\contentsline {subsection}{LC3 II and p62 protein turnover}{38}{section*.35}% 
-\contentsline {chapter}{\chapternumberline {4}Role of spermidine and rilmenidine in a paraquat-induced neuronal toxicity model}{39}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Introduction}{39}{section.4.1}% 
-\contentsline {chapter}{\chapternumberline {5}Method development for Correlative Light and Electron Microscopy (CLEM)}{40}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Introduction}{40}{section.5.1}% 
-\contentsline {chapter}{\chapternumberline {6}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{41}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Introduction}{41}{section.6.1}% 
-\contentsline {chapter}{Bibliography}{42}{chapter*.36}% 
+\contentsline {subsection}{mTOR-independent autophagy control}{30}{section*.34}% 
+\contentsline {subsubsection}{Mood stabilizing drugs in autophagy control}{31}{section*.35}% 
+\contentsline {subsubsection}{Trehalose in autophagy control}{31}{section*.36}% 
+\contentsline {chapter}{\chapternumberline {2}Methodology}{36}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Introduction}{36}{section.2.1}% 
+\contentsline {chapter}{\chapternumberline {3}Autophagic flux assessment}{37}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Introduction}{37}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Effect of spermidine and rilmenidine on cell viability}{38}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Effect of spermidine and rilmenidine on autophagic flux using western blotting}{38}{section.3.3}% 
+\contentsline {subsection}{Abundance of LC3 II and p62}{39}{section*.37}% 
+\contentsline {subsection}{LC3 II and p62 protein turnover}{40}{section*.38}% 
+\contentsline {chapter}{\chapternumberline {4}Role of spermidine and rilmenidine in a paraquat-induced neuronal toxicity model}{41}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Introduction}{41}{section.4.1}% 
+\contentsline {chapter}{\chapternumberline {5}Method development for Correlative Light and Electron Microscopy (CLEM)}{42}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Introduction}{42}{section.5.1}% 
+\contentsline {chapter}{\chapternumberline {6}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{43}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Introduction}{43}{section.6.1}% 
+\contentsline {chapter}{Bibliography}{44}{chapter*.39}% 
