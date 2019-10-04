@@ -1,0 +1,41 @@
+%-------------------------------------------------------------------------------
+% Document
+%-------------------------------------------------------------------------------
+\documentclass[12pt,oneside,openany,a4paper,afrikaans,english]{memoir}
+\OnehalfSpacing
+%-------------------------------------------------------------------------------
+% Packages
+%-------------------------------------------------------------------------------
+\usepackage[PhD,wideblock]{usthesis}
+\usepackage{babel}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx} 
+\usepackage{color}
+\usepackage{eso-pic}
+\usepackage[separate-uncertainty=true]{siunitx}
+\usepackage{usbib}
+\usepackage{subcaption}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{hyperref} 
+\usepackage[nameinlink]{cleveref}
+
+%-------------------------------------------------------------------------------
+% Various settings
+%-------------------------------------------------------------------------------
+\bibliographystyle{usmeg-a}
+\newcommand*{\WaterMark}[2][0.15\paperwidth]{%
+    \AddToShipoutPicture*{\AtTextCenter{%
+        \parbox[c]{0pt}{\makebox[0pt][c]{%
+            \includegraphics[width=#1]{#2}}}}}}
+\setcounter{tocdepth}{2}
+\definecolor{lightblue}{RGB}{49,130,189}
+\hypersetup{
+	colorlinks=true,
+	allcolors=lightblue,
+	linktoc=page,
+	}
+
+%-------------------------------------------------------------------------------
+% Special units
+%-------------------------------------------------------------------------------
+\DeclareSIUnit\Molar{\textsc{m}}

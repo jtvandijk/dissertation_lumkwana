@@ -1,0 +1,101 @@
+% usthesis.ins
+% Copyright (C) 2003--2014 Danie Els
+%
+%          University of Stellenbosch Thesis bundle
+% -------------------------------------------------------------------
+%
+% This work may be distributed and/or modified under the conditions
+% of the LaTeX Project Public License, either version 1.3c of this
+% license or (at your option) any later version. The latest version
+% of this license is in
+%      http://www.latex-project.org/lppl.txt
+% and version 1.3c or later is part of all distributions of LaTeX
+% version 2008/05/04 or later.
+%
+% This work has the LPPL maintenance status 'maintained'.
+%
+% This Current Maintainer of this work is Danie Els (dnjels@sun.ac.za)
+%
+% This package consists of the files: usthesis.dtx
+%                                     usthesis.ins
+%                                     usthesis.afr
+%                                     usthesis.eng
+%              and the derived files: usthesis.cls
+%                                     usthesis.sty
+% -------------------------------------------------------------------
+
+
+\def\batchfile{usthesis.ins}
+\def\filedate{2014/11/28}
+\input docstrip.tex
+\keepsilent
+
+\declarepreamble\Class Copyright (C) 2003--2014 Danie Els
+
+-------------------------------------------------------------------
+        University of Stellenbosch Thesis Class
+-------------------------------------------------------------------
+This work may be distributed and/or modified under the conditions
+of the LaTeX Project Public License, either version 1.3c of this
+license or (at your option) any later version. The latest version
+of this license is in
+     http://www.latex-project.org/lppl.txt
+and version 1.3c or later is part of all distributions of LaTeX
+version 2008/05/04 or later.
+
+This work has the LPPL maintenance status 'maintained'.
+
+This Current Maintainer of this work is Danie Els (dnjels@sun.ac.za)
+-------------------------------------------------------------------
+
+\endpreamble
+
+\generate{%
+    \askforoverwritefalse
+    \usepreamble\Class
+    \file{usthesis.cls}{\from{usthesis.dtx}{cls}}}
+
+
+\declarepreamble\Mem
+Copyright (C) 2003--2014 Danie Els
+
+-------------------------------------------------------------------
+        University of Stellenbosch Thesis style
+        for use with Memoir
+-------------------------------------------------------------------
+This work may be distributed and/or modified under the conditions
+of the LaTeX Project Public License, either version 1.3c of this
+license or (at your option) any later version. The latest version
+of this license is in
+     http://www.latex-project.org/lppl.txt
+and version 1.3c or later is part of all distributions of LaTeX
+version 2008/05/04 or later.
+
+This work has the LPPL maintenance status 'maintained'.
+
+This Current Maintainer of this work is Danie Els (dnjels@sun.ac.za)
+-------------------------------------------------------------------
+
+\endpreamble
+\generate{%
+    \askforoverwritefalse
+    \usepreamble\Mem
+    \file{usthesis.sty}{\from{usthesis.dtx}{mem}}}
+
+\obeyspaces
+\Msg{**********************************************************}
+\Msg{*                                                        *}
+\Msg{* To finish the installation you have to move the        *}
+\Msg{* following files into a directory searched by TeX:      *}
+\Msg{*                                                        *}
+\Msg{*    usthesis.sty                                        *}
+\Msg{*    usthesis.cls                                        *}
+\Msg{*    usthesis.afr                                        *}
+\Msg{*    usthesis.eng                                        *}
+\Msg{*                                                        *}
+\Msg{* To produce the documentation run the file usthesis.dtx *}
+\Msg{* through LaTeX.                                         *}
+\Msg{*                                                        *}
+\Msg{* Happy TeXing!                                          *}
+\Msg{**********************************************************}
+\endbatchfile

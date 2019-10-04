@@ -1,0 +1,2290 @@
+\begin{thebibliography}{156}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\edef\AFRstr{\string afrikaans}
+\ifx\AFRstr\languagename
+   \input{usbib.afr}%
+ \else
+   \input{usbib.eng}%
+\fi
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Alirezaei}
+  \emph{\bbletal{}}(2010)\citenamefont{Alirezaei}, \citenamefont{Kemball},
+  \citenamefont{Flynn}, \citenamefont{Wood}, \citenamefont{Whitton}
+  \protect\BIBand{} \citenamefont{Kiosses}}]{Alirezaei2010}
+\bibnamefont{Alirezaei}, \bibfnamefont{M.}, \bibnamefont{Kemball},
+  \bibfnamefont{C.C.}, \bibnamefont{Flynn}, \bibfnamefont{C.T.},
+  \bibnamefont{Wood}, \bibfnamefont{M.R.}, \bibnamefont{Whitton},
+  \bibfnamefont{J.L.} \protect\BIBand{} \bibnamefont{Kiosses},
+  \bibfnamefont{W.B.} (2010).
+\newblock {Short-term fasting induces profound neuronal autophagy}.
+\newblock \emph{Autophagy}, \bblvol{}~6, \bblno{}~6, \bblpp{} 702--710.
+\newblock ISSN 15548627.
+
+\bibitem[{\citenamefont{Almeida} \emph{\bbletal{}}(2004)\citenamefont{Almeida},
+  \citenamefont{Moncada} \protect\BIBand{}
+  \citenamefont{Bola{\~{n}}os}}]{Almeida2004}
+\bibnamefont{Almeida}, \bibfnamefont{A.}, \bibnamefont{Moncada},
+  \bibfnamefont{S.} \protect\BIBand{} \bibnamefont{Bola{\~{n}}os},
+  \bibfnamefont{J.P.} (2004).
+\newblock {Nitric oxide switches on glycolysis through the AMP protein kinase
+  and 6-phosphofructo-2-kinase pathway}.
+\newblock \emph{Nature Cell Biology}, \bblvol{}~6, \bblno{}~1, \bblpp{} 45--51.
+\newblock ISSN 14657392.
+
+\bibitem[{\citenamefont{{Alzheimer's
+  Association}}(2014)}]{AlzheimersAssociation2014}
+\bibnamefont{{Alzheimer's Association}} (2014).
+\newblock {2014 Alzheimer's Disease Facts and Figures}.
+\newblock \emph{Alzheimer's {\&} Dementia}, \bblvol{}~10, \bblno{}~2, \bblpp{}
+  1--80.
+\newblock ISSN 15525260.
+
+\bibitem[{\citenamefont{Anand} \emph{\bbletal{}}(2014)\citenamefont{Anand},
+  \citenamefont{Gill} \protect\BIBand{} \citenamefont{Mahdi}}]{anand2014}
+\bibnamefont{Anand}, \bibfnamefont{R.}, \bibnamefont{Gill}, \bibfnamefont{K.D.}
+  \protect\BIBand{} \bibnamefont{Mahdi}, \bibfnamefont{A.A.} (2014).
+\newblock {Therapeutics of Alzheimer's disease: Past, present and future}.
+\newblock \emph{Neuropharmacology}, \bblvol{}~76, \bblpp{} 27--50.
+\newblock ISSN 0028-3908.
+
+\bibitem[{\citenamefont{Andrieu} \emph{\bbletal{}}(2015)\citenamefont{Andrieu},
+  \citenamefont{Coley}, \citenamefont{Lovestone}, \citenamefont{Aisen}
+  \protect\BIBand{} \citenamefont{Vellas}}]{andrieu2015}
+\bibnamefont{Andrieu}, \bibfnamefont{S.}, \bibnamefont{Coley},
+  \bibfnamefont{N.}, \bibnamefont{Lovestone}, \bibfnamefont{S.},
+  \bibnamefont{Aisen}, \bibfnamefont{P.S.} \protect\BIBand{}
+  \bibnamefont{Vellas}, \bibfnamefont{B.} (2015).
+\newblock Prevention of sporadic alzheimer's disease: lessons learned from
+  clinical trials and future directions.
+\newblock \emph{The Lancet Neurology}, \bblvol{}~14, \bblno{}~9, \bblpp{}
+  926--944.
+\newblock ISSN 1474-4422.
+
+\bibitem[{\citenamefont{Annear} \emph{\bbletal{}}(2015)\citenamefont{Annear},
+  \citenamefont{Toye}, \citenamefont{McInerney}, \citenamefont{Eccleston},
+  \citenamefont{Tranter}, \citenamefont{Elliott} \protect\BIBand{}
+  \citenamefont{Robinson}}]{Annear2015}
+\bibnamefont{Annear}, \bibfnamefont{M.J.}, \bibnamefont{Toye},
+  \bibfnamefont{C.}, \bibnamefont{McInerney}, \bibfnamefont{F.},
+  \bibnamefont{Eccleston}, \bibfnamefont{C.}, \bibnamefont{Tranter},
+  \bibfnamefont{B.}, \bibnamefont{Elliott}, \bibfnamefont{K.-E.}
+  \protect\BIBand{} \bibnamefont{Robinson}, \bibfnamefont{A.} (2015).
+\newblock {What should we know about dementia in the 21st century? A Delphi
+  consensus study.}
+\newblock \emph{BMC geriatrics}, \bblvol{}~15, \bblno{}~1, \bblp{}~5.
+\newblock ISSN 1471-2318.
+
+\bibitem[{\citenamefont{Ansari} \protect\BIBand{}
+  \citenamefont{Scheff}(2010)}]{Ansari2010}
+\bibnamefont{Ansari}, \bibfnamefont{M.A.} \protect\BIBand{}
+  \bibnamefont{Scheff}, \bibfnamefont{S.W.} (2010).
+\newblock {Oxidative stress in the progression of alzheimer disease in the
+  frontal cortex}.
+\newblock \emph{Journal of Neuropathology and Experimental Neurology},
+  \bblvol{}~69, \bblno{}~2, \bblpp{} 155--167.
+\newblock ISSN 00223069.
+
+\bibitem[{\citenamefont{Area-Gomez}
+  \emph{\bbletal{}}(2012)\citenamefont{Area-Gomez}, \citenamefont{{Del Carmen
+  Lara Castillo}}, \citenamefont{Tambini}, \citenamefont{Guardia-Laguarta},
+  \citenamefont{{De Groof}}, \citenamefont{Madra}, \citenamefont{Ikenouchi},
+  \citenamefont{Umeda}, \citenamefont{Bird}, \citenamefont{Sturley}
+  \protect\BIBand{} \citenamefont{Schon}}]{Area-Gomez2012}
+\bibnamefont{Area-Gomez}, \bibfnamefont{E.}, \bibnamefont{{Del Carmen Lara
+  Castillo}}, \bibfnamefont{M.}, \bibnamefont{Tambini}, \bibfnamefont{M.D.},
+  \bibnamefont{Guardia-Laguarta}, \bibfnamefont{C.}, \bibnamefont{{De Groof}},
+  \bibfnamefont{A.J.C.}, \bibnamefont{Madra}, \bibfnamefont{M.},
+  \bibnamefont{Ikenouchi}, \bibfnamefont{J.}, \bibnamefont{Umeda},
+  \bibfnamefont{M.}, \bibnamefont{Bird}, \bibfnamefont{T.D.},
+  \bibnamefont{Sturley}, \bibfnamefont{S.L.} \protect\BIBand{}
+  \bibnamefont{Schon}, \bibfnamefont{E.A.} (2012).
+\newblock {Upregulated function of mitochondria-associated ER membranes in
+  Alzheimer disease}.
+\newblock \emph{EMBO Journal}, \bblvol{}~31, \bblno{}~21, \bblpp{} 4106--4123.
+\newblock ISSN 02614189.
+
+\bibitem[{\citenamefont{Ashley} \emph{\bbletal{}}(2005)\citenamefont{Ashley},
+  \citenamefont{Packard}, \citenamefont{Ataman} \protect\BIBand{}
+  \citenamefont{Budnik}}]{Ashley2005}
+\bibnamefont{Ashley}, \bibfnamefont{J.}, \bibnamefont{Packard},
+  \bibfnamefont{M.}, \bibnamefont{Ataman}, \bibfnamefont{B.} \protect\BIBand{}
+  \bibnamefont{Budnik}, \bibfnamefont{V.} (2005).
+\newblock Fasciclin ii signals new synapse formation through amyloid precursor
+  protein and the scaffolding protein dx11/mint.
+\newblock \emph{Journal of Neuroscience}, \bblvol{}~25, \bblno{}~25, \bblpp{}
+  5943--5955.
+\newblock ISSN 0270-6474.
+
+\bibitem[{\citenamefont{Baldi} \emph{\bbletal{}}(2003)\citenamefont{Baldi},
+  \citenamefont{Lebailly}, \citenamefont{Mohammed-Brahim},
+  \citenamefont{Letenneur}, \citenamefont{Dartigues} \protect\BIBand{}
+  \citenamefont{Brochard}}]{Baldi2003}
+\bibnamefont{Baldi}, \bibfnamefont{I.}, \bibnamefont{Lebailly},
+  \bibfnamefont{P.}, \bibnamefont{Mohammed-Brahim}, \bibfnamefont{B.},
+  \bibnamefont{Letenneur}, \bibfnamefont{L.}, \bibnamefont{Dartigues},
+  \bibfnamefont{J.F.} \protect\BIBand{} \bibnamefont{Brochard},
+  \bibfnamefont{P.} (2003).
+\newblock {Neurodegenerative diseases and exposure to pesticides in the
+  elderly}.
+\newblock \emph{American Journal of Epidemiology}, \bblvol{} 157, \bblno{}~5,
+  \bblpp{} 409--414.
+\newblock ISSN 00029262.
+
+\bibitem[{\citenamefont{Baltazar}
+  \emph{\bbletal{}}(2014)\citenamefont{Baltazar},
+  \citenamefont{Dinis-Oliveira}, \citenamefont{{de Lourdes Bastos}},
+  \citenamefont{Tsatsakis}, \citenamefont{Duarte} \protect\BIBand{}
+  \citenamefont{Carvalho}}]{Baltazar2014}
+\bibnamefont{Baltazar}, \bibfnamefont{M.T.}, \bibnamefont{Dinis-Oliveira},
+  \bibfnamefont{R.J.}, \bibnamefont{{de Lourdes Bastos}}, \bibfnamefont{M.},
+  \bibnamefont{Tsatsakis}, \bibfnamefont{A.M.}, \bibnamefont{Duarte},
+  \bibfnamefont{J.A.} \protect\BIBand{} \bibnamefont{Carvalho},
+  \bibfnamefont{F.} (2014).
+\newblock {Pesticides exposure as etiological factors of Parkinson's disease
+  and other neurodegenerative diseases-A mechanistic approach}.
+\newblock \emph{Toxicology Letters}, \bblvol{} 230, \bblno{}~2, \bblpp{}
+  85--103.
+\newblock ISSN 18793169.
+
+\bibitem[{\citenamefont{B{\'{e}}langer}
+  \emph{\bbletal{}}(2011)\citenamefont{B{\'{e}}langer}, \citenamefont{Allaman}
+  \protect\BIBand{} \citenamefont{Magistretti}}]{Belanger2011}
+\bibnamefont{B{\'{e}}langer}, \bibfnamefont{M.}, \bibnamefont{Allaman},
+  \bibfnamefont{I.} \protect\BIBand{} \bibnamefont{Magistretti},
+  \bibfnamefont{P.J.} (2011).
+\newblock {Brain energy metabolism: Focus on Astrocyte-neuron metabolic
+  cooperation}.
+
+\bibitem[{\citenamefont{Ben-Yoseph}
+  \emph{\bbletal{}}(1996)\citenamefont{Ben-Yoseph}, \citenamefont{Boxer}
+  \protect\BIBand{} \citenamefont{Ross}}]{Ben-Yoseph1996}
+\bibnamefont{Ben-Yoseph}, \bibfnamefont{O.}, \bibnamefont{Boxer},
+  \bibfnamefont{P.A.} \protect\BIBand{} \bibnamefont{Ross}, \bibfnamefont{B.D.}
+  (1996).
+\newblock {Assessment of the Role of the Glutathione and Pentose Phosphate
+  Pathways in the Protection of Primary Cerebrocortical Cultures from Oxidative
+  Stress}.
+\newblock \emph{Journal of Neurochemistry}, \bblvol{}~66, \bblno{}~6, \bblpp{}
+  2329--2337.
+
+\bibitem[{\citenamefont{Berger} \emph{\bbletal{}}(2006)\citenamefont{Berger},
+  \citenamefont{Ravikumar}, \citenamefont{Menzies}, \citenamefont{Oroz},
+  \citenamefont{Underwood}, \citenamefont{Pangalos}, \citenamefont{Schmitt},
+  \citenamefont{Wullner}, \citenamefont{Evert}, \citenamefont{O'Kane}
+  \protect\BIBand{} \citenamefont{Rubinsztein}}]{Berger2006}
+\bibnamefont{Berger}, \bibfnamefont{Z.}, \bibnamefont{Ravikumar},
+  \bibfnamefont{B.}, \bibnamefont{Menzies}, \bibfnamefont{F.M.},
+  \bibnamefont{Oroz}, \bibfnamefont{L.G.}, \bibnamefont{Underwood},
+  \bibfnamefont{B.R.}, \bibnamefont{Pangalos}, \bibfnamefont{M.N.},
+  \bibnamefont{Schmitt}, \bibfnamefont{I.}, \bibnamefont{Wullner},
+  \bibfnamefont{U.}, \bibnamefont{Evert}, \bibfnamefont{B.O.},
+  \bibnamefont{O'Kane}, \bibfnamefont{C.J.} \protect\BIBand{}
+  \bibnamefont{Rubinsztein}, \bibfnamefont{D.C.} (2006).
+\newblock {Rapamycin alleviates toxicity of different aggregate-prone
+  proteins}.
+\newblock \emph{Human Molecular Genetics}, \bblvol{}~15, \bblno{}~3, \bblpp{}
+  433--442.
+\newblock ISSN 09646906.
+
+\bibitem[{\citenamefont{Bolisetty} \protect\BIBand{}
+  \citenamefont{Jaimes}(2013)}]{Bolisetty2013}
+\bibnamefont{Bolisetty}, \bibfnamefont{S.} \protect\BIBand{}
+  \bibnamefont{Jaimes}, \bibfnamefont{E.} (2013).
+\newblock {Mitochondria and Reactive Oxygen Species: Physiology and
+  Pathophysiology}.
+\newblock \emph{International Journal of Molecular Sciences}, \bblvol{}~14,
+  \bblno{}~3, \bblpp{} 6306--6344.
+\newblock ISSN 1422-0067.
+
+\bibitem[{\citenamefont{Bonda} \emph{\bbletal{}}(2010)\citenamefont{Bonda},
+  \citenamefont{Wang}, \citenamefont{Perry}, \citenamefont{Nunomura},
+  \citenamefont{Tabaton}, \citenamefont{Zhu} \protect\BIBand{}
+  \citenamefont{Smith}}]{Bonda2010}
+\bibnamefont{Bonda}, \bibfnamefont{D.J.}, \bibnamefont{Wang},
+  \bibfnamefont{X.}, \bibnamefont{Perry}, \bibfnamefont{G.},
+  \bibnamefont{Nunomura}, \bibfnamefont{A.}, \bibnamefont{Tabaton},
+  \bibfnamefont{M.}, \bibnamefont{Zhu}, \bibfnamefont{X.} \protect\BIBand{}
+  \bibnamefont{Smith}, \bibfnamefont{M.A.} (2010).
+\newblock {Oxidative stress in Alzheimer disease: A possibility for
+  prevention}.
+
+\bibitem[{\citenamefont{Borchelt}
+  \emph{\bbletal{}}(1996)\citenamefont{Borchelt}, \citenamefont{Thinakaran},
+  \citenamefont{Eckman}, \citenamefont{Lee}, \citenamefont{Davenport},
+  \citenamefont{Ratovitsky}, \citenamefont{Prada}, \citenamefont{Kim},
+  \citenamefont{Seekins}, \citenamefont{Yager}, \citenamefont{Slunt},
+  \citenamefont{Wang}, \citenamefont{Seeger}, \citenamefont{Levey},
+  \citenamefont{Gandy}, \citenamefont{Copeland}, \citenamefont{Jenkins},
+  \citenamefont{Price}, \citenamefont{Younkin} \protect\BIBand{}
+  \citenamefont{Sisodia}}]{Borchelt1996}
+\bibnamefont{Borchelt}, \bibfnamefont{D.R.}, \bibnamefont{Thinakaran},
+  \bibfnamefont{G.}, \bibnamefont{Eckman}, \bibfnamefont{C.B.},
+  \bibnamefont{Lee}, \bibfnamefont{M.K.}, \bibnamefont{Davenport},
+  \bibfnamefont{F.}, \bibnamefont{Ratovitsky}, \bibfnamefont{T.},
+  \bibnamefont{Prada}, \bibfnamefont{C.-M.}, \bibnamefont{Kim},
+  \bibfnamefont{G.}, \bibnamefont{Seekins}, \bibfnamefont{S.},
+  \bibnamefont{Yager}, \bibfnamefont{D.}, \bibnamefont{Slunt},
+  \bibfnamefont{H.H.}, \bibnamefont{Wang}, \bibfnamefont{R.},
+  \bibnamefont{Seeger}, \bibfnamefont{M.}, \bibnamefont{Levey},
+  \bibfnamefont{A.I.}, \bibnamefont{Gandy}, \bibfnamefont{S.E.},
+  \bibnamefont{Copeland}, \bibfnamefont{N.G.}, \bibnamefont{Jenkins},
+  \bibfnamefont{N.A.}, \bibnamefont{Price}, \bibfnamefont{D.L.},
+  \bibnamefont{Younkin}, \bibfnamefont{S.G.} \protect\BIBand{}
+  \bibnamefont{Sisodia}, \bibfnamefont{S.S.} (1996).
+\newblock Familial alzheimer's disease–linked presenilin 1 variants elevate
+  $a\beta$1–42/1–40 ratio in vitro and in vivo.
+\newblock \emph{Neuron}, \bblvol{}~17, \bblno{}~5, \bblpp{} 1005 -- 1013.
+\newblock ISSN 0896-6273.
+
+\bibitem[{\citenamefont{Boumezbeur}
+  \emph{\bbletal{}}(2010)\citenamefont{Boumezbeur}, \citenamefont{Petersen},
+  \citenamefont{Cline}, \citenamefont{Mason}, \citenamefont{Behar},
+  \citenamefont{Shulman} \protect\BIBand{}
+  \citenamefont{Rothman}}]{Boumezbeur2010}
+\bibnamefont{Boumezbeur}, \bibfnamefont{F.}, \bibnamefont{Petersen},
+  \bibfnamefont{K.F.}, \bibnamefont{Cline}, \bibfnamefont{G.W.},
+  \bibnamefont{Mason}, \bibfnamefont{G.F.}, \bibnamefont{Behar},
+  \bibfnamefont{K.L.}, \bibnamefont{Shulman}, \bibfnamefont{G.I.}
+  \protect\BIBand{} \bibnamefont{Rothman}, \bibfnamefont{D.L.} (2010).
+\newblock {The contribution of blood lactate to brain energy metabolism in
+  humans measured by dynamic 13C nuclear magnetic resonance spectroscopy}.
+\newblock \emph{Journal of Neuroscience}, \bblvol{}~30, \bblno{}~42, \bblpp{}
+  13983--13991.
+\newblock ISSN 02706474.
+
+\bibitem[{\citenamefont{Bouzier} \emph{\bbletal{}}(2000)\citenamefont{Bouzier},
+  \citenamefont{Thiaudiere}, \citenamefont{Biran}, \citenamefont{Rouland},
+  \citenamefont{Canioni} \protect\BIBand{} \citenamefont{Merle}}]{Bouzier2000}
+\bibnamefont{Bouzier}, \bibfnamefont{A.-K.}, \bibnamefont{Thiaudiere},
+  \bibfnamefont{E.}, \bibnamefont{Biran}, \bibfnamefont{M.},
+  \bibnamefont{Rouland}, \bibfnamefont{R.}, \bibnamefont{Canioni},
+  \bibfnamefont{P.} \protect\BIBand{} \bibnamefont{Merle}, \bibfnamefont{M.}
+  (2000).
+\newblock {The Metabolism of [3-13C]Lactate in the Rat Brain Is Specific of a
+  Pyruvate Carboxylase-Deprived Compartment}.
+\newblock \emph{Journal of Neurochemistry}, \bblvol{}~75, \bblno{}~2, \bblpp{}
+  480--486.
+\newblock ISSN 0022-3042.
+
+\bibitem[{\citenamefont{Bouzier-Sore}
+  \emph{\bbletal{}}(2006)\citenamefont{Bouzier-Sore}, \citenamefont{Voisin},
+  \citenamefont{Bouchaud}, \citenamefont{Bezancon}, \citenamefont{Franconi}
+  \protect\BIBand{} \citenamefont{Pellerin}}]{Bouzier-Sore2006}
+\bibnamefont{Bouzier-Sore}, \bibfnamefont{A.K.}, \bibnamefont{Voisin},
+  \bibfnamefont{P.}, \bibnamefont{Bouchaud}, \bibfnamefont{V.},
+  \bibnamefont{Bezancon}, \bibfnamefont{E.}, \bibnamefont{Franconi},
+  \bibfnamefont{J.M.} \protect\BIBand{} \bibnamefont{Pellerin},
+  \bibfnamefont{L.} (2006).
+\newblock {Competition between glucose and lactate as oxidative energy
+  substrates in both neurons and astrocytes: A comparative NMR study}.
+\newblock \emph{European Journal of Neuroscience}, \bblvol{}~24, \bblno{}~6,
+  \bblpp{} 1687--1694.
+\newblock ISSN 0953816X.
+
+\bibitem[{\citenamefont{Bradley} \emph{\bbletal{}}(2010)\citenamefont{Bradley},
+  \citenamefont{Markesbery} \protect\BIBand{}
+  \citenamefont{Lovell}}]{Bradley2010}
+\bibnamefont{Bradley}, \bibfnamefont{M.A.}, \bibnamefont{Markesbery},
+  \bibfnamefont{W.R.} \protect\BIBand{} \bibnamefont{Lovell},
+  \bibfnamefont{M.A.} (2010).
+\newblock {Increased levels of 4-hydroxynonenal and acrolein in the brain in
+  preclinical Alzheimer disease}.
+\newblock \emph{Free Radical Biology and Medicine}, \bblvol{}~48, \bblno{}~12,
+  \bblpp{} 1570--1576.
+\newblock ISSN 08915849.
+
+\bibitem[{\citenamefont{Burdick} \emph{\bbletal{}}(1992)\citenamefont{Burdick},
+  \citenamefont{Soreghan}, \citenamefont{Kwon}, \citenamefont{Kosmoski},
+  \citenamefont{Knauer}, \citenamefont{Henschen}, \citenamefont{Yates},
+  \citenamefont{Cotman} \protect\BIBand{} \citenamefont{Glabe}}]{Burdick1992}
+\bibnamefont{Burdick}, \bibfnamefont{D.}, \bibnamefont{Soreghan},
+  \bibfnamefont{B.}, \bibnamefont{Kwon}, \bibfnamefont{M.},
+  \bibnamefont{Kosmoski}, \bibfnamefont{J.}, \bibnamefont{Knauer},
+  \bibfnamefont{M.}, \bibnamefont{Henschen}, \bibfnamefont{A.},
+  \bibnamefont{Yates}, \bibfnamefont{J.}, \bibnamefont{Cotman},
+  \bibfnamefont{C.} \protect\BIBand{} \bibnamefont{Glabe}, \bibfnamefont{C.}
+  (1992).
+\newblock Assembly and aggregation properties of synthetic alzheimer's
+  a4/$\beta$ amyloid peptide analogs.
+\newblock \emph{Journal of Biological Chemistry}, \bblvol{} 267, \bblno{}~1,
+  \bblpp{} 546--554.
+
+\bibitem[{\citenamefont{Buttgereit} \protect\BIBand{}
+  \citenamefont{Brand}(1995)}]{Buttgereit1995}
+\bibnamefont{Buttgereit}, \bibfnamefont{F.} \protect\BIBand{}
+  \bibnamefont{Brand}, \bibfnamefont{M.D.} (1995).
+\newblock {A hierarchy of ATP-consuming processes in mammalian cells.}
+\newblock \emph{The Biochemical journal}, \bblpp{} 163--7.
+\newblock ISSN 0264-6021.
+
+\bibitem[{\citenamefont{Caberlotto} \protect\BIBand{}
+  \citenamefont{Nguyen}(2014)}]{Caberlotto2014}
+\bibnamefont{Caberlotto}, \bibfnamefont{L.} \protect\BIBand{}
+  \bibnamefont{Nguyen}, \bibfnamefont{T.-P.} (2014).
+\newblock {A systems biology investigation of neurodegenerative dementia
+  reveals a pivotal role of autophagy}.
+\newblock \emph{BMC Systems Biology}, \bblvol{}~8, \bblno{}~1, \bblp{}~65.
+\newblock ISSN 1752-0509.
+
+\bibitem[{\citenamefont{Caldwell}
+  \emph{\bbletal{}}(2015)\citenamefont{Caldwell}, \citenamefont{Yao}
+  \protect\BIBand{} \citenamefont{Brinton}}]{Caldwell2015}
+\bibnamefont{Caldwell}, \bibfnamefont{C.C.}, \bibnamefont{Yao},
+  \bibfnamefont{J.} \protect\BIBand{} \bibnamefont{Brinton},
+  \bibfnamefont{R.D.} (2015).
+\newblock {Targeting the Prodromal Stage of Alzheimer's Disease: Bioenergetic
+  and Mitochondrial Opportunities}.
+
+\bibitem[{\citenamefont{Calingasan}
+  \emph{\bbletal{}}(1999)\citenamefont{Calingasan}, \citenamefont{Uchida}
+  \protect\BIBand{} \citenamefont{Gibson}}]{Calingasan1999}
+\bibnamefont{Calingasan}, \bibfnamefont{N.Y.}, \bibnamefont{Uchida},
+  \bibfnamefont{K.} \protect\BIBand{} \bibnamefont{Gibson}, \bibfnamefont{G.E.}
+  (1999).
+\newblock {Protein-bound acrolein: A novel marker of oxidative stress in
+  Alzheimer's disease}.
+\newblock \emph{Journal of Neurochemistry}, \bblvol{}~72, \bblno{}~2, \bblpp{}
+  751--756.
+\newblock ISSN 00223042.
+
+\bibitem[{\citenamefont{Caselli} \protect\BIBand{}
+  \citenamefont{Reiman}(2013)}]{Caselli2013}
+\bibnamefont{Caselli}, \bibfnamefont{R.J.} \protect\BIBand{}
+  \bibnamefont{Reiman}, \bibfnamefont{E.M.} (2013).
+\newblock {Characterizing the preclinical stages of Alzheimer's disease and the
+  prospect of presymptomatic intervention.}
+\newblock \emph{Journal of Alzheimer's disease : JAD}, \bblvol{} 33 Suppl 1,
+  \bblno{} 0 1, \bblpp{} S405--16.
+\newblock ISSN 1875-8908.
+
+\bibitem[{\citenamefont{Caster} \protect\BIBand{}
+  \citenamefont{Kahn}(2013)}]{Caster2013}
+\bibnamefont{Caster}, \bibfnamefont{A.H.} \protect\BIBand{} \bibnamefont{Kahn},
+  \bibfnamefont{R.A.} (2013).
+\newblock Recruitment of the mint3 adaptor is necessary for export of the
+  amyloid precursor protein (app) from the golgi complex.
+\newblock \emph{Journal of Biological Chemistry}, \bblvol{} 288, \bblno{}~40,
+  \bblpp{} 28567--28580.
+
+\bibitem[{\citenamefont{Cataldo} \emph{\bbletal{}}(2000)\citenamefont{Cataldo},
+  \citenamefont{Peterhoff}, \citenamefont{Troncoso}, \citenamefont{Gomez-Isla},
+  \citenamefont{Hyman} \protect\BIBand{} \citenamefont{Nixon}}]{Cataldo2000}
+\bibnamefont{Cataldo}, \bibfnamefont{A.M.}, \bibnamefont{Peterhoff},
+  \bibfnamefont{C.M.}, \bibnamefont{Troncoso}, \bibfnamefont{J.C.},
+  \bibnamefont{Gomez-Isla}, \bibfnamefont{T.}, \bibnamefont{Hyman},
+  \bibfnamefont{B.T.} \protect\BIBand{} \bibnamefont{Nixon},
+  \bibfnamefont{R.A.} (2000).
+\newblock {Endocytic pathway abnormalities precede amyloid beta deposition in
+  sporadic Alzheimer's disease and Down syndrome: differential effects of APOE
+  genotype and presenilin mutations.}
+\newblock \emph{The American journal of pathology}, \bblvol{} 157, \bblno{}~1,
+  \bblpp{} 277--86.
+\newblock ISSN 0002-9440.
+
+\bibitem[{\citenamefont{Cavallucci}
+  \emph{\bbletal{}}(2012)\citenamefont{Cavallucci}, \citenamefont{D'Amelio}
+  \protect\BIBand{} \citenamefont{Cecconi}}]{Cavallucci2012}
+\bibnamefont{Cavallucci}, \bibfnamefont{V.}, \bibnamefont{D'Amelio},
+  \bibfnamefont{M.} \protect\BIBand{} \bibnamefont{Cecconi}, \bibfnamefont{F.}
+  (2012).
+\newblock {A$\beta$ Toxicity in Alzheimer's Disease}.
+\newblock \emph{Molecular Neurobiology}, \bblvol{}~45, \bblno{}~2, \bblpp{}
+  366--378.
+\newblock ISSN 1559-1182.
+
+\bibitem[{\citenamefont{Cenini} \emph{\bbletal{}}(2019)\citenamefont{Cenini},
+  \citenamefont{Lloret} \protect\BIBand{} \citenamefont{Cascella}}]{Cenini2019}
+\bibnamefont{Cenini}, \bibfnamefont{G.}, \bibnamefont{Lloret},
+  \bibfnamefont{A.} \protect\BIBand{} \bibnamefont{Cascella}, \bibfnamefont{R.}
+  (2019).
+\newblock {Oxidative Stress in Neurodegenerative Diseases: From a Mitochondrial
+  Point of View}.
+
+\bibitem[{\citenamefont{Chandrasekaran}
+  \emph{\bbletal{}}(1994)\citenamefont{Chandrasekaran},
+  \citenamefont{Giordano}, \citenamefont{Brady}, \citenamefont{Stoll},
+  \citenamefont{Martin} \protect\BIBand{}
+  \citenamefont{Rapoport}}]{Chandrasekaran1994}
+\bibnamefont{Chandrasekaran}, \bibfnamefont{K.}, \bibnamefont{Giordano},
+  \bibfnamefont{T.}, \bibnamefont{Brady}, \bibfnamefont{D.R.},
+  \bibnamefont{Stoll}, \bibfnamefont{J.}, \bibnamefont{Martin},
+  \bibfnamefont{L.J.} \protect\BIBand{} \bibnamefont{Rapoport},
+  \bibfnamefont{S.I.} (1994).
+\newblock {Impairment in mitochondrial cytochrome oxidase gene expression in
+  Alzheimer disease}.
+\newblock \emph{Molecular Brain Research}, \bblvol{}~24, \bblno{} 1-4, \bblpp{}
+  336--340.
+\newblock ISSN 0169328X.
+
+\bibitem[{\citenamefont{Chen} \emph{\bbletal{}}(2012)\citenamefont{Chen},
+  \citenamefont{Yoo}, \citenamefont{Na}, \citenamefont{Liu} \protect\BIBand{}
+  \citenamefont{Ran}}]{Chen2012}
+\bibnamefont{Chen}, \bibfnamefont{L.}, \bibnamefont{Yoo}, \bibfnamefont{S.E.},
+  \bibnamefont{Na}, \bibfnamefont{R.}, \bibnamefont{Liu}, \bibfnamefont{Y.}
+  \protect\BIBand{} \bibnamefont{Ran}, \bibfnamefont{Q.} (2012).
+\newblock {Cognitive impairment and increased A$\beta$ levels induced by
+  paraquat exposure are attenuated by enhanced removal of mitochondrial H2O2}.
+\newblock \emph{Neurobiology of Aging}, \bblvol{}~33, \bblno{}~2, \bblpp{}
+  432.e15--432.e26.
+\newblock ISSN 15581497.
+
+\bibitem[{\citenamefont{{Chen}} \emph{\bbletal{}}(2015)\citenamefont{{Chen}},
+  \citenamefont{{Liang}} \protect\BIBand{} \citenamefont{{Dong}}}]{Chen2015}
+\bibnamefont{{Chen}}, \bibfnamefont{M.}, \bibnamefont{{Liang}},
+  \bibfnamefont{B.} \protect\BIBand{} \bibnamefont{{Dong}}, \bibfnamefont{M.}
+  (2015).
+\newblock A semidefinite relaxation approach to mobile cloud offloading with
+  computing access point.
+\newblock \capitalize\bblin{}: \emph{2015 IEEE 16th International Workshop on
+  Signal Processing Advances in Wireless Communications (SPAWC)}, \bblpp{}
+  186--190.
+
+\bibitem[{\citenamefont{Ch{\'{e}}telat}(2013)}]{Chetelat2013}
+\bibnamefont{Ch{\'{e}}telat}, \bibfnamefont{G.} (2013).
+\newblock {A$\beta$-independent processes—rethinking preclinical AD}.
+\newblock \emph{Nature Reviews Neurology}, \bblvol{}~9, \bblno{}~3, \bblpp{}
+  123--124.
+\newblock ISSN 1759-4766.
+
+\bibitem[{\citenamefont{Cobley} \emph{\bbletal{}}(2018)\citenamefont{Cobley},
+  \citenamefont{Fiorello} \protect\BIBand{} \citenamefont{Bailey}}]{Cobley2018}
+\bibnamefont{Cobley}, \bibfnamefont{J.N.}, \bibnamefont{Fiorello},
+  \bibfnamefont{M.L.} \protect\BIBand{} \bibnamefont{Bailey},
+  \bibfnamefont{D.M.} (2018).
+\newblock 13 reasons why the brain is susceptible to oxidative stress.
+
+\bibitem[{\citenamefont{Cole} \protect\BIBand{}
+  \citenamefont{Vassar}(2007)}]{Cole2007}
+\bibnamefont{Cole}, \bibfnamefont{S.L.} \protect\BIBand{} \bibnamefont{Vassar},
+  \bibfnamefont{R.} (2007).
+\newblock {The Alzheimer's disease $\beta$-secretase enzyme, BACE1}.
+\newblock \emph{Molecular Neurodegeneration}, \bblvol{}~2, \bblno{}~1,
+  \bblp{}~22.
+\newblock ISSN 1750-1326.
+
+\bibitem[{\citenamefont{Cottrell}
+  \emph{\bbletal{}}(2001)\citenamefont{Cottrell}, \citenamefont{Blakely},
+  \citenamefont{Johnson}, \citenamefont{Ince} \protect\BIBand{}
+  \citenamefont{Turnbull}}]{Cottrell2001}
+\bibnamefont{Cottrell}, \bibfnamefont{D.A.}, \bibnamefont{Blakely},
+  \bibfnamefont{E.L.}, \bibnamefont{Johnson}, \bibfnamefont{M.A.},
+  \bibnamefont{Ince}, \bibfnamefont{P.G.} \protect\BIBand{}
+  \bibnamefont{Turnbull}, \bibfnamefont{D.M.} (2001).
+\newblock {Mitochondrial enzyme-deficient hippocampal neurons and choroidal
+  cells in AD}.
+\newblock \emph{Neurology}, \bblvol{}~57, \bblno{}~2, \bblpp{} 260--264.
+\newblock ISSN 00283878.
+
+\bibitem[{\citenamefont{Cruts} \protect\BIBand{}
+  \citenamefont{Van~Broeckhoven}(1998)}]{Cruts1998}
+\bibnamefont{Cruts}, \bibfnamefont{M.} \protect\BIBand{}
+  \bibnamefont{Van~Broeckhoven}, \bibfnamefont{C.} (1998).
+\newblock Presenilin mutations in alzheimer's disease.
+\newblock \emph{Human Mutation}, \bblvol{}~11, \bblno{}~3, \bblpp{} 183--190.
+
+\bibitem[{\citenamefont{Dasuri} \emph{\bbletal{}}(2013)\citenamefont{Dasuri},
+  \citenamefont{Zhang} \protect\BIBand{} \citenamefont{Keller}}]{Dasuri2013}
+\bibnamefont{Dasuri}, \bibfnamefont{K.}, \bibnamefont{Zhang}, \bibfnamefont{L.}
+  \protect\BIBand{} \bibnamefont{Keller}, \bibfnamefont{J.N.} (2013).
+\newblock {Oxidative stress, neurodegeneration, and the balance of protein
+  degradation and protein synthesis}.
+
+\bibitem[{\citenamefont{DeKosky} \protect\BIBand{}
+  \citenamefont{Scheff}(1990)}]{dekosky1990}
+\bibnamefont{DeKosky}, \bibfnamefont{S.T.} \protect\BIBand{}
+  \bibnamefont{Scheff}, \bibfnamefont{S.W.} (1990).
+\newblock {Synapse loss in frontal cortex biopsies in Alzheimer's disease:
+  Correlation with cognitive severity}.
+\newblock \emph{Annals of Neurology}, \bblvol{}~27, \bblno{}~5, \bblpp{}
+  457--464.
+\newblock ISSN 0364-5134.
+
+\bibitem[{\citenamefont{{Di Santo}} \emph{\bbletal{}}(2013)\citenamefont{{Di
+  Santo}}, \citenamefont{Prinelli}, \citenamefont{Adorni},
+  \citenamefont{Caltagirone} \protect\BIBand{}
+  \citenamefont{Musicco}}]{disanto2013}
+\bibnamefont{{Di Santo}}, \bibfnamefont{S.G.}, \bibnamefont{Prinelli},
+  \bibfnamefont{F.}, \bibnamefont{Adorni}, \bibfnamefont{F.},
+  \bibnamefont{Caltagirone}, \bibfnamefont{C.} \protect\BIBand{}
+  \bibnamefont{Musicco}, \bibfnamefont{M.} (2013).
+\newblock {A Meta-Analysis of the Efficacy of Donepezil, Rivastigmine,
+  Galantamine, and Memantine in Relation to Severity of Alzheimer's Disease}.
+\newblock \emph{Journal of Alzheimer's Disease}, \bblvol{}~35, \bblno{}~2,
+  \bblpp{} 349--361.
+\newblock ISSN 18758908.
+
+\bibitem[{\citenamefont{Dienel}(2012)}]{Dienel2012}
+\bibnamefont{Dienel}, \bibfnamefont{G.A.} (2012).
+\newblock {Brain lactate metabolism: The discoveries and the controversies}.
+
+\bibitem[{\citenamefont{Dorszewska}
+  \emph{\bbletal{}}(2016)\citenamefont{Dorszewska}, \citenamefont{Prendecki},
+  \citenamefont{Oczkowska}, \citenamefont{Dezor} \protect\BIBand{}
+  \citenamefont{Kozubski}}]{Dorszewska2016}
+\bibnamefont{Dorszewska}, \bibfnamefont{J.}, \bibnamefont{Prendecki},
+  \bibfnamefont{M.}, \bibnamefont{Oczkowska}, \bibfnamefont{A.},
+  \bibnamefont{Dezor}, \bibfnamefont{M.} \protect\BIBand{}
+  \bibnamefont{Kozubski}, \bibfnamefont{W.} (2016).
+\newblock {Molecular Basis of Familial and Sporadic Alzheimer's Disease}.
+\newblock \emph{Current Alzheimer Research}, \bblvol{}~13, \bblno{}~9, \bblpp{}
+  952--963.
+\newblock ISSN 15672050.
+
+\bibitem[{\citenamefont{Drechsel} \protect\BIBand{}
+  \citenamefont{Patel}(2008)}]{Drechsel2008}
+\bibnamefont{Drechsel}, \bibfnamefont{D.A.} \protect\BIBand{}
+  \bibnamefont{Patel}, \bibfnamefont{M.} (2008).
+\newblock {Role of reactive oxygen species in the neurotoxicity of
+  environmental agents implicated in Parkinson's disease.}
+\newblock \emph{Free radical biology {\&} medicine}, \bblvol{}~44, \bblno{}~11,
+  \bblpp{} 1873--86.
+\newblock ISSN 0891-5849.
+
+\bibitem[{\citenamefont{Du} \emph{\bbletal{}}(2008)\citenamefont{Du},
+  \citenamefont{Guo}, \citenamefont{Fang}, \citenamefont{Chen},
+  \citenamefont{{A Sosunov}}, \citenamefont{{M McKhann}}, \citenamefont{Yan},
+  \citenamefont{Wang}, \citenamefont{Zhang}, \citenamefont{Molkentin},
+  \citenamefont{Gunn-Moore}, \citenamefont{Vonsattel}, \citenamefont{Arancio},
+  \citenamefont{Chen} \protect\BIBand{} \citenamefont{Yan}}]{Du2008}
+\bibnamefont{Du}, \bibfnamefont{H.}, \bibnamefont{Guo}, \bibfnamefont{L.},
+  \bibnamefont{Fang}, \bibfnamefont{F.}, \bibnamefont{Chen}, \bibfnamefont{D.},
+  \bibnamefont{{A Sosunov}}, \bibfnamefont{A.}, \bibnamefont{{M McKhann}},
+  \bibfnamefont{G.}, \bibnamefont{Yan}, \bibfnamefont{Y.}, \bibnamefont{Wang},
+  \bibfnamefont{C.}, \bibnamefont{Zhang}, \bibfnamefont{H.},
+  \bibnamefont{Molkentin}, \bibfnamefont{J.D.}, \bibnamefont{Gunn-Moore},
+  \bibfnamefont{F.J.}, \bibnamefont{Vonsattel}, \bibfnamefont{J.P.},
+  \bibnamefont{Arancio}, \bibfnamefont{O.}, \bibnamefont{Chen},
+  \bibfnamefont{J.X.} \protect\BIBand{} \bibnamefont{Yan}, \bibfnamefont{S.D.}
+  (2008).
+\newblock {Cyclophilin D deficiency attenuates mitochondrial and neuronal
+  perturbation and ameliorates learning and memory in Alzheimer's disease}.
+\newblock \emph{Nature Medicine}, \bblvol{}~14, \bblno{}~10, \bblpp{}
+  1097--1105.
+\newblock ISSN 10788956.
+
+\bibitem[{\citenamefont{Ferreiro}
+  \emph{\bbletal{}}(2008)\citenamefont{Ferreiro}, \citenamefont{Oliveira}
+  \protect\BIBand{} \citenamefont{Pereira}}]{Ferreiro2008}
+\bibnamefont{Ferreiro}, \bibfnamefont{E.}, \bibnamefont{Oliveira},
+  \bibfnamefont{C.R.} \protect\BIBand{} \bibnamefont{Pereira},
+  \bibfnamefont{C.M.} (2008).
+\newblock {The release of calcium from the endoplasmic reticulum induced by
+  amyloid-beta and prion peptides activates the mitochondrial apoptotic
+  pathway}.
+\newblock \emph{Neurobiology of Disease}, \bblvol{}~30, \bblno{}~3, \bblpp{}
+  331--342.
+\newblock ISSN 09699961.
+
+\bibitem[{\citenamefont{Ferri} \emph{\bbletal{}}(2005)\citenamefont{Ferri},
+  \citenamefont{Prince}, \citenamefont{Brayne}, \citenamefont{Brodaty},
+  \citenamefont{Fratiglioni}, \citenamefont{Ganguli}, \citenamefont{Hall},
+  \citenamefont{Hasegawa}, \citenamefont{Hendrie}, \citenamefont{Huang},
+  \citenamefont{Jorm}, \citenamefont{Mathers}, \citenamefont{Menezes},
+  \citenamefont{Rimmer} \protect\BIBand{} \citenamefont{Scazufca}}]{Ferri2005}
+\bibnamefont{Ferri}, \bibfnamefont{C.P.}, \bibnamefont{Prince},
+  \bibfnamefont{M.}, \bibnamefont{Brayne}, \bibfnamefont{C.},
+  \bibnamefont{Brodaty}, \bibfnamefont{H.}, \bibnamefont{Fratiglioni},
+  \bibfnamefont{L.}, \bibnamefont{Ganguli}, \bibfnamefont{M.},
+  \bibnamefont{Hall}, \bibfnamefont{K.}, \bibnamefont{Hasegawa},
+  \bibfnamefont{K.}, \bibnamefont{Hendrie}, \bibfnamefont{H.},
+  \bibnamefont{Huang}, \bibfnamefont{Y.}, \bibnamefont{Jorm},
+  \bibfnamefont{A.}, \bibnamefont{Mathers}, \bibfnamefont{C.},
+  \bibnamefont{Menezes}, \bibfnamefont{P.R.}, \bibnamefont{Rimmer},
+  \bibfnamefont{E.} \protect\BIBand{} \bibnamefont{Scazufca}, \bibfnamefont{M.}
+  (2005).
+\newblock {Global prevalence of dementia: a Delphi consensus study}.
+\newblock \emph{The Lancet}, \bblvol{} 366, \bblno{} 9503, \bblpp{} 2112--2117.
+\newblock ISSN 01406736.
+
+\bibitem[{\citenamefont{Funato} \emph{\bbletal{}}(1998)\citenamefont{Funato},
+  \citenamefont{Yoshimura}, \citenamefont{Kusui}, \citenamefont{Tamaoka},
+  \citenamefont{Ishikawa}, \citenamefont{Ohkoshi}, \citenamefont{Namekata},
+  \citenamefont{Okeda} \protect\BIBand{} \citenamefont{Ihara}}]{Funato1998}
+\bibnamefont{Funato}, \bibfnamefont{H.}, \bibnamefont{Yoshimura},
+  \bibfnamefont{M.}, \bibnamefont{Kusui}, \bibfnamefont{K.},
+  \bibnamefont{Tamaoka}, \bibfnamefont{A.}, \bibnamefont{Ishikawa},
+  \bibfnamefont{K.}, \bibnamefont{Ohkoshi}, \bibfnamefont{N.},
+  \bibnamefont{Namekata}, \bibfnamefont{K.}, \bibnamefont{Okeda},
+  \bibfnamefont{R.} \protect\BIBand{} \bibnamefont{Ihara}, \bibfnamefont{Y.}
+  (1998).
+\newblock Quantitation of amyloid $\beta$-protein ($a\beta$) in the cortex
+  during aging and in alzheimer's disease.
+\newblock \emph{American Journal of Pathology}, \bblvol{} 152, \bblno{}~6,
+  \bblpp{} 1633--1640.
+
+\bibitem[{\citenamefont{Gandhi} \protect\BIBand{}
+  \citenamefont{Abramov}(2012)}]{Gandhi2012}
+\bibnamefont{Gandhi}, \bibfnamefont{S.} \protect\BIBand{}
+  \bibnamefont{Abramov}, \bibfnamefont{A.Y.} (2012).
+\newblock {Mechanism of oxidative stress in neurodegeneration}.
+\newblock \emph{Oxidative Medicine and Cellular Longevity}, \bblvol{} 2012,
+  \bblpp{} 1--11.
+\newblock ISSN 19420994.
+
+\bibitem[{\citenamefont{Gandy} \emph{\bbletal{}}(1994)\citenamefont{Gandy},
+  \citenamefont{Caporaso}, \citenamefont{Buxbaum}, \citenamefont{Frangione}
+  \protect\BIBand{} \citenamefont{Greengard}}]{Gandy1994}
+\bibnamefont{Gandy}, \bibfnamefont{S.}, \bibnamefont{Caporaso},
+  \bibfnamefont{G.}, \bibnamefont{Buxbaum}, \bibfnamefont{J.},
+  \bibnamefont{Frangione}, \bibfnamefont{B.} \protect\BIBand{}
+  \bibnamefont{Greengard}, \bibfnamefont{P.} (1994).
+\newblock App processing, $a\beta$-amyloidogenesis, and the pathogenesis of
+  alzheimer's disease.
+\newblock \emph{Neurobiology of Aging}, \bblvol{}~15, \bblno{}~2, \bblpp{} 253
+  -- 256.
+\newblock ISSN 0197-4580.
+
+\bibitem[{\citenamefont{Garc{\'{i}}a-Nogales}
+  \emph{\bbletal{}}(2003)\citenamefont{Garc{\'{i}}a-Nogales},
+  \citenamefont{Almeida} \protect\BIBand{}
+  \citenamefont{Bola{\~{n}}os}}]{Garcia-Nogales2003}
+\bibnamefont{Garc{\'{i}}a-Nogales}, \bibfnamefont{P.}, \bibnamefont{Almeida},
+  \bibfnamefont{A.} \protect\BIBand{} \bibnamefont{Bola{\~{n}}os},
+  \bibfnamefont{J.P.} (2003).
+\newblock {Peroxynitrite protects neurons against nitric oxide-mediated
+  apoptosis: A key role for glucose-6-phosphate dehydrogenase activity in
+  neuroprotection}.
+\newblock \emph{Journal of Biological Chemistry}, \bblvol{} 278, \bblno{}~2,
+  \bblpp{} 864--874.
+\newblock ISSN 00219258.
+
+\bibitem[{\citenamefont{Golde} \emph{\bbletal{}}(1992)\citenamefont{Golde},
+  \citenamefont{Estus}, \citenamefont{Younkin}, \citenamefont{Selkoe}
+  \protect\BIBand{} \citenamefont{Younkin}}]{Golde1992}
+\bibnamefont{Golde}, \bibfnamefont{T.}, \bibnamefont{Estus}, \bibfnamefont{S.},
+  \bibnamefont{Younkin}, \bibfnamefont{L.}, \bibnamefont{Selkoe},
+  \bibfnamefont{D.} \protect\BIBand{} \bibnamefont{Younkin}, \bibfnamefont{S.}
+  (1992).
+\newblock Processing of the amyloid protein precursor to potentially
+  amyloidogenic derivatives.
+\newblock \emph{Science}, \bblvol{} 255, \bblno{} 5045, \bblpp{} 728--730.
+
+\bibitem[{\citenamefont{Gouras} \emph{\bbletal{}}(2000)\citenamefont{Gouras},
+  \citenamefont{Tsai}, \citenamefont{Naslund}, \citenamefont{Vincent},
+  \citenamefont{Edgar}, \citenamefont{Checler}, \citenamefont{Greenfield},
+  \citenamefont{Haroutunian}, \citenamefont{Buxbaum}, \citenamefont{Xu},
+  \citenamefont{Greengard} \protect\BIBand{}
+  \citenamefont{Relkin}}]{Gouras2000}
+\bibnamefont{Gouras}, \bibfnamefont{G.K.}, \bibnamefont{Tsai},
+  \bibfnamefont{J.}, \bibnamefont{Naslund}, \bibfnamefont{J.},
+  \bibnamefont{Vincent}, \bibfnamefont{B.}, \bibnamefont{Edgar},
+  \bibfnamefont{M.}, \bibnamefont{Checler}, \bibfnamefont{F.},
+  \bibnamefont{Greenfield}, \bibfnamefont{J.P.}, \bibnamefont{Haroutunian},
+  \bibfnamefont{V.}, \bibnamefont{Buxbaum}, \bibfnamefont{J.D.},
+  \bibnamefont{Xu}, \bibfnamefont{H.}, \bibnamefont{Greengard},
+  \bibfnamefont{P.} \protect\BIBand{} \bibnamefont{Relkin}, \bibfnamefont{N.R.}
+  (2000).
+\newblock Intraneuronal $a\beta$42 accumulation in human brain.
+\newblock \emph{The American Journal of Pathology}, \bblvol{} 156, \bblno{}~1,
+  \bblpp{} 15 -- 20.
+\newblock ISSN 0002-9440.
+
+\bibitem[{\citenamefont{Gravina} \emph{\bbletal{}}(1995)\citenamefont{Gravina},
+  \citenamefont{Ho}, \citenamefont{Eckman}, \citenamefont{Long},
+  \citenamefont{Otvos~Jr.}, \citenamefont{Younkin}, \citenamefont{Suzuki}
+  \protect\BIBand{} \citenamefont{Younkin}}]{Gravina1995}
+\bibnamefont{Gravina}, \bibfnamefont{S.}, \bibnamefont{Ho}, \bibfnamefont{L.},
+  \bibnamefont{Eckman}, \bibfnamefont{C.}, \bibnamefont{Long},
+  \bibfnamefont{K.}, \bibnamefont{Otvos~Jr.}, \bibfnamefont{L.},
+  \bibnamefont{Younkin}, \bibfnamefont{L.}, \bibnamefont{Suzuki},
+  \bibfnamefont{N.} \protect\BIBand{} \bibnamefont{Younkin}, \bibfnamefont{S.}
+  (1995).
+\newblock Amyloid $\beta$ protein ($a\beta$) in alzheimer's disease brain.
+  biochemical and immunocytochemical analysis with antibodies specific for
+  forms ending at $a\beta$40 or $a\beta$42(43).
+\newblock \emph{Journal of Biological Chemistry}, \bblvol{} 270, \bblno{}~13,
+  \bblpp{} 7013--7016.
+
+\bibitem[{\citenamefont{Hardy}(2009)}]{Hardy2009}
+\bibnamefont{Hardy}, \bibfnamefont{J.} (2009).
+\newblock {The amyloid hypothesis for Alzheimer's disease: A critical
+  reappraisal}.
+
+\bibitem[{\citenamefont{Hardy} \protect\BIBand{}
+  \citenamefont{Higgins}(1992)}]{Hardy1992}
+\bibnamefont{Hardy}, \bibfnamefont{J.A.} \protect\BIBand{}
+  \bibnamefont{Higgins}, \bibfnamefont{G.A.} (1992).
+\newblock {Alzheimer's Disease: The Amyloid Cascade Hypothesis}.
+\newblock \emph{Science}, \bblvol{} 256, \bblno{} 5054.
+
+\bibitem[{\citenamefont{Hayden} \emph{\bbletal{}}(2010)\citenamefont{Hayden},
+  \citenamefont{Norton}, \citenamefont{Darcey}, \citenamefont{{\O}stbye},
+  \citenamefont{Zandi}, \citenamefont{Breitner} \protect\BIBand{}
+  \citenamefont{Welsh-Bohmer}}]{Hayden2010}
+\bibnamefont{Hayden}, \bibfnamefont{K.M.}, \bibnamefont{Norton},
+  \bibfnamefont{M.C.}, \bibnamefont{Darcey}, \bibfnamefont{D.},
+  \bibnamefont{{\O}stbye}, \bibfnamefont{T.}, \bibnamefont{Zandi},
+  \bibfnamefont{P.P.}, \bibnamefont{Breitner}, \bibfnamefont{J.C.}
+  \protect\BIBand{} \bibnamefont{Welsh-Bohmer}, \bibfnamefont{K.A.} (2010).
+\newblock {Occupational exposure to pesticides increases the risk of incident
+  AD: The Cache County Study}.
+\newblock \emph{Neurology}, \bblvol{}~74, \bblno{}~19, \bblpp{} 1524--1530.
+\newblock ISSN 00283878.
+
+\bibitem[{\citenamefont{Hebron} \emph{\bbletal{}}(2013)\citenamefont{Hebron},
+  \citenamefont{Lonskaya} \protect\BIBand{} \citenamefont{Moussa}}]{Hebron2013}
+\bibnamefont{Hebron}, \bibfnamefont{M.L.}, \bibnamefont{Lonskaya},
+  \bibfnamefont{I.} \protect\BIBand{} \bibnamefont{Moussa},
+  \bibfnamefont{C.E.-H.} (2013).
+\newblock {Nilotinib reverses loss of dopamine neurons and improves motor
+  behavior via autophagic degradation of $\alpha$-synuclein in Parkinson's
+  disease models.}
+\newblock \emph{Human molecular genetics}, \bblvol{}~22, \bblno{}~16, \bblpp{}
+  3315--28.
+\newblock ISSN 1460-2083.
+
+\bibitem[{\citenamefont{Herreman}
+  \emph{\bbletal{}}(2000)\citenamefont{Herreman}, \citenamefont{Serneels},
+  \citenamefont{Annaert}, \citenamefont{Collen}, \citenamefont{Schoonjans}
+  \protect\BIBand{} \citenamefont{De~Strooper}}]{Herreman2000}
+\bibnamefont{Herreman}, \bibfnamefont{A.}, \bibnamefont{Serneels},
+  \bibfnamefont{L.}, \bibnamefont{Annaert}, \bibfnamefont{W.},
+  \bibnamefont{Collen}, \bibfnamefont{D.}, \bibnamefont{Schoonjans},
+  \bibfnamefont{L.} \protect\BIBand{} \bibnamefont{De~Strooper},
+  \bibfnamefont{B.} (2000).
+\newblock Total inactivation of $\gamma$-secretase activity in
+  presenilin-deficient embryonic stem cells.
+\newblock \emph{Nature Cell Biology}, \bblvol{}~2, \bblno{}~7, \bblpp{}
+  461--462.
+
+\bibitem[{\citenamefont{Herrero-Mendez}
+  \emph{\bbletal{}}(2009)\citenamefont{Herrero-Mendez}, \citenamefont{Almeida},
+  \citenamefont{Fern{\'{a}}ndez}, \citenamefont{Maestre},
+  \citenamefont{Moncada} \protect\BIBand{}
+  \citenamefont{Bola{\~{n}}os}}]{Herrero-Mendez2009}
+\bibnamefont{Herrero-Mendez}, \bibfnamefont{A.}, \bibnamefont{Almeida},
+  \bibfnamefont{A.}, \bibnamefont{Fern{\'{a}}ndez}, \bibfnamefont{E.},
+  \bibnamefont{Maestre}, \bibfnamefont{C.}, \bibnamefont{Moncada},
+  \bibfnamefont{S.} \protect\BIBand{} \bibnamefont{Bola{\~{n}}os},
+  \bibfnamefont{J.P.} (2009).
+\newblock {The bioenergetic and antioxidant status of neurons is controlled by
+  continuous degradation of a key glycolytic enzyme by APC/C-Cdh1}.
+\newblock \emph{Nature Cell Biology}, \bblvol{}~11, \bblno{}~6, \bblpp{}
+  747--752.
+\newblock ISSN 14657392.
+
+\bibitem[{\citenamefont{Ito} \emph{\bbletal{}}(1994)\citenamefont{Ito},
+  \citenamefont{Oka}, \citenamefont{Etcheberrigaray}, \citenamefont{Nelson},
+  \citenamefont{McPhie}, \citenamefont{Tofel-Grehl}, \citenamefont{Gibson}
+  \protect\BIBand{} \citenamefont{Alkon}}]{Ito1994}
+\bibnamefont{Ito}, \bibfnamefont{E.}, \bibnamefont{Oka}, \bibfnamefont{K.},
+  \bibnamefont{Etcheberrigaray}, \bibfnamefont{R.}, \bibnamefont{Nelson},
+  \bibfnamefont{T.J.}, \bibnamefont{McPhie}, \bibfnamefont{D.L.},
+  \bibnamefont{Tofel-Grehl}, \bibfnamefont{B.}, \bibnamefont{Gibson},
+  \bibfnamefont{G.E.} \protect\BIBand{} \bibnamefont{Alkon},
+  \bibfnamefont{D.L.} (1994).
+\newblock {Internal Ca2+ mobilization is altered in fibroblasts from patients
+  with Alzheimer disease}.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, \bblvol{}~91, \bblno{}~2, \bblpp{} 534--538.
+\newblock ISSN 00278424.
+
+\bibitem[{\citenamefont{Itoh} \emph{\bbletal{}}(2003)\citenamefont{Itoh},
+  \citenamefont{Esaki}, \citenamefont{Shimoji}, \citenamefont{Cook},
+  \citenamefont{Law}, \citenamefont{Kaufman} \protect\BIBand{}
+  \citenamefont{Sokoloff}}]{Itoh2003}
+\bibnamefont{Itoh}, \bibfnamefont{Y.}, \bibnamefont{Esaki}, \bibfnamefont{T.},
+  \bibnamefont{Shimoji}, \bibfnamefont{K.}, \bibnamefont{Cook},
+  \bibfnamefont{M.}, \bibnamefont{Law}, \bibfnamefont{M.J.},
+  \bibnamefont{Kaufman}, \bibfnamefont{E.} \protect\BIBand{}
+  \bibnamefont{Sokoloff}, \bibfnamefont{L.} (2003).
+\newblock {Dichloroacetate effects on glucose and lactate oxidation by neurons
+  and astroglia in vitro and on glucose utilization by brain in vivo}.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, \bblvol{} 100, \bblno{}~8, \bblpp{} 4879--4884.
+\newblock ISSN 00278424.
+
+\bibitem[{\citenamefont{Iwatsubo}
+  \emph{\bbletal{}}(1994)\citenamefont{Iwatsubo}, \citenamefont{Odaka},
+  \citenamefont{Suzuki}, \citenamefont{Mizusawa}, \citenamefont{Nukina}
+  \protect\BIBand{} \citenamefont{Ihara}}]{Iwatsubo1994}
+\bibnamefont{Iwatsubo}, \bibfnamefont{T.}, \bibnamefont{Odaka},
+  \bibfnamefont{A.}, \bibnamefont{Suzuki}, \bibfnamefont{N.},
+  \bibnamefont{Mizusawa}, \bibfnamefont{H.}, \bibnamefont{Nukina},
+  \bibfnamefont{N.} \protect\BIBand{} \bibnamefont{Ihara}, \bibfnamefont{Y.}
+  (1994).
+\newblock {Visualization of A$\beta$42(43) and A$\beta$40 in senile plaques
+  with end-specific A$\beta$ monoclonals: Evidence that an initially deposited
+  species is A$\beta$42(43)}.
+\newblock \emph{Neuron}, \bblvol{}~13, \bblno{}~1, \bblpp{} 45--53.
+\newblock ISSN 0896-6273.
+
+\bibitem[{\citenamefont{Jarrett} \emph{\bbletal{}}(1993)\citenamefont{Jarrett},
+  \citenamefont{Berger} \protect\BIBand{}
+  \citenamefont{Lansbury}}]{Jarrett1993}
+\bibnamefont{Jarrett}, \bibfnamefont{J.T.}, \bibnamefont{Berger},
+  \bibfnamefont{E.P.} \protect\BIBand{} \bibnamefont{Lansbury},
+  \bibfnamefont{P.T.} (1993).
+\newblock {The carboxy terminus of the .beta. amyloid protein is critical for
+  the seeding of amyloid formation: Implications for the pathogenesis of
+  Alzheimer's disease}.
+\newblock \emph{Biochemistry}, \bblvol{}~32, \bblno{}~18, \bblpp{} 4693--4697.
+\newblock ISSN 0006-2960.
+
+\bibitem[{\citenamefont{Kabeya} \emph{\bbletal{}}(2000)\citenamefont{Kabeya},
+  \citenamefont{Mizushima}, \citenamefont{Ueno}, \citenamefont{Yamamoto},
+  \citenamefont{Kirisako}, \citenamefont{Noda}, \citenamefont{Kominami},
+  \citenamefont{Ohsumi} \protect\BIBand{}
+  \citenamefont{Yoshimori}}]{kabeya2000}
+\bibnamefont{Kabeya}, \bibfnamefont{Y.}, \bibnamefont{Mizushima},
+  \bibfnamefont{N.}, \bibnamefont{Ueno}, \bibfnamefont{T.},
+  \bibnamefont{Yamamoto}, \bibfnamefont{A.}, \bibnamefont{Kirisako},
+  \bibfnamefont{T.}, \bibnamefont{Noda}, \bibfnamefont{T.},
+  \bibnamefont{Kominami}, \bibfnamefont{E.}, \bibnamefont{Ohsumi},
+  \bibfnamefont{Y.} \protect\BIBand{} \bibnamefont{Yoshimori},
+  \bibfnamefont{T.} (2000).
+\newblock Lc3, a mammalian homologue of yeast apg8p, is localized in
+  autophagosome membranes after processing.
+\newblock \emph{The EMBO Journal}, \bblvol{}~19, \bblno{}~21, \bblpp{}
+  5720--5728.
+
+\bibitem[{\citenamefont{Kalula} \emph{\bbletal{}}(2010)\citenamefont{Kalula},
+  \citenamefont{Ferreira}, \citenamefont{Thomas}, \citenamefont{de~Villiers},
+  \citenamefont{Joska} \protect\BIBand{} \citenamefont{Geffen}}]{Kalula2010}
+\bibnamefont{Kalula}, \bibfnamefont{S.Z.}, \bibnamefont{Ferreira},
+  \bibfnamefont{M.}, \bibnamefont{Thomas}, \bibfnamefont{K.G.F.},
+  \bibnamefont{de~Villiers}, \bibfnamefont{L.}, \bibnamefont{Joska},
+  \bibfnamefont{J.A.} \protect\BIBand{} \bibnamefont{Geffen},
+  \bibfnamefont{L.N.} (2010).
+\newblock {Clinical diagnoses}.
+\newblock \emph{South African Medical Journal}, \bblvol{} 100, \bblno{}~7.
+
+\bibitem[{\citenamefont{Kaminsky}
+  \emph{\bbletal{}}(2015)\citenamefont{Kaminsky}, \citenamefont{Tikhonova}
+  \protect\BIBand{} \citenamefont{Kosenko}}]{Kaminsky2015}
+\bibnamefont{Kaminsky}, \bibfnamefont{Y.G.}, \bibnamefont{Tikhonova},
+  \bibfnamefont{L.A.} \protect\BIBand{} \bibnamefont{Kosenko},
+  \bibfnamefont{E.A.} (2015).
+\newblock Critical analysis of alzheimer's amyloid-beta toxicity to
+  mitochondria.
+\newblock \emph{Frontiers in Bioscience}, \bblvol{}~20, \bblpp{} 173--197.
+
+\bibitem[{\citenamefont{Kim} \emph{\bbletal{}}(2015)\citenamefont{Kim},
+  \citenamefont{Kim}, \citenamefont{Rhie} \protect\BIBand{}
+  \citenamefont{Yoon}}]{Kim2015a}
+\bibnamefont{Kim}, \bibfnamefont{G.H.}, \bibnamefont{Kim}, \bibfnamefont{J.E.},
+  \bibnamefont{Rhie}, \bibfnamefont{S.J.} \protect\BIBand{} \bibnamefont{Yoon},
+  \bibfnamefont{S.} (2015).
+\newblock {The Role of Oxidative Stress in Neurodegenerative Diseases.}
+\newblock \emph{Experimental neurobiology}, \bblvol{}~24, \bblno{}~4, \bblpp{}
+  325--40.
+\newblock ISSN 1226-2560.
+
+\bibitem[{\citenamefont{Kim} \protect\BIBand{}
+  \citenamefont{Kim}(2008)}]{Kim2008}
+\bibnamefont{Kim}, \bibfnamefont{S.D.} \protect\BIBand{} \bibnamefont{Kim},
+  \bibfnamefont{J.} (2008).
+\newblock Sequence analyses of presenilin mutations linked to familial
+  alzheimer's disease.
+\newblock \emph{Cell Stress and Chaperones}, \bblvol{}~13, \bblno{}~4, \bblpp{}
+  401--412.
+
+\bibitem[{\citenamefont{Kishida} \protect\BIBand{}
+  \citenamefont{Klann}(2007)}]{Kishida2007}
+\bibnamefont{Kishida}, \bibfnamefont{K.T.} \protect\BIBand{}
+  \bibnamefont{Klann}, \bibfnamefont{E.} (2007).
+\newblock {Sources and targets of reactive oxygen species in synaptic
+  plasticity and memory}.
+
+\bibitem[{\citenamefont{Klionsky}
+  \emph{\bbletal{}}(2016)\citenamefont{Klionsky}, \citenamefont{Abdelmohsen},
+  \citenamefont{Abe}, \citenamefont{Abedin}, \citenamefont{Abeliovich},
+  \citenamefont{Arozena}, \citenamefont{Adachi}, \citenamefont{Adams},
+  \citenamefont{Adams}, \citenamefont{Adeli}, \citenamefont{Adhihetty},
+  \citenamefont{Adler}, \citenamefont{Agam}, \citenamefont{Agarwal},
+  \citenamefont{Aghi}, \citenamefont{Agnello}, \citenamefont{Agostinis},
+  \citenamefont{Aguilar}, \citenamefont{Aguirre-Ghiso}, \citenamefont{Airoldi},
+  \citenamefont{Ait-Si-Ali}, \citenamefont{Akematsu}, \citenamefont{Akporiaye},
+  \citenamefont{Al-Rubeai}, \citenamefont{Albaiceta}, \citenamefont{Albanese},
+  \citenamefont{Albani}, \citenamefont{Albert}, \citenamefont{Aldudo},
+  \citenamefont{Alg{\"u}l}, \citenamefont{Alirezaei}, \citenamefont{Alloza},
+  \citenamefont{Almasan}, \citenamefont{Almonte-Beceril},
+  \citenamefont{Alnemri}, \citenamefont{Alonso}, \citenamefont{Altan-Bonnet},
+  \citenamefont{Altieri}, \citenamefont{Alvarez},
+  \citenamefont{Alvarez-Erviti}, \citenamefont{Alves}, \citenamefont{Amadoro},
+  \citenamefont{Amano}, \citenamefont{Amantini}, \citenamefont{Ambrosio},
+  \citenamefont{Amelio}, \citenamefont{Amer}, \citenamefont{Amessou},
+  \citenamefont{Amon}, \citenamefont{An}, \citenamefont{Anania},
+  \citenamefont{Andersen}, \citenamefont{Andley}, \citenamefont{Andreadi},
+  \citenamefont{Andrieu-Abadie}, \citenamefont{Anel}, \citenamefont{Ann},
+  \citenamefont{Anoopkumar-Dukie}, \citenamefont{Antonioli},
+  \citenamefont{Aoki}, \citenamefont{Apostolova}, \citenamefont{Aquila},
+  \citenamefont{Aquilano}, \citenamefont{Araki}, \citenamefont{Arama},
+  \citenamefont{Aranda}, \citenamefont{Araya}, \citenamefont{Arcaro},
+  \citenamefont{Arias}, \citenamefont{Arimoto}, \citenamefont{Ariosa},
+  \citenamefont{Armstrong}, \citenamefont{Arnould}, \citenamefont{Arsov},
+  \citenamefont{Asanuma}, \citenamefont{Askanas}, \citenamefont{Asselin},
+  \citenamefont{Atarashi}, \citenamefont{Atherton}, \citenamefont{Atkin},
+  \citenamefont{Attardi}, \citenamefont{Auberger}, \citenamefont{Auburger},
+  \citenamefont{Aurelian}, \citenamefont{Autelli}, \citenamefont{Avagliano},
+  \citenamefont{Avantaggiati}, \citenamefont{Avrahami}, \citenamefont{Awale},
+  \citenamefont{Azad}, \citenamefont{Bachetti}, \citenamefont{Backer},
+  \citenamefont{Bae}, \citenamefont{sung Bae}, \citenamefont{Bae},
+  \citenamefont{Bae}, \citenamefont{Baehrecke}, \citenamefont{Baek},
+  \citenamefont{Baghdiguian}, \citenamefont{Bagniewska-Zadworna},
+  \citenamefont{Bai}, \citenamefont{Bai}, \citenamefont{Bai},
+  \citenamefont{Bailly}, \citenamefont{Balaji}, \citenamefont{Balduini},
+  \citenamefont{Ballabio}, \citenamefont{Balzan}, \citenamefont{Banerjee},
+  \citenamefont{B{\'a}nhegyi}, \citenamefont{Bao}, \citenamefont{Barbeau},
+  \citenamefont{Barrachina}, \citenamefont{Barreiro}, \citenamefont{Bartel},
+  \citenamefont{Bartolom{\'e}}, \citenamefont{Bassham}, \citenamefont{Bassi},
+  \citenamefont{Jr}, \citenamefont{Basu}, \citenamefont{Batista},
+  \citenamefont{Batoko}, \citenamefont{Battino}, \citenamefont{Bauckman},
+  \citenamefont{Baumgarner}, \citenamefont{Bayer}, \citenamefont{Beale},
+  \citenamefont{Beaulieu}, \citenamefont{Jr}, \citenamefont{Becker},
+  \citenamefont{Beckham}, \citenamefont{B{\'e}dard}, \citenamefont{Bednarski},
+  \citenamefont{Begley}, \citenamefont{Behl}, \citenamefont{Behrends},
+  \citenamefont{Behrens}, \citenamefont{Behrns}, \citenamefont{Bejarano},
+  \citenamefont{Belaid}, \citenamefont{Belleudi}, \citenamefont{B{\'e}nard},
+  \citenamefont{Berchem}, \citenamefont{Bergamaschi}, \citenamefont{Bergami},
+  \citenamefont{Berkhout}, \citenamefont{Berliocchi}, \citenamefont{Bernard},
+  \citenamefont{Bernard}, \citenamefont{Bernassola}, \citenamefont{Bertolotti},
+  \citenamefont{Bess}, \citenamefont{Besteiro}, \citenamefont{Bettuzzi},
+  \citenamefont{Bhalla}, \citenamefont{Bhattacharyya}, \citenamefont{Bhutia},
+  \citenamefont{Biagosch}, \citenamefont{Bianchi},
+  \citenamefont{Biard-Piechaczyk}, \citenamefont{Billes},
+  \citenamefont{Bincoletto}, \citenamefont{Bingol}, \citenamefont{Bird},
+  \citenamefont{Bitoun}, \citenamefont{Bjedov}, \citenamefont{Blackstone},
+  \citenamefont{Blanc}, \citenamefont{Blanco}, \citenamefont{Blomhoff},
+  \citenamefont{Boada-Romero}, \citenamefont{B{\"o}ckler}, \citenamefont{Boes},
+  \citenamefont{Boesze-Battaglia}, \citenamefont{Boise}, \citenamefont{Bolino},
+  \citenamefont{Boman}, \citenamefont{Bonaldo}, \citenamefont{Bordi},
+  \citenamefont{Bosch}, \citenamefont{Botana}, \citenamefont{Botti},
+  \citenamefont{Bou}, \citenamefont{Bouch{\'e}}, \citenamefont{Bouchecareilh},
+  \citenamefont{Boucher}, \citenamefont{Boulton}, \citenamefont{Bouret},
+  \citenamefont{Boya}, \citenamefont{Boyer-Guittaut}, \citenamefont{Bozhkov},
+  \citenamefont{Brady}, \citenamefont{Braga}, \citenamefont{Brancolini},
+  \citenamefont{Braus}, \citenamefont{Pedro}, \citenamefont{Brennan},
+  \citenamefont{Bresnick}, \citenamefont{Brest}, \citenamefont{Bridges},
+  \citenamefont{Bringer}, \citenamefont{Brini}, \citenamefont{Brito},
+  \citenamefont{Brodin}, \citenamefont{Brookes}, \citenamefont{Brown},
+  \citenamefont{Brown}, \citenamefont{Broxmeyer}, \citenamefont{Bruhat},
+  \citenamefont{Brum}, \citenamefont{Brumell}, \citenamefont{Brunetti-Pierri},
+  \citenamefont{Bryson-Richardson}, \citenamefont{Buch}, \citenamefont{Buchan},
+  \citenamefont{Budak}, \citenamefont{Bulavin}, \citenamefont{Bultman},
+  \citenamefont{Bultynck}, \citenamefont{Bumbasirevic}, \citenamefont{Burelle},
+  \citenamefont{Burke}, \citenamefont{Burmeister},
+  \citenamefont{B{\"u}tikofer}, \citenamefont{Caberlotto},
+  \citenamefont{Cadwell}, \citenamefont{Cahova}, \citenamefont{Cai},
+  \citenamefont{Cai}, \citenamefont{Cai}, \citenamefont{Calatayud},
+  \citenamefont{Camougrand}, \citenamefont{Campanella},
+  \citenamefont{Campbell}, \citenamefont{Campbell}, \citenamefont{Campello},
+  \citenamefont{Candau}, \citenamefont{Caniggia}, \citenamefont{Cantoni},
+  \citenamefont{Cao}, \citenamefont{Caplan}, \citenamefont{Caraglia},
+  \citenamefont{Cardinali}, \citenamefont{Cardoso}, \citenamefont{Carew},
+  \citenamefont{Carleton}, \citenamefont{Carlin}, \citenamefont{Carloni},
+  \citenamefont{Carlsson}, \citenamefont{Carmona-Gutierrez},
+  \citenamefont{Carneiro}, \citenamefont{Carnevali}, \citenamefont{Carra},
+  \citenamefont{Carrier}, \citenamefont{Carroll}, \citenamefont{Casas},
+  \citenamefont{Casas}, \citenamefont{Cassinelli}, \citenamefont{Castets},
+  \citenamefont{Castro-Obregon}, \citenamefont{Cavallini},
+  \citenamefont{Ceccherini}, \citenamefont{Cecconi}, \citenamefont{Cederbaum},
+  \citenamefont{Ce{\~n}a}, \citenamefont{Cenci}, \citenamefont{Cerella},
+  \citenamefont{Cervia}, \citenamefont{Cetrullo}, \citenamefont{Chaachouay},
+  \citenamefont{Chae}, \citenamefont{Chagin}, \citenamefont{Chai},
+  \citenamefont{Chakrabarti}, \citenamefont{Chamilos}, \citenamefont{Chan},
+  \citenamefont{Chan}, \citenamefont{Chandra}, \citenamefont{Chandra},
+  \citenamefont{Chang}, \citenamefont{Chang}, \citenamefont{Chang},
+  \citenamefont{Chatham}, \citenamefont{Chatterjee}, \citenamefont{Chauhan},
+  \citenamefont{Che}, \citenamefont{Cheetham}, \citenamefont{Cheluvappa},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Chen}, \citenamefont{Chen}, \citenamefont{Chen},
+  \citenamefont{Cheng}, \citenamefont{Cheng}, \citenamefont{Cheng},
+  \citenamefont{Cheong}, \citenamefont{Cherry}, \citenamefont{Chesney},
+  \citenamefont{Cheung}, \citenamefont{Chevet}, \citenamefont{Chi},
+  \citenamefont{Chi}, \citenamefont{Chiacchiera}, \citenamefont{Chiang},
+  \citenamefont{Chiarelli}, \citenamefont{Chiariello}, \citenamefont{Chieppa},
+  \citenamefont{Chin}, \citenamefont{Chiong}, \citenamefont{Chiu},
+  \citenamefont{Cho}, \citenamefont{Cho}, \citenamefont{Cho},
+  \citenamefont{Cho}, \citenamefont{Cho}, \citenamefont{Choi},
+  \citenamefont{Choi}, \citenamefont{Choi}, \citenamefont{Choi},
+  \citenamefont{Choi}, \citenamefont{Choi}, \citenamefont{Chou},
+  \citenamefont{Chouaib}, \citenamefont{Choubey}, \citenamefont{Choubey},
+  \citenamefont{Chow}, \citenamefont{Chowdhury}, \citenamefont{Chu},
+  \citenamefont{Chuang}, \citenamefont{Chun}, \citenamefont{Chung},
+  \citenamefont{Chung} \protect\BIBand{} \citenamefont{et~al.}}]{klionsky2016}
+\bibnamefont{Klionsky}, \bibfnamefont{D.J.}, \bibnamefont{Abdelmohsen},
+  \bibfnamefont{K.}, \bibnamefont{Abe}, \bibfnamefont{A.},
+  \bibnamefont{Abedin}, \bibfnamefont{M.J.}, \bibnamefont{Abeliovich},
+  \bibfnamefont{H.}, \bibnamefont{Arozena}, \bibfnamefont{A.A.},
+  \bibnamefont{Adachi}, \bibfnamefont{H.}, \bibnamefont{Adams},
+  \bibfnamefont{C.M.}, \bibnamefont{Adams}, \bibfnamefont{P.D.},
+  \bibnamefont{Adeli}, \bibfnamefont{K.}, \bibnamefont{Adhihetty},
+  \bibfnamefont{P.J.}, \bibnamefont{Adler}, \bibfnamefont{S.G.},
+  \bibnamefont{Agam}, \bibfnamefont{G.}, \bibnamefont{Agarwal},
+  \bibfnamefont{R.}, \bibnamefont{Aghi}, \bibfnamefont{M.K.},
+  \bibnamefont{Agnello}, \bibfnamefont{M.}, \bibnamefont{Agostinis},
+  \bibfnamefont{P.}, \bibnamefont{Aguilar}, \bibfnamefont{P.V.},
+  \bibnamefont{Aguirre-Ghiso}, \bibfnamefont{J.}, \bibnamefont{Airoldi},
+  \bibfnamefont{E.M.}, \bibnamefont{Ait-Si-Ali}, \bibfnamefont{S.},
+  \bibnamefont{Akematsu}, \bibfnamefont{T.}, \bibnamefont{Akporiaye},
+  \bibfnamefont{E.T.}, \bibnamefont{Al-Rubeai}, \bibfnamefont{M.},
+  \bibnamefont{Albaiceta}, \bibfnamefont{G.M.}, \bibnamefont{Albanese},
+  \bibfnamefont{C.}, \bibnamefont{Albani}, \bibfnamefont{D.},
+  \bibnamefont{Albert}, \bibfnamefont{M.L.}, \bibnamefont{Aldudo},
+  \bibfnamefont{J.}, \bibnamefont{Alg{\"u}l}, \bibfnamefont{H.},
+  \bibnamefont{Alirezaei}, \bibfnamefont{M.}, \bibnamefont{Alloza},
+  \bibfnamefont{I.}, \bibnamefont{Almasan}, \bibfnamefont{A.},
+  \bibnamefont{Almonte-Beceril}, \bibfnamefont{M.}, \bibnamefont{Alnemri},
+  \bibfnamefont{E.S.}, \bibnamefont{Alonso}, \bibfnamefont{C.},
+  \bibnamefont{Altan-Bonnet}, \bibfnamefont{N.}, \bibnamefont{Altieri},
+  \bibfnamefont{D.C.}, \bibnamefont{Alvarez}, \bibfnamefont{S.},
+  \bibnamefont{Alvarez-Erviti}, \bibfnamefont{L.}, \bibnamefont{Alves},
+  \bibfnamefont{S.}, \bibnamefont{Amadoro}, \bibfnamefont{G.},
+  \bibnamefont{Amano}, \bibfnamefont{A.}, \bibnamefont{Amantini},
+  \bibfnamefont{C.}, \bibnamefont{Ambrosio}, \bibfnamefont{S.},
+  \bibnamefont{Amelio}, \bibfnamefont{I.}, \bibnamefont{Amer},
+  \bibfnamefont{A.O.}, \bibnamefont{Amessou}, \bibfnamefont{M.},
+  \bibnamefont{Amon}, \bibfnamefont{A.}, \bibnamefont{An}, \bibfnamefont{Z.},
+  \bibnamefont{Anania}, \bibfnamefont{F.A.}, \bibnamefont{Andersen},
+  \bibfnamefont{S.U.}, \bibnamefont{Andley}, \bibfnamefont{U.P.},
+  \bibnamefont{Andreadi}, \bibfnamefont{C.K.}, \bibnamefont{Andrieu-Abadie},
+  \bibfnamefont{N.}, \bibnamefont{Anel}, \bibfnamefont{A.}, \bibnamefont{Ann},
+  \bibfnamefont{D.K.}, \bibnamefont{Anoopkumar-Dukie}, \bibfnamefont{S.},
+  \bibnamefont{Antonioli}, \bibfnamefont{M.}, \bibnamefont{Aoki},
+  \bibfnamefont{H.}, \bibnamefont{Apostolova}, \bibfnamefont{N.},
+  \bibnamefont{Aquila}, \bibfnamefont{S.}, \bibnamefont{Aquilano},
+  \bibfnamefont{K.}, \bibnamefont{Araki}, \bibfnamefont{K.},
+  \bibnamefont{Arama}, \bibfnamefont{E.}, \bibnamefont{Aranda},
+  \bibfnamefont{A.}, \bibnamefont{Araya}, \bibfnamefont{J.},
+  \bibnamefont{Arcaro}, \bibfnamefont{A.}, \bibnamefont{Arias},
+  \bibfnamefont{E.}, \bibnamefont{Arimoto}, \bibfnamefont{H.},
+  \bibnamefont{Ariosa}, \bibfnamefont{A.R.}, \bibnamefont{Armstrong},
+  \bibfnamefont{J.L.}, \bibnamefont{Arnould}, \bibfnamefont{T.},
+  \bibnamefont{Arsov}, \bibfnamefont{I.}, \bibnamefont{Asanuma},
+  \bibfnamefont{K.}, \bibnamefont{Askanas}, \bibfnamefont{V.},
+  \bibnamefont{Asselin}, \bibfnamefont{E.}, \bibnamefont{Atarashi},
+  \bibfnamefont{R.}, \bibnamefont{Atherton}, \bibfnamefont{S.S.},
+  \bibnamefont{Atkin}, \bibfnamefont{J.D.}, \bibnamefont{Attardi},
+  \bibfnamefont{L.D.}, \bibnamefont{Auberger}, \bibfnamefont{P.},
+  \bibnamefont{Auburger}, \bibfnamefont{G.}, \bibnamefont{Aurelian},
+  \bibfnamefont{L.}, \bibnamefont{Autelli}, \bibfnamefont{R.},
+  \bibnamefont{Avagliano}, \bibfnamefont{L.}, \bibnamefont{Avantaggiati},
+  \bibfnamefont{M.L.}, \bibnamefont{Avrahami}, \bibfnamefont{L.},
+  \bibnamefont{Awale}, \bibfnamefont{S.}, \bibnamefont{Azad},
+  \bibfnamefont{N.}, \bibnamefont{Bachetti}, \bibfnamefont{T.},
+  \bibnamefont{Backer}, \bibfnamefont{J.M.}, \bibnamefont{Bae},
+  \bibfnamefont{D.-H.}, \bibnamefont{sung Bae}, \bibfnamefont{J.},
+  \bibnamefont{Bae}, \bibfnamefont{O.-N.}, \bibnamefont{Bae},
+  \bibfnamefont{S.H.}, \bibnamefont{Baehrecke}, \bibfnamefont{E.H.},
+  \bibnamefont{Baek}, \bibfnamefont{S.-H.}, \bibnamefont{Baghdiguian},
+  \bibfnamefont{S.}, \bibnamefont{Bagniewska-Zadworna}, \bibfnamefont{A.},
+  \bibnamefont{Bai}, \bibfnamefont{H.}, \bibnamefont{Bai}, \bibfnamefont{J.},
+  \bibnamefont{Bai}, \bibfnamefont{X.-Y.}, \bibnamefont{Bailly},
+  \bibfnamefont{Y.}, \bibnamefont{Balaji}, \bibfnamefont{K.N.},
+  \bibnamefont{Balduini}, \bibfnamefont{W.}, \bibnamefont{Ballabio},
+  \bibfnamefont{A.}, \bibnamefont{Balzan}, \bibfnamefont{R.},
+  \bibnamefont{Banerjee}, \bibfnamefont{R.}, \bibnamefont{B{\'a}nhegyi},
+  \bibfnamefont{G.}, \bibnamefont{Bao}, \bibfnamefont{H.},
+  \bibnamefont{Barbeau}, \bibfnamefont{B.}, \bibnamefont{Barrachina},
+  \bibfnamefont{M.D.}, \bibnamefont{Barreiro}, \bibfnamefont{E.},
+  \bibnamefont{Bartel}, \bibfnamefont{B.}, \bibnamefont{Bartolom{\'e}},
+  \bibfnamefont{A.}, \bibnamefont{Bassham}, \bibfnamefont{D.C.},
+  \bibnamefont{Bassi}, \bibfnamefont{M.T.}, \bibnamefont{Jr},
+  \bibfnamefont{R.C.B.}, \bibnamefont{Basu}, \bibfnamefont{A.},
+  \bibnamefont{Batista}, \bibfnamefont{M.T.}, \bibnamefont{Batoko},
+  \bibfnamefont{H.}, \bibnamefont{Battino}, \bibfnamefont{M.},
+  \bibnamefont{Bauckman}, \bibfnamefont{K.}, \bibnamefont{Baumgarner},
+  \bibfnamefont{B.L.}, \bibnamefont{Bayer}, \bibfnamefont{K.U.},
+  \bibnamefont{Beale}, \bibfnamefont{R.}, \bibnamefont{Beaulieu},
+  \bibfnamefont{J.-F.}, \bibnamefont{Jr}, \bibfnamefont{G.R.B.},
+  \bibnamefont{Becker}, \bibfnamefont{C.}, \bibnamefont{Beckham},
+  \bibfnamefont{J.D.}, \bibnamefont{B{\'e}dard}, \bibfnamefont{P.-A.},
+  \bibnamefont{Bednarski}, \bibfnamefont{P.J.}, \bibnamefont{Begley},
+  \bibfnamefont{T.J.}, \bibnamefont{Behl}, \bibfnamefont{C.},
+  \bibnamefont{Behrends}, \bibfnamefont{C.}, \bibnamefont{Behrens},
+  \bibfnamefont{G.M.}, \bibnamefont{Behrns}, \bibfnamefont{K.E.},
+  \bibnamefont{Bejarano}, \bibfnamefont{E.}, \bibnamefont{Belaid},
+  \bibfnamefont{A.}, \bibnamefont{Belleudi}, \bibfnamefont{F.},
+  \bibnamefont{B{\'e}nard}, \bibfnamefont{G.}, \bibnamefont{Berchem},
+  \bibfnamefont{G.}, \bibnamefont{Bergamaschi}, \bibfnamefont{D.},
+  \bibnamefont{Bergami}, \bibfnamefont{M.}, \bibnamefont{Berkhout},
+  \bibfnamefont{B.}, \bibnamefont{Berliocchi}, \bibfnamefont{L.},
+  \bibnamefont{Bernard}, \bibfnamefont{A.}, \bibnamefont{Bernard},
+  \bibfnamefont{M.}, \bibnamefont{Bernassola}, \bibfnamefont{F.},
+  \bibnamefont{Bertolotti}, \bibfnamefont{A.}, \bibnamefont{Bess},
+  \bibfnamefont{A.S.}, \bibnamefont{Besteiro}, \bibfnamefont{S.},
+  \bibnamefont{Bettuzzi}, \bibfnamefont{S.}, \bibnamefont{Bhalla},
+  \bibfnamefont{S.}, \bibnamefont{Bhattacharyya}, \bibfnamefont{S.},
+  \bibnamefont{Bhutia}, \bibfnamefont{S.K.}, \bibnamefont{Biagosch},
+  \bibfnamefont{C.}, \bibnamefont{Bianchi}, \bibfnamefont{M.W.},
+  \bibnamefont{Biard-Piechaczyk}, \bibfnamefont{M.}, \bibnamefont{Billes},
+  \bibfnamefont{V.}, \bibnamefont{Bincoletto}, \bibfnamefont{C.},
+  \bibnamefont{Bingol}, \bibfnamefont{B.}, \bibnamefont{Bird},
+  \bibfnamefont{S.W.}, \bibnamefont{Bitoun}, \bibfnamefont{M.},
+  \bibnamefont{Bjedov}, \bibfnamefont{I.}, \bibnamefont{Blackstone},
+  \bibfnamefont{C.}, \bibnamefont{Blanc}, \bibfnamefont{L.},
+  \bibnamefont{Blanco}, \bibfnamefont{G.A.}, \bibnamefont{Blomhoff},
+  \bibfnamefont{H.K.}, \bibnamefont{Boada-Romero}, \bibfnamefont{E.},
+  \bibnamefont{B{\"o}ckler}, \bibfnamefont{S.}, \bibnamefont{Boes},
+  \bibfnamefont{M.}, \bibnamefont{Boesze-Battaglia}, \bibfnamefont{K.},
+  \bibnamefont{Boise}, \bibfnamefont{L.H.}, \bibnamefont{Bolino},
+  \bibfnamefont{A.}, \bibnamefont{Boman}, \bibfnamefont{A.},
+  \bibnamefont{Bonaldo}, \bibfnamefont{P.}, \bibnamefont{Bordi},
+  \bibfnamefont{M.}, \bibnamefont{Bosch}, \bibfnamefont{J.},
+  \bibnamefont{Botana}, \bibfnamefont{L.M.}, \bibnamefont{Botti},
+  \bibfnamefont{J.}, \bibnamefont{Bou}, \bibfnamefont{G.},
+  \bibnamefont{Bouch{\'e}}, \bibfnamefont{M.}, \bibnamefont{Bouchecareilh},
+  \bibfnamefont{M.}, \bibnamefont{Boucher}, \bibfnamefont{M.-J.},
+  \bibnamefont{Boulton}, \bibfnamefont{M.E.}, \bibnamefont{Bouret},
+  \bibfnamefont{S.G.}, \bibnamefont{Boya}, \bibfnamefont{P.},
+  \bibnamefont{Boyer-Guittaut}, \bibfnamefont{M.}, \bibnamefont{Bozhkov},
+  \bibfnamefont{P.V.}, \bibnamefont{Brady}, \bibfnamefont{N.},
+  \bibnamefont{Braga}, \bibfnamefont{V.M.}, \bibnamefont{Brancolini},
+  \bibfnamefont{C.}, \bibnamefont{Braus}, \bibfnamefont{G.H.},
+  \bibnamefont{Pedro}, \bibfnamefont{J.M.B.-S.}, \bibnamefont{Brennan},
+  \bibfnamefont{L.A.}, \bibnamefont{Bresnick}, \bibfnamefont{E.H.},
+  \bibnamefont{Brest}, \bibfnamefont{P.}, \bibnamefont{Bridges},
+  \bibfnamefont{D.}, \bibnamefont{Bringer}, \bibfnamefont{M.-A.},
+  \bibnamefont{Brini}, \bibfnamefont{M.}, \bibnamefont{Brito},
+  \bibfnamefont{G.C.}, \bibnamefont{Brodin}, \bibfnamefont{B.},
+  \bibnamefont{Brookes}, \bibfnamefont{P.S.}, \bibnamefont{Brown},
+  \bibfnamefont{E.J.}, \bibnamefont{Brown}, \bibfnamefont{K.},
+  \bibnamefont{Broxmeyer}, \bibfnamefont{H.E.}, \bibnamefont{Bruhat},
+  \bibfnamefont{A.}, \bibnamefont{Brum}, \bibfnamefont{P.C.},
+  \bibnamefont{Brumell}, \bibfnamefont{J.H.}, \bibnamefont{Brunetti-Pierri},
+  \bibfnamefont{N.}, \bibnamefont{Bryson-Richardson}, \bibfnamefont{R.J.},
+  \bibnamefont{Buch}, \bibfnamefont{S.}, \bibnamefont{Buchan},
+  \bibfnamefont{A.M.}, \bibnamefont{Budak}, \bibfnamefont{H.},
+  \bibnamefont{Bulavin}, \bibfnamefont{D.V.}, \bibnamefont{Bultman},
+  \bibfnamefont{S.J.}, \bibnamefont{Bultynck}, \bibfnamefont{G.},
+  \bibnamefont{Bumbasirevic}, \bibfnamefont{V.}, \bibnamefont{Burelle},
+  \bibfnamefont{Y.}, \bibnamefont{Burke}, \bibfnamefont{R.E.},
+  \bibnamefont{Burmeister}, \bibfnamefont{M.}, \bibnamefont{B{\"u}tikofer},
+  \bibfnamefont{P.}, \bibnamefont{Caberlotto}, \bibfnamefont{L.},
+  \bibnamefont{Cadwell}, \bibfnamefont{K.}, \bibnamefont{Cahova},
+  \bibfnamefont{M.}, \bibnamefont{Cai}, \bibfnamefont{D.}, \bibnamefont{Cai},
+  \bibfnamefont{J.}, \bibnamefont{Cai}, \bibfnamefont{Q.},
+  \bibnamefont{Calatayud}, \bibfnamefont{S.}, \bibnamefont{Camougrand},
+  \bibfnamefont{N.}, \bibnamefont{Campanella}, \bibfnamefont{M.},
+  \bibnamefont{Campbell}, \bibfnamefont{G.R.}, \bibnamefont{Campbell},
+  \bibfnamefont{M.}, \bibnamefont{Campello}, \bibfnamefont{S.},
+  \bibnamefont{Candau}, \bibfnamefont{R.}, \bibnamefont{Caniggia},
+  \bibfnamefont{I.}, \bibnamefont{Cantoni}, \bibfnamefont{L.},
+  \bibnamefont{Cao}, \bibfnamefont{L.}, \bibnamefont{Caplan},
+  \bibfnamefont{A.B.}, \bibnamefont{Caraglia}, \bibfnamefont{M.},
+  \bibnamefont{Cardinali}, \bibfnamefont{C.}, \bibnamefont{Cardoso},
+  \bibfnamefont{S.M.}, \bibnamefont{Carew}, \bibfnamefont{J.S.},
+  \bibnamefont{Carleton}, \bibfnamefont{L.A.}, \bibnamefont{Carlin},
+  \bibfnamefont{C.R.}, \bibnamefont{Carloni}, \bibfnamefont{S.},
+  \bibnamefont{Carlsson}, \bibfnamefont{S.R.}, \bibnamefont{Carmona-Gutierrez},
+  \bibfnamefont{D.}, \bibnamefont{Carneiro}, \bibfnamefont{L.A.},
+  \bibnamefont{Carnevali}, \bibfnamefont{O.}, \bibnamefont{Carra},
+  \bibfnamefont{S.}, \bibnamefont{Carrier}, \bibfnamefont{A.},
+  \bibnamefont{Carroll}, \bibfnamefont{B.}, \bibnamefont{Casas},
+  \bibfnamefont{C.}, \bibnamefont{Casas}, \bibfnamefont{J.},
+  \bibnamefont{Cassinelli}, \bibfnamefont{G.}, \bibnamefont{Castets},
+  \bibfnamefont{P.}, \bibnamefont{Castro-Obregon}, \bibfnamefont{S.},
+  \bibnamefont{Cavallini}, \bibfnamefont{G.}, \bibnamefont{Ceccherini},
+  \bibfnamefont{I.}, \bibnamefont{Cecconi}, \bibfnamefont{F.},
+  \bibnamefont{Cederbaum}, \bibfnamefont{A.I.}, \bibnamefont{Ce{\~n}a},
+  \bibfnamefont{V.}, \bibnamefont{Cenci}, \bibfnamefont{S.},
+  \bibnamefont{Cerella}, \bibfnamefont{C.}, \bibnamefont{Cervia},
+  \bibfnamefont{D.}, \bibnamefont{Cetrullo}, \bibfnamefont{S.},
+  \bibnamefont{Chaachouay}, \bibfnamefont{H.}, \bibnamefont{Chae},
+  \bibfnamefont{H.-J.}, \bibnamefont{Chagin}, \bibfnamefont{A.S.},
+  \bibnamefont{Chai}, \bibfnamefont{C.-Y.}, \bibnamefont{Chakrabarti},
+  \bibfnamefont{G.}, \bibnamefont{Chamilos}, \bibfnamefont{G.},
+  \bibnamefont{Chan}, \bibfnamefont{E.Y.}, \bibnamefont{Chan},
+  \bibfnamefont{M.T.}, \bibnamefont{Chandra}, \bibfnamefont{D.},
+  \bibnamefont{Chandra}, \bibfnamefont{P.}, \bibnamefont{Chang},
+  \bibfnamefont{C.-P.}, \bibnamefont{Chang}, \bibfnamefont{R.C.-C.},
+  \bibnamefont{Chang}, \bibfnamefont{T.Y.}, \bibnamefont{Chatham},
+  \bibfnamefont{J.C.}, \bibnamefont{Chatterjee}, \bibfnamefont{S.},
+  \bibnamefont{Chauhan}, \bibfnamefont{S.}, \bibnamefont{Che},
+  \bibfnamefont{Y.}, \bibnamefont{Cheetham}, \bibfnamefont{M.E.},
+  \bibnamefont{Cheluvappa}, \bibfnamefont{R.}, \bibnamefont{Chen},
+  \bibfnamefont{C.-J.}, \bibnamefont{Chen}, \bibfnamefont{G.},
+  \bibnamefont{Chen}, \bibfnamefont{G.-C.}, \bibnamefont{Chen},
+  \bibfnamefont{G.}, \bibnamefont{Chen}, \bibfnamefont{H.}, \bibnamefont{Chen},
+  \bibfnamefont{J.W.}, \bibnamefont{Chen}, \bibfnamefont{J.-K.},
+  \bibnamefont{Chen}, \bibfnamefont{M.}, \bibnamefont{Chen}, \bibfnamefont{M.},
+  \bibnamefont{Chen}, \bibfnamefont{P.}, \bibnamefont{Chen}, \bibfnamefont{Q.},
+  \bibnamefont{Chen}, \bibfnamefont{Q.}, \bibnamefont{Chen},
+  \bibfnamefont{S.-D.}, \bibnamefont{Chen}, \bibfnamefont{S.},
+  \bibnamefont{Chen}, \bibfnamefont{S.S.-L.}, \bibnamefont{Chen},
+  \bibfnamefont{W.}, \bibnamefont{Chen}, \bibfnamefont{W.-J.},
+  \bibnamefont{Chen}, \bibfnamefont{W.Q.}, \bibnamefont{Chen},
+  \bibfnamefont{W.}, \bibnamefont{Chen}, \bibfnamefont{X.}, \bibnamefont{Chen},
+  \bibfnamefont{Y.-H.}, \bibnamefont{Chen}, \bibfnamefont{Y.-G.},
+  \bibnamefont{Chen}, \bibfnamefont{Y.}, \bibnamefont{Chen}, \bibfnamefont{Y.},
+  \bibnamefont{Chen}, \bibfnamefont{Y.}, \bibnamefont{Chen},
+  \bibfnamefont{Y.-J.}, \bibnamefont{Chen}, \bibfnamefont{Y.-Q.},
+  \bibnamefont{Chen}, \bibfnamefont{Y.}, \bibnamefont{Chen}, \bibfnamefont{Z.},
+  \bibnamefont{Chen}, \bibfnamefont{Z.}, \bibnamefont{Cheng},
+  \bibfnamefont{A.}, \bibnamefont{Cheng}, \bibfnamefont{C.H.},
+  \bibnamefont{Cheng}, \bibfnamefont{H.}, \bibnamefont{Cheong},
+  \bibfnamefont{H.}, \bibnamefont{Cherry}, \bibfnamefont{S.},
+  \bibnamefont{Chesney}, \bibfnamefont{J.}, \bibnamefont{Cheung},
+  \bibfnamefont{C.H.A.}, \bibnamefont{Chevet}, \bibfnamefont{E.},
+  \bibnamefont{Chi}, \bibfnamefont{H.C.}, \bibnamefont{Chi},
+  \bibfnamefont{S.-G.}, \bibnamefont{Chiacchiera}, \bibfnamefont{F.},
+  \bibnamefont{Chiang}, \bibfnamefont{H.-L.}, \bibnamefont{Chiarelli},
+  \bibfnamefont{R.}, \bibnamefont{Chiariello}, \bibfnamefont{M.},
+  \bibnamefont{Chieppa}, \bibfnamefont{M.}, \bibnamefont{Chin},
+  \bibfnamefont{L.-S.}, \bibnamefont{Chiong}, \bibfnamefont{M.},
+  \bibnamefont{Chiu}, \bibfnamefont{G.N.}, \bibnamefont{Cho},
+  \bibfnamefont{D.-H.}, \bibnamefont{Cho}, \bibfnamefont{S.-G.},
+  \bibnamefont{Cho}, \bibfnamefont{W.C.}, \bibnamefont{Cho},
+  \bibfnamefont{Y.-Y.}, \bibnamefont{Cho}, \bibfnamefont{Y.-S.},
+  \bibnamefont{Choi}, \bibfnamefont{A.M.}, \bibnamefont{Choi},
+  \bibfnamefont{E.-J.}, \bibnamefont{Choi}, \bibfnamefont{E.-K.},
+  \bibnamefont{Choi}, \bibfnamefont{J.}, \bibnamefont{Choi},
+  \bibfnamefont{M.E.}, \bibnamefont{Choi}, \bibfnamefont{S.-I.},
+  \bibnamefont{Chou}, \bibfnamefont{T.-F.}, \bibnamefont{Chouaib},
+  \bibfnamefont{S.}, \bibnamefont{Choubey}, \bibfnamefont{D.},
+  \bibnamefont{Choubey}, \bibfnamefont{V.}, \bibnamefont{Chow},
+  \bibfnamefont{K.-C.}, \bibnamefont{Chowdhury}, \bibfnamefont{K.},
+  \bibnamefont{Chu}, \bibfnamefont{C.T.}, \bibnamefont{Chuang},
+  \bibfnamefont{T.-H.}, \bibnamefont{Chun}, \bibfnamefont{T.},
+  \bibnamefont{Chung}, \bibfnamefont{H.}, \bibnamefont{Chung},
+  \bibfnamefont{T.} \protect\BIBand{} \bibnamefont{et~al.},
+  \bibfnamefont{Y.-L.C.} (2016).
+\newblock Guidelines for the use and interpretation of assays for monitoring
+  autophagy (3rd edition).
+\newblock \emph{Autophagy}, \bblvol{}~12, \bblno{}~1, \bblpp{} 1--222.
+\newblock PMID: 26799652.
+
+\bibitem[{\citenamefont{Kuma} \emph{\bbletal{}}(2004)\citenamefont{Kuma},
+  \citenamefont{Hatano}, \citenamefont{Matsui}, \citenamefont{Yamamoto},
+  \citenamefont{Nakaya}, \citenamefont{Yoshimori}, \citenamefont{Ohsumi},
+  \citenamefont{Tokuhisa} \protect\BIBand{}
+  \citenamefont{Mizushima}}]{Kuma2004}
+\bibnamefont{Kuma}, \bibfnamefont{A.}, \bibnamefont{Hatano}, \bibfnamefont{M.},
+  \bibnamefont{Matsui}, \bibfnamefont{M.}, \bibnamefont{Yamamoto},
+  \bibfnamefont{A.}, \bibnamefont{Nakaya}, \bibfnamefont{H.},
+  \bibnamefont{Yoshimori}, \bibfnamefont{T.}, \bibnamefont{Ohsumi},
+  \bibfnamefont{Y.}, \bibnamefont{Tokuhisa}, \bibfnamefont{T.}
+  \protect\BIBand{} \bibnamefont{Mizushima}, \bibfnamefont{N.} (2004).
+\newblock {The role of autophagy during the early neonatal starvation period.}
+\newblock \emph{Nature}, \bblvol{} 432, \bblno{} 7020, \bblpp{} 1032--1036.
+\newblock ISSN 0028-0836.
+
+\bibitem[{\citenamefont{Kurz} \protect\BIBand{}
+  \citenamefont{Perneczky}(2011)}]{Kurz2011}
+\bibnamefont{Kurz}, \bibfnamefont{A.} \protect\BIBand{}
+  \bibnamefont{Perneczky}, \bibfnamefont{R.} (2011).
+\newblock {Novel insights for the treatment of Alzheimer's disease}.
+\newblock \emph{Progress in Neuro-Psychopharmacology and Biological
+  Psychiatry}, \bblvol{}~35, \bblno{}~2, \bblpp{} 373--379.
+\newblock ISSN 02785846.
+
+\bibitem[{\citenamefont{Landrigan}
+  \emph{\bbletal{}}(2005)\citenamefont{Landrigan}, \citenamefont{Sonawane},
+  \citenamefont{Butler}, \citenamefont{Trasande}, \citenamefont{Callan}
+  \protect\BIBand{} \citenamefont{Droller}}]{Landrigan2005}
+\bibnamefont{Landrigan}, \bibfnamefont{P.J.}, \bibnamefont{Sonawane},
+  \bibfnamefont{B.}, \bibnamefont{Butler}, \bibfnamefont{R.N.},
+  \bibnamefont{Trasande}, \bibfnamefont{L.}, \bibnamefont{Callan},
+  \bibfnamefont{R.} \protect\BIBand{} \bibnamefont{Droller}, \bibfnamefont{D.}
+  (2005).
+\newblock {Early environmental origins of neurodegenerative disease in later
+  life}.
+
+\bibitem[{\citenamefont{Lin} \protect\BIBand{}
+  \citenamefont{Beal}(2006)}]{Lin2006}
+\bibnamefont{Lin}, \bibfnamefont{M.T.} \protect\BIBand{} \bibnamefont{Beal},
+  \bibfnamefont{M.F.} (2006).
+\newblock {Mitochondrial dysfunction and oxidative stress in neurodegenerative
+  diseases}.
+\newblock \emph{Nature}, \bblvol{} 443, \bblno{} 7113, \bblpp{} 787--795.
+\newblock ISSN 00280836.
+
+\bibitem[{\citenamefont{Ling} \emph{\bbletal{}}(2014)\citenamefont{Ling},
+  \citenamefont{Magallanes} \protect\BIBand{}
+  \citenamefont{Salvaterra}}]{Ling2014}
+\bibnamefont{Ling}, \bibfnamefont{D.}, \bibnamefont{Magallanes},
+  \bibfnamefont{M.} \protect\BIBand{} \bibnamefont{Salvaterra},
+  \bibfnamefont{P.M.} (2014).
+\newblock Accumulation of amyloid-like $a\beta$1--42 in ael
+  (autophagy--endosomal--lysosomal) vesicles: Potential implications for plaque
+  biogenesis.
+\newblock \emph{ASN Neuro}, \bblvol{}~6, \bblno{}~2, \bblp{} AN20130044.
+
+\bibitem[{\citenamefont{Ling} \protect\BIBand{}
+  \citenamefont{Salvaterra}(2011)}]{Ling2011}
+\bibnamefont{Ling}, \bibfnamefont{D.} \protect\BIBand{}
+  \bibnamefont{Salvaterra}, \bibfnamefont{P.M.} (2011).
+\newblock Brain aging and a$\beta$\textsubscript{1-42} neurotoxicity converge
+  via deterioration in autophagy--lysosomal system: a conditional drosophila
+  model linking alzheimer's neurodegeneration with aging.
+\newblock \emph{Acta Neuropathologica}, \bblvol{} 121, \bblno{}~2, \bblpp{}
+  183--191.
+
+\bibitem[{\citenamefont{Liu} \emph{\bbletal{}}(2017)\citenamefont{Liu},
+  \citenamefont{Zhou}, \citenamefont{Ziegler}, \citenamefont{Dimitrion}
+  \protect\BIBand{} \citenamefont{Zuo}}]{Liu2017}
+\bibnamefont{Liu}, \bibfnamefont{Z.}, \bibnamefont{Zhou}, \bibfnamefont{T.},
+  \bibnamefont{Ziegler}, \bibfnamefont{A.C.}, \bibnamefont{Dimitrion},
+  \bibfnamefont{P.} \protect\BIBand{} \bibnamefont{Zuo}, \bibfnamefont{L.}
+  (2017).
+\newblock {Oxidative Stress in Neurodegenerative Diseases: From Molecular
+  Mechanisms to Clinical Applications}.
+
+\bibitem[{\citenamefont{Loos} \emph{\bbletal{}}(2014)\citenamefont{Loos},
+  \citenamefont{du~Toit} \protect\BIBand{} \citenamefont{Hofmeyr}}]{loos2014}
+\bibnamefont{Loos}, \bibfnamefont{B.}, \bibnamefont{du~Toit}, \bibfnamefont{A.}
+  \protect\BIBand{} \bibnamefont{Hofmeyr}, \bibfnamefont{J.-H.S.} (2014).
+\newblock Defining and measuring autophagosome flux---concept and reality.
+\newblock \emph{Autophagy}, \bblvol{}~10, \bblno{}~11, \bblpp{} 2087--2096.
+\newblock PMID: 25484088.
+
+\bibitem[{\citenamefont{Lovell} \emph{\bbletal{}}(1995)\citenamefont{Lovell},
+  \citenamefont{Ehmann}, \citenamefont{Butler} \protect\BIBand{}
+  \citenamefont{Markesbery}}]{Lovell1995}
+\bibnamefont{Lovell}, \bibfnamefont{M.A.}, \bibnamefont{Ehmann},
+  \bibfnamefont{W.D.}, \bibnamefont{Butler}, \bibfnamefont{S.M.}
+  \protect\BIBand{} \bibnamefont{Markesbery}, \bibfnamefont{W.R.} (1995).
+\newblock {Elevated thiobarbituric acid-reactive substances and antioxidant
+  enzyme activity in the brain in alzheimer's disease}.
+\newblock \emph{Neurology}, \bblvol{}~45, \bblno{}~8, \bblpp{} 1594--1601.
+\newblock ISSN 1526632X.
+
+\bibitem[{\citenamefont{Lovell} \emph{\bbletal{}}(1997)\citenamefont{Lovell},
+  \citenamefont{Ehmann}, \citenamefont{Mattson} \protect\BIBand{}
+  \citenamefont{Markesbery}}]{Lovell1997}
+\bibnamefont{Lovell}, \bibfnamefont{M.A.}, \bibnamefont{Ehmann},
+  \bibfnamefont{W.D.}, \bibnamefont{Mattson}, \bibfnamefont{M.P.}
+  \protect\BIBand{} \bibnamefont{Markesbery}, \bibfnamefont{W.R.} (1997).
+\newblock {Elevated 4-hydroxynonenal in ventricular fluid in Alzheimer's
+  disease}.
+\newblock \emph{Neurobiology of Aging}, \bblvol{}~18, \bblno{}~5, \bblpp{}
+  457--461.
+\newblock ISSN 01974580.
+
+\bibitem[{\citenamefont{Lovell} \emph{\bbletal{}}(2001)\citenamefont{Lovell},
+  \citenamefont{Xie} \protect\BIBand{} \citenamefont{Markesbery}}]{Lovell2001}
+\bibnamefont{Lovell}, \bibfnamefont{M.A.}, \bibnamefont{Xie}, \bibfnamefont{C.}
+  \protect\BIBand{} \bibnamefont{Markesbery}, \bibfnamefont{W.R.} (2001).
+\newblock {Acrolein is increased in Alzheimer's disease brain and is toxic to
+  primary hippocampal cultures}.
+\newblock \emph{Neurobiology of Aging}, \bblvol{}~22, \bblno{}~2, \bblpp{}
+  187--194.
+\newblock ISSN 01974580.
+
+\bibitem[{\citenamefont{Lumkwana}
+  \emph{\bbletal{}}(2017)\citenamefont{Lumkwana}, \citenamefont{du~Toit},
+  \citenamefont{Kinnear} \protect\BIBand{} \citenamefont{Loos}}]{lumkwana2017}
+\bibnamefont{Lumkwana}, \bibfnamefont{D.}, \bibnamefont{du~Toit},
+  \bibfnamefont{A.}, \bibnamefont{Kinnear}, \bibfnamefont{C.} \protect\BIBand{}
+  \bibnamefont{Loos}, \bibfnamefont{B.} (2017).
+\newblock Autophagic flux control in neurodegeneration: Progress and precision
+  targeting---where do we stand?
+\newblock \emph{Progress in Neurobiology}, \bblvol{} 153, \bblpp{} 64 -- 85.
+\newblock ISSN 0301-0082.
+
+\bibitem[{\citenamefont{Lustbader}
+  \emph{\bbletal{}}(2004)\citenamefont{Lustbader}, \citenamefont{Cirilli},
+  \citenamefont{Lin}, \citenamefont{Xu}, \citenamefont{Takuma},
+  \citenamefont{Wang}, \citenamefont{Caspersen}, \citenamefont{Chen},
+  \citenamefont{Pollak}, \citenamefont{Chaney}, \citenamefont{Trinchese},
+  \citenamefont{Liu}, \citenamefont{Gunn-Moore}, \citenamefont{Lue},
+  \citenamefont{Walker}, \citenamefont{Kappasamy}, \citenamefont{Zewier},
+  \citenamefont{Arancio}, \citenamefont{Stern}, \citenamefont{Yan}
+  \protect\BIBand{} \citenamefont{Wu}}]{Lustbader2004}
+\bibnamefont{Lustbader}, \bibfnamefont{J.}, \bibnamefont{Cirilli},
+  \bibfnamefont{M.}, \bibnamefont{Lin}, \bibfnamefont{C.}, \bibnamefont{Xu},
+  \bibfnamefont{H.}, \bibnamefont{Takuma}, \bibfnamefont{K.},
+  \bibnamefont{Wang}, \bibfnamefont{N.}, \bibnamefont{Caspersen},
+  \bibfnamefont{C.}, \bibnamefont{Chen}, \bibfnamefont{X.},
+  \bibnamefont{Pollak}, \bibfnamefont{S.}, \bibnamefont{Chaney},
+  \bibfnamefont{M.}, \bibnamefont{Trinchese}, \bibfnamefont{F.},
+  \bibnamefont{Liu}, \bibfnamefont{S.}, \bibnamefont{Gunn-Moore},
+  \bibfnamefont{F.}, \bibnamefont{Lue}, \bibfnamefont{L.-F.},
+  \bibnamefont{Walker}, \bibfnamefont{D.}, \bibnamefont{Kappasamy},
+  \bibfnamefont{P.}, \bibnamefont{Zewier}, \bibfnamefont{Z.},
+  \bibnamefont{Arancio}, \bibfnamefont{O.}, \bibnamefont{Stern},
+  \bibfnamefont{D.}, \bibnamefont{Yan}, \bibfnamefont{S.} \protect\BIBand{}
+  \bibnamefont{Wu}, \bibfnamefont{H.} (2004).
+\newblock Abad directly links $a\beta$ to mitochondrial toxicity in alzheimer's
+  disease.
+\newblock \emph{Science}, \bblvol{} 304, \bblno{} 5669, \bblpp{} 448--452.
+
+\bibitem[{\citenamefont{Manczak} \emph{\bbletal{}}(2006)\citenamefont{Manczak},
+  \citenamefont{Anekonda}, \citenamefont{Henson}, \citenamefont{Park},
+  \citenamefont{Quinn} \protect\BIBand{} \citenamefont{Reddy}}]{Manczak2006}
+\bibnamefont{Manczak}, \bibfnamefont{M.}, \bibnamefont{Anekonda},
+  \bibfnamefont{T.S.}, \bibnamefont{Henson}, \bibfnamefont{E.},
+  \bibnamefont{Park}, \bibfnamefont{B.S.}, \bibnamefont{Quinn},
+  \bibfnamefont{J.} \protect\BIBand{} \bibnamefont{Reddy}, \bibfnamefont{P.H.}
+  (2006).
+\newblock {Mitochondria are a direct site of A$\beta$ accumulation in
+  Alzheimer's disease neurons: Implications for free radical generation and
+  oxidative damage in disease progression}.
+\newblock \emph{Human Molecular Genetics}, \bblvol{}~15, \bblno{}~9, \bblpp{}
+  1437--1449.
+\newblock ISSN 09646906.
+
+\bibitem[{\citenamefont{Marcus} \emph{\bbletal{}}(1998)\citenamefont{Marcus},
+  \citenamefont{Thomas}, \citenamefont{Rodriguez}, \citenamefont{Simberkoff},
+  \citenamefont{Tsai}, \citenamefont{Strafaci} \protect\BIBand{}
+  \citenamefont{Freedman}}]{Marcus1998}
+\bibnamefont{Marcus}, \bibfnamefont{D.L.}, \bibnamefont{Thomas},
+  \bibfnamefont{C.}, \bibnamefont{Rodriguez}, \bibfnamefont{C.},
+  \bibnamefont{Simberkoff}, \bibfnamefont{K.}, \bibnamefont{Tsai},
+  \bibfnamefont{J.S.}, \bibnamefont{Strafaci}, \bibfnamefont{J.A.}
+  \protect\BIBand{} \bibnamefont{Freedman}, \bibfnamefont{M.L.} (1998).
+\newblock {Increased peroxidation and reduced antioxidant enzyme activity in
+  Alzheimer's disease}.
+\newblock \emph{Experimental Neurology}, \bblvol{} 150, \bblno{}~1, \bblpp{}
+  40--44.
+\newblock ISSN 00144886.
+
+\bibitem[{\citenamefont{Markesbery} \protect\BIBand{}
+  \citenamefont{Lovell}(1998)}]{Markesbery1998}
+\bibnamefont{Markesbery}, \bibfnamefont{W.R.} \protect\BIBand{}
+  \bibnamefont{Lovell}, \bibfnamefont{M.A.} (1998).
+\newblock {Four-hydroxynonenal, a product of lipid peroxidation, is increased
+  in the brain in Alzheimer's disease}.
+\newblock \emph{Neurobiology of Aging}, \bblvol{}~19, \bblno{}~1, \bblpp{}
+  33--36.
+\newblock ISSN 01974580.
+
+\bibitem[{\citenamefont{Matsuoka}
+  \emph{\bbletal{}}(2001)\citenamefont{Matsuoka}, \citenamefont{Picciano},
+  \citenamefont{{La Francois}} \protect\BIBand{}
+  \citenamefont{Duff}}]{Matsuoka2001}
+\bibnamefont{Matsuoka}, \bibfnamefont{Y.}, \bibnamefont{Picciano},
+  \bibfnamefont{M.}, \bibnamefont{{La Francois}}, \bibfnamefont{J.}
+  \protect\BIBand{} \bibnamefont{Duff}, \bibfnamefont{K.} (2001).
+\newblock {Fibrillar $\beta$-amyloid evokes oxidative damage in a transgenic
+  mouse model of Alzheimer's disease}.
+\newblock \emph{Neuroscience}, \bblvol{} 104, \bblno{}~3, \bblpp{} 609--613.
+\newblock ISSN 03064522.
+
+\bibitem[{\citenamefont{Mattson} \emph{\bbletal{}}(2008)\citenamefont{Mattson},
+  \citenamefont{Gleichmann} \protect\BIBand{}
+  \citenamefont{Cheng}}]{Mattson2008}
+\bibnamefont{Mattson}, \bibfnamefont{M.P.}, \bibnamefont{Gleichmann},
+  \bibfnamefont{M.} \protect\BIBand{} \bibnamefont{Cheng}, \bibfnamefont{A.}
+  (2008).
+\newblock {Mitochondria in Neuroplasticity and Neurological Disorders}.
+
+\bibitem[{\citenamefont{Maurer} \emph{\bbletal{}}(2000)\citenamefont{Maurer},
+  \citenamefont{Zierz} \protect\BIBand{}
+  \citenamefont{M{\"{o}}ller}}]{Maurer2000}
+\bibnamefont{Maurer}, \bibfnamefont{I.}, \bibnamefont{Zierz}, \bibfnamefont{S.}
+  \protect\BIBand{} \bibnamefont{M{\"{o}}ller}, \bibfnamefont{H.J.} (2000).
+\newblock {A selective defect of cytochrome c oxidase is present in brain of
+  Alzheimer disease patients}.
+\newblock \emph{Neurobiology of Aging}, \bblvol{}~21, \bblno{}~3, \bblpp{}
+  455--462.
+\newblock ISSN 01974580.
+
+\bibitem[{\citenamefont{McGrath}(2001)}]{McGrath2001}
+\bibnamefont{McGrath}, \bibfnamefont{L.} (2001).
+\newblock {Increased oxidative stress in Alzheimer's disease as assessed with
+  4-hydroxynonenal but not malondialdehyde}.
+\newblock \emph{QJM}, \bblvol{}~94, \bblno{}~9, \bblpp{} 485--490.
+
+\bibitem[{\citenamefont{Mecocci} \emph{\bbletal{}}(1994)\citenamefont{Mecocci},
+  \citenamefont{MacGarvey} \protect\BIBand{} \citenamefont{Beal}}]{Mecocci1994}
+\bibnamefont{Mecocci}, \bibfnamefont{P.}, \bibnamefont{MacGarvey},
+  \bibfnamefont{U.} \protect\BIBand{} \bibnamefont{Beal}, \bibfnamefont{M.F.}
+  (1994).
+\newblock {Oxidative damage to mitochondrial DNA is increased in Alzheimer's
+  disease}.
+\newblock \emph{Annals of Neurology}, \bblvol{}~36, \bblno{}~5, \bblpp{}
+  747--751.
+\newblock ISSN 15318249.
+
+\bibitem[{\citenamefont{Miranda} \emph{\bbletal{}}(2000)\citenamefont{Miranda},
+  \citenamefont{{De Bruin}}, \citenamefont{Vale} \protect\BIBand{}
+  \citenamefont{Viana}}]{Miranda2000}
+\bibnamefont{Miranda}, \bibfnamefont{M.D.C.}, \bibnamefont{{De Bruin}},
+  \bibfnamefont{V.M.}, \bibnamefont{Vale}, \bibfnamefont{M.R.}
+  \protect\BIBand{} \bibnamefont{Viana}, \bibfnamefont{G.S.} (2000).
+\newblock {Lipid peroxidation and nitrite plus nitrate levels in brain tissue
+  from patients with Alzheimer's disease}.
+\newblock \emph{Gerontology}, \bblvol{}~46, \bblno{}~4, \bblpp{} 179--184.
+\newblock ISSN 0304324X.
+
+\bibitem[{\citenamefont{Mizushima}
+  \emph{\bbletal{}}(2004)\citenamefont{Mizushima}, \citenamefont{Yamamoto},
+  \citenamefont{Matsui}, \citenamefont{Yoshimori} \protect\BIBand{}
+  \citenamefont{Ohsumi}}]{Mizushima2004a}
+\bibnamefont{Mizushima}, \bibfnamefont{N.}, \bibnamefont{Yamamoto},
+  \bibfnamefont{A.}, \bibnamefont{Matsui}, \bibfnamefont{M.},
+  \bibnamefont{Yoshimori}, \bibfnamefont{T.} \protect\BIBand{}
+  \bibnamefont{Ohsumi}, \bibfnamefont{Y.} (2004).
+\newblock {In vivo analysis of autophagy in response to nutrient starvation
+  using transgenic mice expressing a fluorescent autophagosome marker.}
+\newblock \emph{Molecular biology of the cell}, \bblvol{}~15, \bblno{}~3,
+  \bblpp{} 1101--11.
+\newblock ISSN 1059-1524.
+
+\bibitem[{\citenamefont{Montine} \emph{\bbletal{}}(1998)\citenamefont{Montine},
+  \citenamefont{Reich}, \citenamefont{Neely}, \citenamefont{Sidell},
+  \citenamefont{Olson}, \citenamefont{Markesbery} \protect\BIBand{}
+  \citenamefont{Montine}}]{Montine1998}
+\bibnamefont{Montine}, \bibfnamefont{K.S.}, \bibnamefont{Reich},
+  \bibfnamefont{E.}, \bibnamefont{Neely}, \bibfnamefont{M.D.},
+  \bibnamefont{Sidell}, \bibfnamefont{K.R.}, \bibnamefont{Olson},
+  \bibfnamefont{S.J.}, \bibnamefont{Markesbery}, \bibfnamefont{W.R.}
+  \protect\BIBand{} \bibnamefont{Montine}, \bibfnamefont{T.J.} (1998).
+\newblock {Distribution of reducible 4-hydroxynonenal adduct immunoreactivity
+  in Alzheimer disease is associated with APOE genotype}.
+\newblock \emph{Journal of Neuropathology and Experimental Neurology},
+  \bblvol{}~57, \bblno{}~5, \bblpp{} 415--425.
+\newblock ISSN 00223069.
+
+\bibitem[{\citenamefont{Musiek} \protect\BIBand{}
+  \citenamefont{Holtzman}(2015)}]{Musiek2015}
+\bibnamefont{Musiek}, \bibfnamefont{E.S.} \protect\BIBand{}
+  \bibnamefont{Holtzman}, \bibfnamefont{D.M.} (2015).
+\newblock {Three dimensions of the amyloid hypothesis: time, space and
+  'wingmen'}.
+\newblock \emph{Nat Neurosci}, \bblvol{}~18, \bblno{}~6, \bblpp{} 800--806.
+\newblock ISSN 1097-6256.
+
+\bibitem[{\citenamefont{Nixon} \protect\BIBand{}
+  \citenamefont{Yang}(2011)}]{Nixon2011}
+\bibnamefont{Nixon}, \bibfnamefont{R.a.} \protect\BIBand{} \bibnamefont{Yang},
+  \bibfnamefont{D.S.} (2011).
+\newblock {Autophagy failure in Alzheimer's disease-locating the primary
+  defect}.
+\newblock \emph{Neurobiology of Disease}, \bblvol{}~43, \bblno{}~1, \bblpp{}
+  38--45.
+\newblock ISSN 09699961.
+
+\bibitem[{\citenamefont{Nunomura}
+  \emph{\bbletal{}}(2001)\citenamefont{Nunomura}, \citenamefont{Perry},
+  \citenamefont{Aliev}, \citenamefont{Hirai}, \citenamefont{Takeda},
+  \citenamefont{Balraj}, \citenamefont{Jones}, \citenamefont{Ghanbari},
+  \citenamefont{Wataya}, \citenamefont{Shimohama}, \citenamefont{Chiba},
+  \citenamefont{Atwood}, \citenamefont{Petersen} \protect\BIBand{}
+  \citenamefont{Smith}}]{Nunomura2001}
+\bibnamefont{Nunomura}, \bibfnamefont{A.}, \bibnamefont{Perry},
+  \bibfnamefont{G.}, \bibnamefont{Aliev}, \bibfnamefont{G.},
+  \bibnamefont{Hirai}, \bibfnamefont{K.}, \bibnamefont{Takeda},
+  \bibfnamefont{A.}, \bibnamefont{Balraj}, \bibfnamefont{E.K.},
+  \bibnamefont{Jones}, \bibfnamefont{P.K.}, \bibnamefont{Ghanbari},
+  \bibfnamefont{H.}, \bibnamefont{Wataya}, \bibfnamefont{T.},
+  \bibnamefont{Shimohama}, \bibfnamefont{S.}, \bibnamefont{Chiba},
+  \bibfnamefont{S.}, \bibnamefont{Atwood}, \bibfnamefont{C.S.},
+  \bibnamefont{Petersen}, \bibfnamefont{R.B.} \protect\BIBand{}
+  \bibnamefont{Smith}, \bibfnamefont{M.A.} (2001).
+\newblock {Oxidative damage is the earliest event in Alzheimer disease}.
+\newblock \emph{Journal of Neuropathology and Experimental Neurology},
+  \bblvol{}~60, \bblno{}~8, \bblpp{} 759--767.
+\newblock ISSN 00223069.
+
+\bibitem[{\citenamefont{O'Brien} \protect\BIBand{}
+  \citenamefont{Wong}(2011)}]{Obrien2011}
+\bibnamefont{O'Brien}, \bibfnamefont{R.J.} \protect\BIBand{}
+  \bibnamefont{Wong}, \bibfnamefont{P.C.} (2011).
+\newblock Amyloid precursor protein processing and alzheimer's disease.
+\newblock \emph{Annual Review of Neuroscience}, \bblvol{}~34, \bblno{}~1,
+  \bblpp{} 185--204.
+\newblock PMID: 21456963.
+
+\bibitem[{\citenamefont{Paddick} \emph{\bbletal{}}(2013)\citenamefont{Paddick},
+  \citenamefont{Longdon}, \citenamefont{Kisoli}, \citenamefont{Dotchin},
+  \citenamefont{Gray}, \citenamefont{Dewhurst}, \citenamefont{Chaote},
+  \citenamefont{Kalaria}, \citenamefont{Jusabani} \protect\BIBand{}
+  \citenamefont{Walker}}]{Paddick2013}
+\bibnamefont{Paddick}, \bibfnamefont{S.-M.}, \bibnamefont{Longdon},
+  \bibfnamefont{A.R.}, \bibnamefont{Kisoli}, \bibfnamefont{A.},
+  \bibnamefont{Dotchin}, \bibfnamefont{C.}, \bibnamefont{Gray},
+  \bibfnamefont{W.K.}, \bibnamefont{Dewhurst}, \bibfnamefont{F.},
+  \bibnamefont{Chaote}, \bibfnamefont{P.}, \bibnamefont{Kalaria},
+  \bibfnamefont{R.}, \bibnamefont{Jusabani}, \bibfnamefont{A.M.}
+  \protect\BIBand{} \bibnamefont{Walker}, \bibfnamefont{R.} (2013).
+\newblock {Comparison of Two Diagnostic Criteria}.
+\newblock \emph{Global Health Action}, \bblvol{}~1, \bblpp{} 1--7.
+
+\bibitem[{\citenamefont{Palmer} \protect\BIBand{}
+  \citenamefont{Burns}(1994)}]{Palmer1994}
+\bibnamefont{Palmer}, \bibfnamefont{A.M.} \protect\BIBand{}
+  \bibnamefont{Burns}, \bibfnamefont{M.A.} (1994).
+\newblock {Selective increase in lipid peroxidation in the inferior temporal
+  cortex in Alzheimer's disease}.
+\newblock \emph{Brain Research}, \bblvol{} 645, \bblno{} 1-2, \bblpp{}
+  338--342.
+\newblock ISSN 00068993.
+
+\bibitem[{\citenamefont{Pankiv} \emph{\bbletal{}}(2007)\citenamefont{Pankiv},
+  \citenamefont{Clausen}, \citenamefont{Lamark}, \citenamefont{Brech},
+  \citenamefont{Bruun}, \citenamefont{Outzen}, \citenamefont{{\O}vervatn},
+  \citenamefont{Bj{\o}rk{\o}y} \protect\BIBand{}
+  \citenamefont{Johansen}}]{pankiv2007}
+\bibnamefont{Pankiv}, \bibfnamefont{S.}, \bibnamefont{Clausen},
+  \bibfnamefont{T.H.}, \bibnamefont{Lamark}, \bibfnamefont{T.},
+  \bibnamefont{Brech}, \bibfnamefont{A.}, \bibnamefont{Bruun},
+  \bibfnamefont{J.-A.}, \bibnamefont{Outzen}, \bibfnamefont{H.},
+  \bibnamefont{{\O}vervatn}, \bibfnamefont{A.}, \bibnamefont{Bj{\o}rk{\o}y},
+  \bibfnamefont{G.} \protect\BIBand{} \bibnamefont{Johansen}, \bibfnamefont{T.}
+  (2007).
+\newblock p62/sqstm1 binds directly to atg8/lc3 to facilitate degradation of
+  ubiquitinated protein aggregates by autophagy.
+\newblock \emph{Journal of Biological Chemistry}, \bblvol{} 282, \bblpp{}
+  24131--24145.
+
+\bibitem[{\citenamefont{Pellerin} \protect\BIBand{}
+  \citenamefont{Magistretti}(2012)}]{Pellerin2012}
+\bibnamefont{Pellerin}, \bibfnamefont{L.} \protect\BIBand{}
+  \bibnamefont{Magistretti}, \bibfnamefont{P.J.} (2012).
+\newblock {Sweet sixteen for ANLS}.
+
+\bibitem[{\citenamefont{Penn} \emph{\bbletal{}}(1993)\citenamefont{Penn},
+  \citenamefont{Mangieri}, \citenamefont{Liang}, \citenamefont{Ryan},
+  \citenamefont{Kinnunen}, \citenamefont{Yeatman}, \citenamefont{Malone},
+  \citenamefont{Benzinger}, \citenamefont{Jack}, \citenamefont{Thompson},
+  \citenamefont{Ghetti}, \citenamefont{Saykin}, \citenamefont{Masters},
+  \citenamefont{Ringman}, \citenamefont{Salloway}, \citenamefont{Schofield},
+  \citenamefont{Sperling}, \citenamefont{Cairns}, \citenamefont{Marcus},
+  \citenamefont{Xiong}, \citenamefont{Bateman}, \citenamefont{Morris},
+  \citenamefont{Rossor}, \citenamefont{Ourselin} \protect\BIBand{}
+  \citenamefont{Fox}}]{Penn1993}
+\bibnamefont{Penn}, \bibfnamefont{R.D.}, \bibnamefont{Mangieri},
+  \bibfnamefont{E.A.}, \bibnamefont{Liang}, \bibfnamefont{Y.},
+  \bibnamefont{Ryan}, \bibfnamefont{N.S.}, \bibnamefont{Kinnunen},
+  \bibfnamefont{K.M.}, \bibnamefont{Yeatman}, \bibfnamefont{T.},
+  \bibnamefont{Malone}, \bibfnamefont{I.B.}, \bibnamefont{Benzinger},
+  \bibfnamefont{T.L.}, \bibnamefont{Jack}, \bibfnamefont{C.R.},
+  \bibnamefont{Thompson}, \bibfnamefont{P.M.}, \bibnamefont{Ghetti},
+  \bibfnamefont{B.F.}, \bibnamefont{Saykin}, \bibfnamefont{A.J.},
+  \bibnamefont{Masters}, \bibfnamefont{C.L.}, \bibnamefont{Ringman},
+  \bibfnamefont{J.M.}, \bibnamefont{Salloway}, \bibfnamefont{S.P.},
+  \bibnamefont{Schofield}, \bibfnamefont{P.R.}, \bibnamefont{Sperling},
+  \bibfnamefont{R.A.}, \bibnamefont{Cairns}, \bibfnamefont{N.J.},
+  \bibnamefont{Marcus}, \bibfnamefont{D.S.}, \bibnamefont{Xiong},
+  \bibfnamefont{C.}, \bibnamefont{Bateman}, \bibfnamefont{R.J.},
+  \bibnamefont{Morris}, \bibfnamefont{J.C.}, \bibnamefont{Rossor},
+  \bibfnamefont{M.N.}, \bibnamefont{Ourselin}, \bibfnamefont{S.}
+  \protect\BIBand{} \bibnamefont{Fox}, \bibfnamefont{N.C.} (1993).
+\newblock {Stiff-man syndrome treated with intrathecal baclofen.}
+\newblock \emph{Neurology}, \bblvol{}~43, \bblno{}~11, \bblp{} 2412.
+\newblock ISSN 0028-3878.
+
+\bibitem[{\citenamefont{Perez} \emph{\bbletal{}}(2015)\citenamefont{Perez},
+  \citenamefont{He}, \citenamefont{Nadeem}, \citenamefont{Wuu},
+  \citenamefont{Ginsberg}, \citenamefont{Ikonomovic} \protect\BIBand{}
+  \citenamefont{Mufson}}]{Perez2015}
+\bibnamefont{Perez}, \bibfnamefont{S.E.}, \bibnamefont{He}, \bibfnamefont{B.},
+  \bibnamefont{Nadeem}, \bibfnamefont{M.}, \bibnamefont{Wuu},
+  \bibfnamefont{J.}, \bibnamefont{Ginsberg}, \bibfnamefont{S.D.},
+  \bibnamefont{Ikonomovic}, \bibfnamefont{M.D.} \protect\BIBand{}
+  \bibnamefont{Mufson}, \bibfnamefont{E.J.} (2015).
+\newblock {Hippocampal endosomal, lysosomal, and autophagic dysregulation in
+  mild cognitive impairment: correlation with a$\beta$ and tau pathology.}
+\newblock \emph{Journal of neuropathology and experimental neurology},
+  \bblvol{}~74, \bblno{}~4, \bblpp{} 345--58.
+\newblock ISSN 1554-6578.
+
+\bibitem[{\citenamefont{Peterson}
+  \emph{\bbletal{}}(1985)\citenamefont{Peterson}, \citenamefont{Gibson}
+  \protect\BIBand{} \citenamefont{Blass}}]{Peterson1985}
+\bibnamefont{Peterson}, \bibfnamefont{C.}, \bibnamefont{Gibson},
+  \bibfnamefont{G.E.} \protect\BIBand{} \bibnamefont{Blass},
+  \bibfnamefont{J.P.} (1985).
+\newblock {Altered Calcium Uptake in Cultured Skin Fibroblasts from Patients
+  with Alzheimer's Disease}.
+
+\bibitem[{\citenamefont{Petrella}(2013)}]{Petrella2013}
+\bibnamefont{Petrella}, \bibfnamefont{J.R.} (2013).
+\newblock {Neuroimaging and the search for a cure for Alzheimer disease}.
+
+\bibitem[{\citenamefont{Pimenova}
+  \emph{\bbletal{}}(2018)\citenamefont{Pimenova}, \citenamefont{Raj}
+  \protect\BIBand{} \citenamefont{Goate}}]{pimenova2018}
+\bibnamefont{Pimenova}, \bibfnamefont{A.A.}, \bibnamefont{Raj},
+  \bibfnamefont{T.} \protect\BIBand{} \bibnamefont{Goate}, \bibfnamefont{A.M.}
+  (2018).
+\newblock {Untangling Genetic Risk for Alzheimer's Disease.}
+\newblock \emph{Biological psychiatry}, \bblvol{}~83, \bblno{}~4, \bblpp{}
+  300--310.
+\newblock ISSN 1873-2402.
+
+\bibitem[{\citenamefont{Pratic{\`{o}}} \protect\BIBand{}
+  \citenamefont{Sung}(2004)}]{Pratico2004}
+\bibnamefont{Pratic{\`{o}}}, \bibfnamefont{D.} \protect\BIBand{}
+  \bibnamefont{Sung}, \bibfnamefont{S.} (2004).
+\newblock {Lipid Peroxidation and Oxidative imbalance: Early functional events
+  in Alzheimer's disease}.
+
+\bibitem[{\citenamefont{Prince} \emph{\bbletal{}}(2013)\citenamefont{Prince},
+  \citenamefont{Bryce}, \citenamefont{Albanese}, \citenamefont{Wimo},
+  \citenamefont{Ribeiro} \protect\BIBand{} \citenamefont{Ferri}}]{prince2013}
+\bibnamefont{Prince}, \bibfnamefont{M.}, \bibnamefont{Bryce},
+  \bibfnamefont{R.}, \bibnamefont{Albanese}, \bibfnamefont{E.},
+  \bibnamefont{Wimo}, \bibfnamefont{A.}, \bibnamefont{Ribeiro},
+  \bibfnamefont{W.} \protect\BIBand{} \bibnamefont{Ferri}, \bibfnamefont{C.P.}
+  (2013).
+\newblock {The global prevalence of dementia: A systematic review and
+  metaanalysis}.
+\newblock \eprint{NIHMS150003}.
+\newline\bblurlpre\url{http://www.ncbi.nlm.nih.gov/pubmed/23305823}
+
+\bibitem[{\citenamefont{Prà} \emph{\bbletal{}}(2015)\citenamefont{Prà},
+  \citenamefont{Chiarini}, \citenamefont{Gui}, \citenamefont{Chakravarthy},
+  \citenamefont{Pacchiana}, \citenamefont{Gardenal}, \citenamefont{Whitfield}
+  \protect\BIBand{} \citenamefont{Armato}}]{DalPra2015}
+\bibnamefont{Prà}, \bibfnamefont{I.D.}, \bibnamefont{Chiarini},
+  \bibfnamefont{A.}, \bibnamefont{Gui}, \bibfnamefont{L.},
+  \bibnamefont{Chakravarthy}, \bibfnamefont{B.}, \bibnamefont{Pacchiana},
+  \bibfnamefont{R.}, \bibnamefont{Gardenal}, \bibfnamefont{E.},
+  \bibnamefont{Whitfield}, \bibfnamefont{J.F.} \protect\BIBand{}
+  \bibnamefont{Armato}, \bibfnamefont{U.} (2015).
+\newblock Do astrocytes collaborate with neurons in spreading the "infectious"
+  $a\beta$ and tau drivers of alzheimer’s disease?
+\newblock \emph{The Neuroscientist}, \bblvol{}~21, \bblno{}~1, \bblpp{} 9--29.
+
+\bibitem[{\citenamefont{Qiu} \emph{\bbletal{}}(2009)\citenamefont{Qiu},
+  \citenamefont{Kivipelto} \protect\BIBand{} \citenamefont{von
+  Strauss}}]{qiu2009}
+\bibnamefont{Qiu}, \bibfnamefont{C.}, \bibnamefont{Kivipelto},
+  \bibfnamefont{M.} \protect\BIBand{} \bibnamefont{von Strauss},
+  \bibfnamefont{E.} (2009).
+\newblock {Epidemiology of Alzheimer's disease: occurrence, determinants, and
+  strategies toward intervention.}
+\newblock \emph{Dialogues in clinical neuroscience}, \bblvol{}~11, \bblno{}~2,
+  \bblpp{} 111--28.
+\newblock ISSN 1294-8322.
+
+\bibitem[{\citenamefont{Quintanilla}
+  \emph{\bbletal{}}(2012)\citenamefont{Quintanilla}, \citenamefont{Dolan},
+  \citenamefont{Jin} \protect\BIBand{}
+  \citenamefont{Johnson}}]{Quintanilla2012}
+\bibnamefont{Quintanilla}, \bibfnamefont{R.A.}, \bibnamefont{Dolan},
+  \bibfnamefont{P.J.}, \bibnamefont{Jin}, \bibfnamefont{Y.N.} \protect\BIBand{}
+  \bibnamefont{Johnson}, \bibfnamefont{G.V.W.} (2012).
+\newblock {Truncated tau and A$\beta$ cooperatively impair mitochondria in
+  primary neurons}.
+\newblock \emph{Neurobiology of Aging}, \bblvol{}~33, \bblno{}~3, \bblpp{}
+  619.e25--619.e35.
+\newblock ISSN 0197-4580.
+
+\bibitem[{\citenamefont{Rajendran} \protect\BIBand{}
+  \citenamefont{Annaert}(2012)}]{Rajendran2012}
+\bibnamefont{Rajendran}, \bibfnamefont{L.} \protect\BIBand{}
+  \bibnamefont{Annaert}, \bibfnamefont{W.} (2012).
+\newblock Membrane trafficking pathways in alzheimer's disease.
+\newblock \emph{Traffic}, \bblvol{}~13, \bblno{}~6, \bblpp{} 759--770.
+
+\bibitem[{\citenamefont{Ramaker} \emph{\bbletal{}}(2016)\citenamefont{Ramaker},
+  \citenamefont{Cargill}, \citenamefont{Swanson}, \citenamefont{Quirindongo},
+  \citenamefont{Cassar}, \citenamefont{Kretzschmar} \protect\BIBand{}
+  \citenamefont{Copenhaver}}]{Ramaker2016}
+\bibnamefont{Ramaker}, \bibfnamefont{J.M.}, \bibnamefont{Cargill},
+  \bibfnamefont{R.S.}, \bibnamefont{Swanson}, \bibfnamefont{T.L.},
+  \bibnamefont{Quirindongo}, \bibfnamefont{H.}, \bibnamefont{Cassar},
+  \bibfnamefont{M.}, \bibnamefont{Kretzschmar}, \bibfnamefont{D.}
+  \protect\BIBand{} \bibnamefont{Copenhaver}, \bibfnamefont{P.F.} (2016).
+\newblock Amyloid precursor proteins are dynamically trafficked and processed
+  during neuronal development.
+\newblock \emph{Frontiers in Molecular Neuroscience}, \bblvol{}~9, \bblp{} 130.
+\newblock ISSN 1662-5099.
+
+\bibitem[{\citenamefont{Ravikumar}
+  \emph{\bbletal{}}(2002)\citenamefont{Ravikumar}, \citenamefont{Duden}
+  \protect\BIBand{} \citenamefont{Rubinsztein}}]{Ravikumar2002}
+\bibnamefont{Ravikumar}, \bibfnamefont{B.}, \bibnamefont{Duden},
+  \bibfnamefont{R.} \protect\BIBand{} \bibnamefont{Rubinsztein},
+  \bibfnamefont{D.C.} (2002).
+\newblock {Aggregate-prone proteins with polyglutamine and polyalanine
+  expansions are degraded by autophagy.}
+\newblock \emph{Human molecular genetics}, \bblvol{}~11, \bblno{}~9, \bblpp{}
+  1107--1117.
+\newblock ISSN 0964-6906.
+
+\bibitem[{\citenamefont{Ravikumar}
+  \emph{\bbletal{}}(2003)\citenamefont{Ravikumar}, \citenamefont{Sarkar},
+  \citenamefont{Berger} \protect\BIBand{}
+  \citenamefont{Rubinsztein}}]{Ravikumar2003}
+\bibnamefont{Ravikumar}, \bibfnamefont{B.}, \bibnamefont{Sarkar},
+  \bibfnamefont{S.}, \bibnamefont{Berger}, \bibfnamefont{Z.} \protect\BIBand{}
+  \bibnamefont{Rubinsztein}, \bibfnamefont{D.C.} (2003).
+\newblock {The roles of the ubiquitin-proteasome and autophagy-lysosome
+  pathways in Huntington's disease and related conditions}.
+\newblock \emph{Clinical Neuroscience Research}, \bblvol{}~3, \bblno{}~3,
+  \bblpp{} 141--148.
+\newblock ISSN 15662772.
+
+\bibitem[{\citenamefont{Ravikumar}
+  \emph{\bbletal{}}(2004)\citenamefont{Ravikumar}, \citenamefont{Vacher},
+  \citenamefont{Berger}, \citenamefont{Davies}, \citenamefont{Luo},
+  \citenamefont{Oroz}, \citenamefont{Scaravilli}, \citenamefont{Easton},
+  \citenamefont{Duden}, \citenamefont{O'Kane} \protect\BIBand{}
+  \citenamefont{Rubinsztein}}]{Ravikumar2004}
+\bibnamefont{Ravikumar}, \bibfnamefont{B.}, \bibnamefont{Vacher},
+  \bibfnamefont{C.}, \bibnamefont{Berger}, \bibfnamefont{Z.},
+  \bibnamefont{Davies}, \bibfnamefont{J.E.}, \bibnamefont{Luo},
+  \bibfnamefont{S.}, \bibnamefont{Oroz}, \bibfnamefont{L.G.},
+  \bibnamefont{Scaravilli}, \bibfnamefont{F.}, \bibnamefont{Easton},
+  \bibfnamefont{D.F.}, \bibnamefont{Duden}, \bibfnamefont{R.},
+  \bibnamefont{O'Kane}, \bibfnamefont{C.J.} \protect\BIBand{}
+  \bibnamefont{Rubinsztein}, \bibfnamefont{D.C.} (2004).
+\newblock {Inhibition of mTOR induces autophagy and reduces toxicity of
+  polyglutamine expansions in fly and mouse models of Huntington disease.}
+\newblock \emph{Nature genetics}, \bblvol{}~36, \bblno{}~6, \bblpp{} 585--95.
+\newblock ISSN 1061-4036.
+
+\bibitem[{\citenamefont{Reitz} \protect\BIBand{}
+  \citenamefont{Mayeux}(2014)}]{Reitz2014}
+\bibnamefont{Reitz}, \bibfnamefont{C.} \protect\BIBand{} \bibnamefont{Mayeux},
+  \bibfnamefont{R.} (2014).
+\newblock {Alzheimer disease: epidemiology, diagnostic criteria, risk factors
+  and biomarkers.}
+\newblock \emph{Biochemical pharmacology}, \bblvol{}~88, \bblno{}~4, \bblpp{}
+  640--51.
+\newblock ISSN 1873-2968.
+\newblock \eprint{NIHMS150003}.
+
+\bibitem[{\citenamefont{Rhee}(2006)}]{Rhee2006}
+\bibnamefont{Rhee}, \bibfnamefont{S.G.} (2006).
+\newblock {H2O2, a necessary evil for cell signaling}.
+
+\bibitem[{\citenamefont{Rinaldi} \emph{\bbletal{}}(2003)\citenamefont{Rinaldi},
+  \citenamefont{Polidori}, \citenamefont{Metastasio}, \citenamefont{Mariani},
+  \citenamefont{Mattioli}, \citenamefont{Cherubini}, \citenamefont{Catani},
+  \citenamefont{Cecchetti}, \citenamefont{Senin} \protect\BIBand{}
+  \citenamefont{Mecocci}}]{Rinaldi2003}
+\bibnamefont{Rinaldi}, \bibfnamefont{P.}, \bibnamefont{Polidori},
+  \bibfnamefont{M.C.}, \bibnamefont{Metastasio}, \bibfnamefont{A.},
+  \bibnamefont{Mariani}, \bibfnamefont{E.}, \bibnamefont{Mattioli},
+  \bibfnamefont{P.}, \bibnamefont{Cherubini}, \bibfnamefont{A.},
+  \bibnamefont{Catani}, \bibfnamefont{M.}, \bibnamefont{Cecchetti},
+  \bibfnamefont{R.}, \bibnamefont{Senin}, \bibfnamefont{U.} \protect\BIBand{}
+  \bibnamefont{Mecocci}, \bibfnamefont{P.} (2003).
+\newblock {Plasma antioxidants are similarly depleted in mild cognitive
+  impairment and in Alzheimer's disease}.
+\newblock \emph{Neurobiology of Aging}, \bblvol{}~24, \bblno{}~7, \bblpp{}
+  915--919.
+\newblock ISSN 01974580.
+
+\bibitem[{\citenamefont{Rose} \emph{\bbletal{}}(2010)\citenamefont{Rose},
+  \citenamefont{Menzies}, \citenamefont{Renna}, \citenamefont{Acevedo-Arozena},
+  \citenamefont{Corrochano}, \citenamefont{Sadiq}, \citenamefont{Brown}
+  \protect\BIBand{} \citenamefont{Rubinsztein}}]{Rose2010}
+\bibnamefont{Rose}, \bibfnamefont{C.}, \bibnamefont{Menzies},
+  \bibfnamefont{F.M.}, \bibnamefont{Renna}, \bibfnamefont{M.},
+  \bibnamefont{Acevedo-Arozena}, \bibfnamefont{A.}, \bibnamefont{Corrochano},
+  \bibfnamefont{S.}, \bibnamefont{Sadiq}, \bibfnamefont{O.},
+  \bibnamefont{Brown}, \bibfnamefont{S.D.} \protect\BIBand{}
+  \bibnamefont{Rubinsztein}, \bibfnamefont{D.C.} (2010).
+\newblock {Rilmenidine attenuates toxicity of polyglutamine expansions in a
+  mouse model of Huntington's disease}.
+\newblock \emph{Human Molecular Genetics}, \bblvol{}~19, \bblno{}~11, \bblpp{}
+  2144--2153.
+\newblock ISSN 09646906.
+
+\bibitem[{\citenamefont{Rosenmann}(2013)}]{Rosenmann2013}
+\bibnamefont{Rosenmann}, \bibfnamefont{H.} (2013).
+\newblock {Immunotherapy for Targeting Tau Pathology in Alzheimer's Disease and
+  Tauopathies}.
+
+\bibitem[{\citenamefont{Roychaudhuri}
+  \emph{\bbletal{}}(2009)\citenamefont{Roychaudhuri}, \citenamefont{Yang},
+  \citenamefont{Hoshi} \protect\BIBand{}
+  \citenamefont{Teplow}}]{Roychaudhuri2009}
+\bibnamefont{Roychaudhuri}, \bibfnamefont{R.}, \bibnamefont{Yang},
+  \bibfnamefont{M.}, \bibnamefont{Hoshi}, \bibfnamefont{M.M.} \protect\BIBand{}
+  \bibnamefont{Teplow}, \bibfnamefont{D.B.} (2009).
+\newblock Amyloid $\beta$-protein assembly and alzheimer disease.
+\newblock \emph{Journal of Biological Chemistry}, \bblvol{} 284, \bblno{}~8,
+  \bblpp{} 4749--4753.
+
+\bibitem[{\citenamefont{Rubinsztein}
+  \emph{\bbletal{}}(2005)\citenamefont{Rubinsztein}, \citenamefont{DiFiglia},
+  \citenamefont{Heintz}, \citenamefont{Nixon}, \citenamefont{Qin},
+  \citenamefont{Ravikumar}, \citenamefont{Stefanis} \protect\BIBand{}
+  \citenamefont{Tolkovsky}}]{Rubinsztein2005}
+\bibnamefont{Rubinsztein}, \bibfnamefont{D.C.}, \bibnamefont{DiFiglia},
+  \bibfnamefont{M.}, \bibnamefont{Heintz}, \bibfnamefont{N.},
+  \bibnamefont{Nixon}, \bibfnamefont{R.A.}, \bibnamefont{Qin},
+  \bibfnamefont{Z.H.}, \bibnamefont{Ravikumar}, \bibfnamefont{B.},
+  \bibnamefont{Stefanis}, \bibfnamefont{L.} \protect\BIBand{}
+  \bibnamefont{Tolkovsky}, \bibfnamefont{A.} (2005).
+\newblock {Autophagy and its possible roles in nervous system diseases, damage
+  and repair.}
+\newblock \emph{Autophagy}, \bblvol{}~1, \bblno{}~1, \bblpp{} 11--22.
+\newblock ISSN 15548627.
+
+\bibitem[{\citenamefont{Sabo} \emph{\bbletal{}}(2003)\citenamefont{Sabo},
+  \citenamefont{Ikin}, \citenamefont{Buxbaum} \protect\BIBand{}
+  \citenamefont{Greengard}}]{Sabo2003}
+\bibnamefont{Sabo}, \bibfnamefont{S.L.}, \bibnamefont{Ikin},
+  \bibfnamefont{A.F.}, \bibnamefont{Buxbaum}, \bibfnamefont{J.D.}
+  \protect\BIBand{} \bibnamefont{Greengard}, \bibfnamefont{P.} (2003).
+\newblock The amyloid precursor protein and its regulatory protein, fe65, in
+  growth cones and synapses in vitro and in vivo.
+\newblock \emph{Journal of Neuroscience}, \bblvol{}~23, \bblno{}~13, \bblpp{}
+  5407--5415.
+\newblock ISSN 0270-6474.
+
+\bibitem[{\citenamefont{Sahani} \emph{\bbletal{}}(2014)\citenamefont{Sahani},
+  \citenamefont{Itakura} \protect\BIBand{}
+  \citenamefont{Mizushima}}]{sahani2014}
+\bibnamefont{Sahani}, \bibfnamefont{M.H.}, \bibnamefont{Itakura},
+  \bibfnamefont{E.} \protect\BIBand{} \bibnamefont{Mizushima},
+  \bibfnamefont{N.} (2014).
+\newblock Expression of the autophagy substrate sqstm1/p62 is restored during
+  prolonged starvation depending on transcriptional upregulation and
+  autophagy-derived amino acids.
+\newblock \emph{Autophagy}, \bblvol{}~10, \bblno{}~3, \bblpp{} 431--441.
+\newblock PMID: 24394643.
+
+\bibitem[{\citenamefont{Santiba{\~{n}}ez}
+  \emph{\bbletal{}}(2007)\citenamefont{Santiba{\~{n}}ez},
+  \citenamefont{Bolumar} \protect\BIBand{}
+  \citenamefont{Garc{\'{i}}a}}]{Santibanez2007}
+\bibnamefont{Santiba{\~{n}}ez}, \bibfnamefont{M.}, \bibnamefont{Bolumar},
+  \bibfnamefont{F.} \protect\BIBand{} \bibnamefont{Garc{\'{i}}a},
+  \bibfnamefont{A.M.} (2007).
+\newblock {Occupational risk factors in Alzheimer's disease: A review assessing
+  the quality of published epidemiological studies}.
+
+\bibitem[{\citenamefont{Sarkar}(2013)}]{sarkar2013}
+\bibnamefont{Sarkar}, \bibfnamefont{S.} (2013).
+\newblock Regulation of autophagy by mtor-dependent and mtor-independent
+  pathways: autophagy dysfunction in neurodegenerative diseases and therapeutic
+  application of autophagy enhancers.
+\newblock \emph{Biochemical Society Transactions}, \bblvol{}~41, \bblno{}~5,
+  \bblpp{} 1103--1130.
+
+\bibitem[{\citenamefont{Scheff} \emph{\bbletal{}}(2006)\citenamefont{Scheff},
+  \citenamefont{Price}, \citenamefont{Schmitt} \protect\BIBand{}
+  \citenamefont{Mufson}}]{scheff2006}
+\bibnamefont{Scheff}, \bibfnamefont{S.W.}, \bibnamefont{Price},
+  \bibfnamefont{D.A.}, \bibnamefont{Schmitt}, \bibfnamefont{F.A.}
+  \protect\BIBand{} \bibnamefont{Mufson}, \bibfnamefont{E.J.} (2006).
+\newblock {Hippocampal synaptic loss in early Alzheimer's disease and mild
+  cognitive impairment.}
+\newblock \emph{Neurobiology of aging}, \bblvol{}~27, \bblno{}~10, \bblpp{}
+  1372--84.
+\newblock ISSN 1558-1497.
+
+\bibitem[{\citenamefont{Scheuner}
+  \emph{\bbletal{}}(1996)\citenamefont{Scheuner}, \citenamefont{Eckman},
+  \citenamefont{Jensen}, \citenamefont{Song}, \citenamefont{Citron},
+  \citenamefont{Suzuki}, \citenamefont{Bird}, \citenamefont{Hardy},
+  \citenamefont{Hutton}, \citenamefont{Kukull}, \citenamefont{Larson},
+  \citenamefont{Levy-Lahad}, \citenamefont{Viitanen}, \citenamefont{Peskind},
+  \citenamefont{Poorkaj}, \citenamefont{Schellenberg}, \citenamefont{Tanzi},
+  \citenamefont{Wasco}, \citenamefont{Lannfelt}, \citenamefont{Selkoe}
+  \protect\BIBand{} \citenamefont{Younkin}}]{Scheuner1996}
+\bibnamefont{Scheuner}, \bibfnamefont{D.}, \bibnamefont{Eckman},
+  \bibfnamefont{C.}, \bibnamefont{Jensen}, \bibfnamefont{M.},
+  \bibnamefont{Song}, \bibfnamefont{X.}, \bibnamefont{Citron},
+  \bibfnamefont{M.}, \bibnamefont{Suzuki}, \bibfnamefont{N.},
+  \bibnamefont{Bird}, \bibfnamefont{T.}, \bibnamefont{Hardy},
+  \bibfnamefont{J.}, \bibnamefont{Hutton}, \bibfnamefont{M.},
+  \bibnamefont{Kukull}, \bibfnamefont{W.}, \bibnamefont{Larson},
+  \bibfnamefont{E.}, \bibnamefont{Levy-Lahad}, \bibfnamefont{E.},
+  \bibnamefont{Viitanen}, \bibfnamefont{M.}, \bibnamefont{Peskind},
+  \bibfnamefont{E.}, \bibnamefont{Poorkaj}, \bibfnamefont{P.},
+  \bibnamefont{Schellenberg}, \bibfnamefont{G.}, \bibnamefont{Tanzi},
+  \bibfnamefont{R.}, \bibnamefont{Wasco}, \bibfnamefont{W.},
+  \bibnamefont{Lannfelt}, \bibfnamefont{L.}, \bibnamefont{Selkoe},
+  \bibfnamefont{D.} \protect\BIBand{} \bibnamefont{Younkin}, \bibfnamefont{S.}
+  (1996).
+\newblock Secreted amyloid $\beta$-protein similar to that in the senile
+  plaques of alzheimer's disease is increased in vivo by the presenilin 1 and 2
+  and app mutations linked to familial alzheimer's disease.
+\newblock \emph{Nature Medicine}, \bblvol{}~2, \bblno{}~8, \bblpp{} 864--870.
+
+\bibitem[{\citenamefont{Sch{\"{o}}nfeld} \protect\BIBand{}
+  \citenamefont{Reiser}(2013)}]{Schonfeld2013}
+\bibnamefont{Sch{\"{o}}nfeld}, \bibfnamefont{P.} \protect\BIBand{}
+  \bibnamefont{Reiser}, \bibfnamefont{G.} (2013).
+\newblock {Why does brain metabolism not favor burning of fatty acids to
+  provide energy-Reflections on disadvantages of the use of free fatty acids as
+  fuel for brain}.
+
+\bibitem[{\citenamefont{Scott} \emph{\bbletal{}}(2004)\citenamefont{Scott},
+  \citenamefont{Schuldiner} \protect\BIBand{}
+  \citenamefont{Neufeld}}]{Scott2004}
+\bibnamefont{Scott}, \bibfnamefont{R.C.}, \bibnamefont{Schuldiner},
+  \bibfnamefont{O.} \protect\BIBand{} \bibnamefont{Neufeld},
+  \bibfnamefont{T.P.} (2004).
+\newblock {Role and Regulation of Starvation-Induced Autophagy in the
+  Drosophila Fat Body}.
+\newblock \emph{Developmental Cell}, \bblvol{}~7, \bblno{}~2, \bblpp{}
+  167--178.
+\newblock ISSN 15345807.
+
+\bibitem[{\citenamefont{Selkoe}(2012)}]{Selkoe2012}
+\bibnamefont{Selkoe}, \bibfnamefont{D.J.} (2012).
+\newblock Preventing alzheimer{\textquoteright}s disease.
+\newblock \emph{Science}, \bblvol{} 337, \bblno{} 6101, \bblpp{} 1488--1492.
+\newblock ISSN 0036-8075.
+
+\bibitem[{\citenamefont{Selkoe} \protect\BIBand{}
+  \citenamefont{Hardy}(2016)}]{Selkoe2016}
+\bibnamefont{Selkoe}, \bibfnamefont{D.J.} \protect\BIBand{}
+  \bibnamefont{Hardy}, \bibfnamefont{J.} (2016).
+\newblock The amyloid hypothesis of alzheimer's disease at 25 years.
+\newblock \emph{EMBO Molecular Medicine}, \bblvol{}~8, \bblno{}~6, \bblpp{}
+  595--608.
+
+\bibitem[{\citenamefont{Serres} \emph{\bbletal{}}(2005)\citenamefont{Serres},
+  \citenamefont{Bezancon}, \citenamefont{Franconi} \protect\BIBand{}
+  \citenamefont{Merle}}]{Serres2005}
+\bibnamefont{Serres}, \bibfnamefont{S.}, \bibnamefont{Bezancon},
+  \bibfnamefont{E.}, \bibnamefont{Franconi}, \bibfnamefont{J.M.}
+  \protect\BIBand{} \bibnamefont{Merle}, \bibfnamefont{M.} (2005).
+\newblock {Ex vivo NMR study of lactate metabolism in rat brain under various
+  depressed states}.
+\newblock \capitalize\bblin{}: \emph{Journal of Neuroscience Research},
+  \bblvol{}~79, \bblpp{} 19--25.
+\newblock ISSN 03604012.
+
+\bibitem[{\citenamefont{Shankar} \emph{\bbletal{}}(2008)\citenamefont{Shankar},
+  \citenamefont{Li}, \citenamefont{Mehta}, \citenamefont{Garcia-Munoz},
+  \citenamefont{Shepardson}, \citenamefont{Smith}, \citenamefont{Brett},
+  \citenamefont{Farrell}, \citenamefont{Rowan}, \citenamefont{Lemere},
+  \citenamefont{Regan}, \citenamefont{Walsh}, \citenamefont{Sabatini}
+  \protect\BIBand{} \citenamefont{Selkoe}}]{Shankar2008}
+\bibnamefont{Shankar}, \bibfnamefont{G.M.}, \bibnamefont{Li},
+  \bibfnamefont{S.}, \bibnamefont{Mehta}, \bibfnamefont{T.H.},
+  \bibnamefont{Garcia-Munoz}, \bibfnamefont{A.}, \bibnamefont{Shepardson},
+  \bibfnamefont{N.E.}, \bibnamefont{Smith}, \bibfnamefont{I.},
+  \bibnamefont{Brett}, \bibfnamefont{F.M.}, \bibnamefont{Farrell},
+  \bibfnamefont{M.A.}, \bibnamefont{Rowan}, \bibfnamefont{M.J.},
+  \bibnamefont{Lemere}, \bibfnamefont{C.A.}, \bibnamefont{Regan},
+  \bibfnamefont{C.M.}, \bibnamefont{Walsh}, \bibfnamefont{D.M.},
+  \bibnamefont{Sabatini}, \bibfnamefont{B.L.} \protect\BIBand{}
+  \bibnamefont{Selkoe}, \bibfnamefont{D.J.} (2008).
+\newblock {Amyloid-$\beta$ protein dimers isolated directly from Alzheimer's
+  brains impair synaptic plasticity and memory}.
+\newblock \emph{Nature Medicine}, \bblvol{}~14, \bblno{}~8, \bblpp{} 837--842.
+\newblock ISSN 1546-170X.
+
+\bibitem[{\citenamefont{Shankar} \protect\BIBand{}
+  \citenamefont{Walsh}(2009)}]{Shankar2009}
+\bibnamefont{Shankar}, \bibfnamefont{G.M.} \protect\BIBand{}
+  \bibnamefont{Walsh}, \bibfnamefont{D.M.} (2009).
+\newblock {Alzheimer's disease: synaptic dysfunction and A$\beta$}.
+\newblock \emph{Molecular Neurodegeneration}, \bblvol{}~4, \bblno{}~1,
+  \bblp{}~48.
+\newblock ISSN 1750-1326.
+
+\bibitem[{\citenamefont{Shibata} \protect\BIBand{}
+  \citenamefont{Kobayashi}(2008)}]{Shibata2008}
+\bibnamefont{Shibata}, \bibfnamefont{N.} \protect\BIBand{}
+  \bibnamefont{Kobayashi}, \bibfnamefont{M.} (2008).
+\newblock {The role for oxidative stress in neurodegenerative diseases}.
+
+\bibitem[{\citenamefont{Swerdlow}(2007)}]{Swerdlow2007}
+\bibnamefont{Swerdlow}, \bibfnamefont{R.H.} (2007).
+\newblock {Pathogenesis of Alzheimer's disease.}
+\newblock \emph{Clinical interventions in aging}, \bblvol{}~2, \bblno{}~3,
+  \bblpp{} 347--59.
+\newblock ISSN 1176-9092.
+
+\bibitem[{\citenamefont{Takahashi}
+  \emph{\bbletal{}}(2013)\citenamefont{Takahashi},
+  \citenamefont{Capetillo-Zarate}, \citenamefont{Lin}, \citenamefont{Milner}
+  \protect\BIBand{} \citenamefont{Gouras}}]{Takahasi2013}
+\bibnamefont{Takahashi}, \bibfnamefont{R.H.}, \bibnamefont{Capetillo-Zarate},
+  \bibfnamefont{E.}, \bibnamefont{Lin}, \bibfnamefont{M.T.},
+  \bibnamefont{Milner}, \bibfnamefont{T.A.} \protect\BIBand{}
+  \bibnamefont{Gouras}, \bibfnamefont{G.K.} (2013).
+\newblock Accumulation of intraneuronal $\beta$-amyloid 42 peptides is
+  associated with early changes in microtubule-associated protein 2 in neurites
+  and synapses.
+\newblock \emph{PLOS ONE}, \bblvol{}~8, \bblno{}~1, \bblpp{} 1--9.
+
+\bibitem[{\citenamefont{Teplow}(2013)}]{Teplow2013}
+\bibnamefont{Teplow}, \bibfnamefont{D.B.} (2013).
+\newblock {On the subject of rigor in the study of amyloid $\beta$-protein
+  assembly}.
+\newblock \emph{Alzheimer's Research {\&} Therapy}, \bblvol{}~5, \bblno{}~4,
+  \bblp{}~39.
+\newblock ISSN 1758-9193.
+
+\bibitem[{\citenamefont{Torres} \emph{\bbletal{}}(2011)\citenamefont{Torres},
+  \citenamefont{Quaglio}, \citenamefont{{De Souza}}, \citenamefont{Garcia},
+  \citenamefont{Dati}, \citenamefont{Moreira}, \citenamefont{{De Melo
+  Loureiro}}, \citenamefont{{De Souza-Talarico}}, \citenamefont{Smid},
+  \citenamefont{Porto}, \citenamefont{{De Campos Bottino}},
+  \citenamefont{Nitrini}, \citenamefont{{De Moraes Barros}},
+  \citenamefont{Camarini} \protect\BIBand{}
+  \citenamefont{Marcourakis}}]{Torres2011}
+\bibnamefont{Torres}, \bibfnamefont{L.L.}, \bibnamefont{Quaglio},
+  \bibfnamefont{N.B.}, \bibnamefont{{De Souza}}, \bibfnamefont{G.T.},
+  \bibnamefont{Garcia}, \bibfnamefont{R.T.}, \bibnamefont{Dati},
+  \bibfnamefont{L.M.M.}, \bibnamefont{Moreira}, \bibfnamefont{W.L.},
+  \bibnamefont{{De Melo Loureiro}}, \bibfnamefont{A.P.}, \bibnamefont{{De
+  Souza-Talarico}}, \bibfnamefont{J.N.}, \bibnamefont{Smid}, \bibfnamefont{J.},
+  \bibnamefont{Porto}, \bibfnamefont{C.S.}, \bibnamefont{{De Campos Bottino}},
+  \bibfnamefont{C.M.H.}, \bibnamefont{Nitrini}, \bibfnamefont{R.},
+  \bibnamefont{{De Moraes Barros}}, \bibfnamefont{S.B.},
+  \bibnamefont{Camarini}, \bibfnamefont{R.} \protect\BIBand{}
+  \bibnamefont{Marcourakis}, \bibfnamefont{T.} (2011).
+\newblock {Peripheral oxidative stress biomarkers in mild cognitive impairment
+  and alzheimer's disease}.
+\newblock \emph{Journal of Alzheimer's Disease}, \bblvol{}~26, \bblno{}~1,
+  \bblpp{} 59--68.
+\newblock ISSN 18758908.
+
+\bibitem[{\citenamefont{Wang} \emph{\bbletal{}}(2005)\citenamefont{Wang},
+  \citenamefont{Xiong}, \citenamefont{Xie}, \citenamefont{Markesbery}
+  \protect\BIBand{} \citenamefont{Lovell}}]{Wang2005}
+\bibnamefont{Wang}, \bibfnamefont{J.}, \bibnamefont{Xiong}, \bibfnamefont{S.},
+  \bibnamefont{Xie}, \bibfnamefont{C.}, \bibnamefont{Markesbery},
+  \bibfnamefont{W.R.} \protect\BIBand{} \bibnamefont{Lovell},
+  \bibfnamefont{M.A.} (2005).
+\newblock {Increased oxidative damage in nuclear and mitochondrial DNA in
+  Alzheimer's disease}.
+\newblock \emph{Journal of Neurochemistry}, \bblvol{}~93, \bblno{}~4, \bblpp{}
+  953--962.
+\newblock ISSN 00223042.
+
+\bibitem[{\citenamefont{Wang} \emph{\bbletal{}}(2014)\citenamefont{Wang},
+  \citenamefont{Zhang}, \citenamefont{Xue}, \citenamefont{Zhang},
+  \citenamefont{Zhang}, \citenamefont{Wang}, \citenamefont{Lu},
+  \citenamefont{Li}, \citenamefont{Bai}, \citenamefont{Lin},
+  \citenamefont{Lou}, \citenamefont{Xu} \protect\BIBand{}
+  \citenamefont{Zhao}}]{Wang2014}
+\bibnamefont{Wang}, \bibfnamefont{W.}, \bibnamefont{Zhang}, \bibfnamefont{H.},
+  \bibnamefont{Xue}, \bibfnamefont{G.}, \bibnamefont{Zhang}, \bibfnamefont{L.},
+  \bibnamefont{Zhang}, \bibfnamefont{W.}, \bibnamefont{Wang},
+  \bibfnamefont{L.}, \bibnamefont{Lu}, \bibfnamefont{F.}, \bibnamefont{Li},
+  \bibfnamefont{H.}, \bibnamefont{Bai}, \bibfnamefont{S.}, \bibnamefont{Lin},
+  \bibfnamefont{Y.}, \bibnamefont{Lou}, \bibfnamefont{Y.}, \bibnamefont{Xu},
+  \bibfnamefont{C.} \protect\BIBand{} \bibnamefont{Zhao}, \bibfnamefont{Y.}
+  (2014).
+\newblock {Exercise training preserves ischemic preconditioning in aged rat
+  hearts by restoring the myocardial polyamine pool}.
+\newblock \emph{Oxidative Medicine and Cellular Longevity}, \bblvol{} 2014.
+\newblock ISSN 19420994.
+
+\bibitem[{\citenamefont{Weggen} \protect\BIBand{}
+  \citenamefont{Beher}(2012)}]{Weggen2012}
+\bibnamefont{Weggen}, \bibfnamefont{S.} \protect\BIBand{} \bibnamefont{Beher},
+  \bibfnamefont{D.} (2012).
+\newblock {Molecular consequences of amyloid precursor protein and presenilin
+  mutations causing autosomal-dominant Alzheimer's disease}.
+\newblock \emph{Alzheimer's Research {\&} Therapy}, \bblvol{}~4, \bblno{}~2,
+  \bblp{}~9.
+\newblock ISSN 1758-9193.
+
+\bibitem[{\citenamefont{Williams}
+  \emph{\bbletal{}}(2006)\citenamefont{Williams}, \citenamefont{Lynn},
+  \citenamefont{Markesbery} \protect\BIBand{}
+  \citenamefont{Lovell}}]{Williams2006}
+\bibnamefont{Williams}, \bibfnamefont{T.I.}, \bibnamefont{Lynn},
+  \bibfnamefont{B.C.}, \bibnamefont{Markesbery}, \bibfnamefont{W.R.}
+  \protect\BIBand{} \bibnamefont{Lovell}, \bibfnamefont{M.A.} (2006).
+\newblock {Increased levels of 4-hydroxynonenal and acrolein, neurotoxic
+  markers of lipid peroxidation, in the brain in Mild Cognitive Impairment and
+  early Alzheimer's disease}.
+\newblock \emph{Neurobiology of Aging}, \bblvol{}~27, \bblno{}~8, \bblpp{}
+  1094--1099.
+\newblock ISSN 01974580.
+
+\bibitem[{\citenamefont{Wong} \emph{\bbletal{}}(2008)\citenamefont{Wong},
+  \citenamefont{Tan}, \citenamefont{Soong}, \citenamefont{Hussein},
+  \citenamefont{Nukina}, \citenamefont{Dawson}, \citenamefont{Dawson},
+  \citenamefont{Cuervo} \protect\BIBand{} \citenamefont{Lim}}]{Wong2008}
+\bibnamefont{Wong}, \bibfnamefont{E.S.}, \bibnamefont{Tan},
+  \bibfnamefont{J.M.}, \bibnamefont{Soong}, \bibfnamefont{W.-E.},
+  \bibnamefont{Hussein}, \bibfnamefont{K.}, \bibnamefont{Nukina},
+  \bibfnamefont{N.}, \bibnamefont{Dawson}, \bibfnamefont{V.L.},
+  \bibnamefont{Dawson}, \bibfnamefont{T.M.}, \bibnamefont{Cuervo},
+  \bibfnamefont{A.M.} \protect\BIBand{} \bibnamefont{Lim}, \bibfnamefont{K.-L.}
+  (2008).
+\newblock {Autophagy-mediated clearance of aggresomes is not a universal
+  phenomenon}.
+\newblock \emph{Human Molecular Genetics}, \bblvol{}~17, \bblno{}~16, \bblpp{}
+  2570--2582.
+\newblock ISSN 0964-6906.
+
+\bibitem[{\citenamefont{Yamazaki}
+  \emph{\bbletal{}}(1997)\citenamefont{Yamazaki}, \citenamefont{Koo}
+  \protect\BIBand{} \citenamefont{Selkoe}}]{Yamazaki1997}
+\bibnamefont{Yamazaki}, \bibfnamefont{T.}, \bibnamefont{Koo}, \bibfnamefont{E.}
+  \protect\BIBand{} \bibnamefont{Selkoe}, \bibfnamefont{D.} (1997).
+\newblock Cell surface amyloid $\beta$-protein precursor colocalizes with
+  $\beta$1 integrins at substrate contact sites in neural cells.
+\newblock \emph{Journal of Neuroscience}, \bblvol{}~17, \bblno{}~3, \bblpp{}
+  1004--1010.
+\newblock Cited By 114.
+
+\bibitem[{\citenamefont{Yan} \emph{\bbletal{}}(2016)\citenamefont{Yan},
+  \citenamefont{Zhang}, \citenamefont{Liu} \protect\BIBand{}
+  \citenamefont{Yan}}]{Yan2016}
+\bibnamefont{Yan}, \bibfnamefont{D.}, \bibnamefont{Zhang}, \bibfnamefont{Y.},
+  \bibnamefont{Liu}, \bibfnamefont{L.} \protect\BIBand{} \bibnamefont{Yan},
+  \bibfnamefont{H.} (2016).
+\newblock {Pesticide exposure and risk of Alzheimer's disease: A systematic
+  review and meta-analysis}.
+\newblock \emph{Scientific Reports}, \bblvol{}~6.
+\newblock ISSN 20452322.
+
+\bibitem[{\citenamefont{Yoshii} \protect\BIBand{}
+  \citenamefont{Mizushima}(2017)}]{yoshii2017}
+\bibnamefont{Yoshii}, \bibfnamefont{S.R.} \protect\BIBand{}
+  \bibnamefont{Mizushima}, \bibfnamefont{N.} (2017).
+\newblock Monitoring and measuring autophagy.
+\newblock \emph{International Journal of Molecular Sciences}, \bblvol{}~18,
+  \bblno{}~9, \bblp{} 1865.
+
+\bibitem[{\citenamefont{Zare-Shahabadi}
+  \emph{\bbletal{}}(2015)\citenamefont{Zare-Shahabadi}, \citenamefont{Masliah},
+  \citenamefont{Johnson} \protect\BIBand{}
+  \citenamefont{Rezaei}}]{zare-shahabadi2015}
+\bibnamefont{Zare-Shahabadi}, \bibfnamefont{A.}, \bibnamefont{Masliah},
+  \bibfnamefont{E.}, \bibnamefont{Johnson}, \bibfnamefont{G.V.W.}
+  \protect\BIBand{} \bibnamefont{Rezaei}, \bibfnamefont{N.} (2015).
+\newblock {Autophagy in Alzheimer's disease.}
+\newblock \emph{Reviews in the neurosciences}, \bblvol{}~26, \bblno{}~4,
+  \bblpp{} 385--95.
+\newblock ISSN 0334-1763.
+
+\bibitem[{\citenamefont{Zhang} \emph{\bbletal{}}(2000)\citenamefont{Zhang},
+  \citenamefont{Nadeau}, \citenamefont{Song}, \citenamefont{Donoviel},
+  \citenamefont{Yuan}, \citenamefont{Bernstein} \protect\BIBand{}
+  \citenamefont{Yankner}}]{Zhang2000}
+\bibnamefont{Zhang}, \bibfnamefont{Z.}, \bibnamefont{Nadeau},
+  \bibfnamefont{P.}, \bibnamefont{Song}, \bibfnamefont{W.},
+  \bibnamefont{Donoviel}, \bibfnamefont{D.}, \bibnamefont{Yuan},
+  \bibfnamefont{M.}, \bibnamefont{Bernstein}, \bibfnamefont{A.}
+  \protect\BIBand{} \bibnamefont{Yankner}, \bibfnamefont{B.} (2000).
+\newblock Presenilins are required for $\gamma$-secretase cleavage of
+  $\beta$-app and transmembrane cleavage of notch-1.
+\newblock \emph{Nature Cell Biology}, \bblvol{}~2, \bblno{}~7, \bblpp{}
+  463--465.
+
+\bibitem[{\citenamefont{Zhao} \protect\BIBand{}
+  \citenamefont{Zhao}(2013)}]{Zhao2013}
+\bibnamefont{Zhao}, \bibfnamefont{Y.} \protect\BIBand{} \bibnamefont{Zhao},
+  \bibfnamefont{B.} (2013).
+\newblock {Oxidative stress and the pathogenesis of alzheimer's disease}.
+\newblock \emph{Oxidative Medicine and Cellular Longevity}.
+\newblock ISSN 19420900.
+
+\bibitem[{\citenamefont{Zielke} \emph{\bbletal{}}(2009)\citenamefont{Zielke},
+  \citenamefont{Zielke} \protect\BIBand{} \citenamefont{Baab}}]{Zielke2009}
+\bibnamefont{Zielke}, \bibfnamefont{H.R.}, \bibnamefont{Zielke},
+  \bibfnamefont{C.L.} \protect\BIBand{} \bibnamefont{Baab}, \bibfnamefont{P.J.}
+  (2009).
+\newblock {Direct measurement of oxidative metabolism in the living brain by
+  microdialysis: A review}.
+\newblock \capitalize\bblin{}: \emph{Journal of Neurochemistry}, \bblvol{} 109,
+  \bblpp{} 24--29.
+\newblock ISSN 00223042.
+
+\end{thebibliography}
