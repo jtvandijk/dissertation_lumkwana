@@ -5,7 +5,7 @@
 \contentsline {chapter}{Acknowledgements}{iv}{chapter*.5}% 
 \contentsline {chapter}{Contents}{v}{section*.6}% 
 \contentsline {chapter}{List of Figures}{vii}{section*.7}% 
-\contentsline {chapter}{List of Tables}{ix}{section*.8}% 
+\contentsline {chapter}{List of Tables}{viii}{section*.8}% 
 \contentsline {chapter}{\chapternumberline {1}Literature review}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}% 
 \contentsline {section}{\numberline {1.2}Neuronal metabolism}{4}{section.1.2}% 
@@ -46,8 +46,10 @@
 \contentsline {subsection}{LC3 II and p62 protein turnover}{40}{section*.39}% 
 \contentsline {chapter}{\chapternumberline {4}Role of spermidine and rilmenidine in a paraquat-induced neuronal toxicity model}{41}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Introduction}{41}{section.4.1}% 
-\contentsline {chapter}{\chapternumberline {5}Method development for Correlative Light and Electron Microscopy (CLEM)}{42}{chapter.5}% 
+\contentsline {chapter}{\chapternumberline {5}Concentration dependent characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model }{42}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Introduction}{42}{section.5.1}% 
-\contentsline {chapter}{\chapternumberline {6}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{43}{chapter.6}% 
+\contentsline {chapter}{\chapternumberline {6}Method development for Correlative Light and Electron Microscopy (CLEM)}{43}{chapter.6}% 
 \contentsline {section}{\numberline {6.1}Introduction}{43}{section.6.1}% 
-\contentsline {chapter}{Bibliography}{44}{chapter*.40}% 
+\contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{44}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Introduction}{44}{section.7.1}% 
+\contentsline {chapter}{Bibliography}{45}{chapter*.40}% 
