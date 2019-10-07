@@ -52,4 +52,6 @@
 \contentsline {section}{\numberline {6.1}Introduction}{43}{section.6.1}% 
 \contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{44}{chapter.7}% 
 \contentsline {section}{\numberline {7.1}Introduction}{44}{section.7.1}% 
-\contentsline {chapter}{Bibliography}{45}{chapter*.40}% 
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{45}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of results}{45}{section.8.1}% 
+\contentsline {chapter}{Bibliography}{46}{chapter*.40}% 
