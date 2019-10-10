@@ -69,28 +69,35 @@
 \contentsline {subsection}{Super Resolution-Structured Illumination Microscopy (SR-SIM)}{51}{section*.61}% 
 \contentsline {subsection}{d-STORM}{52}{section*.62}% 
 \contentsline {section}{\numberline {2.9}Transmission Electron Microscopy (TEM)}{52}{section.2.9}% 
-\contentsline {chapter}{\chapternumberline {3}Autophagic flux assessment}{53}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Introduction}{53}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Effect of spermidine and rilmenidine on cell viability}{54}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Effect of spermidine and rilmenidine on autophagic flux using western blotting}{54}{section.3.3}% 
-\contentsline {subsection}{Abundance of LC3 II and p62}{55}{section*.64}% 
-\contentsline {subsection}{LC3 II and p62 protein turnover}{56}{section*.65}% 
-\contentsline {section}{\numberline {3.4}Effect of low and high concentration spermidine and rilmenidine on autophagy pathway intermediates and autophagosome flux using quantitative FM}{58}{section.3.4}% 
-\contentsline {subsection}{Assessment of autophagosome pool size}{59}{section*.68}% 
-\contentsline {subsection}{Assessment of autolysosome pool size}{59}{section*.70}% 
-\contentsline {subsection}{Assessment of autophagosomes flux and transition time}{61}{section*.72}% 
-\contentsline {section}{\numberline {3.5}Effect of low and high concentration of spermidine and rilmenidine on p62 puncta using FM}{61}{section.3.5}% 
-\contentsline {subsection}{Assessment of p62 puncta}{61}{section*.75}% 
-\contentsline {section}{\numberline {3.6}Effect of low and high concentration spermidine and rilmenidine on autophagic vacuoles using TEM}{63}{section.3.6}% 
-\contentsline {subsection}{Assessment of autophagic vacuoles (AVs)}{63}{section*.78}% 
-\contentsline {chapter}{\chapternumberline {4}Role of spermidine and rilmenidine in a paraquat-induced neuronal toxicity model}{65}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Introduction}{65}{section.4.1}% 
-\contentsline {chapter}{\chapternumberline {5}Concentration dependent characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model }{66}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Introduction}{66}{section.5.1}% 
-\contentsline {chapter}{\chapternumberline {6}Method development for Correlative Light and Electron Microscopy (CLEM)}{67}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Introduction}{67}{section.6.1}% 
-\contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{68}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Introduction}{68}{section.7.1}% 
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{69}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Summary of results}{69}{section.8.1}% 
-\contentsline {chapter}{Bibliography}{70}{chapter*.79}% 
+\contentsline {subsection}{Sample preparation}{52}{section*.63}% 
+\contentsline {subsection}{Sectioning and EM image acquisition}{53}{section*.64}% 
+\contentsline {subsection}{Quantitative micrograph analysis using FIJI}{53}{section*.65}% 
+\contentsline {section}{\numberline {2.10}Correlative Light and Electron Microscopy (CLEM)}{53}{section.2.10}% 
+\contentsline {subsection}{Sample preparation for fluorescence microscopy}{54}{section*.66}% 
+\contentsline {subsection}{Sample preparation for Scanning Electron Microscopy (SEM)}{54}{section*.67}% 
+\contentsline {subsection}{Preparation for Image acquisition using electron microscopy (EM)}{55}{section*.68}% 
+\contentsline {chapter}{\chapternumberline {3}Autophagic flux assessment}{56}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Introduction}{56}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Effect of spermidine and rilmenidine on cell viability}{57}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Effect of spermidine and rilmenidine on autophagic flux using western blotting}{57}{section.3.3}% 
+\contentsline {subsection}{Abundance of LC3 II and p62}{58}{section*.70}% 
+\contentsline {subsection}{LC3 II and p62 protein turnover}{59}{section*.71}% 
+\contentsline {section}{\numberline {3.4}Effect of low and high concentration spermidine and rilmenidine on autophagy pathway intermediates and autophagosome flux using quantitative FM}{61}{section.3.4}% 
+\contentsline {subsection}{Assessment of autophagosome pool size}{62}{section*.74}% 
+\contentsline {subsection}{Assessment of autolysosome pool size}{62}{section*.76}% 
+\contentsline {subsection}{Assessment of autophagosomes flux and transition time}{64}{section*.78}% 
+\contentsline {section}{\numberline {3.5}Effect of low and high concentration of spermidine and rilmenidine on p62 puncta using FM}{64}{section.3.5}% 
+\contentsline {subsection}{Assessment of p62 puncta}{64}{section*.81}% 
+\contentsline {section}{\numberline {3.6}Effect of low and high concentration spermidine and rilmenidine on autophagic vacuoles using TEM}{66}{section.3.6}% 
+\contentsline {subsection}{Assessment of autophagic vacuoles (AVs)}{66}{section*.84}% 
+\contentsline {chapter}{\chapternumberline {4}Role of spermidine and rilmenidine in a paraquat-induced neuronal toxicity model}{68}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Introduction}{68}{section.4.1}% 
+\contentsline {chapter}{\chapternumberline {5}Concentration dependent characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model }{69}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Introduction}{69}{section.5.1}% 
+\contentsline {chapter}{\chapternumberline {6}Method development for Correlative Light and Electron Microscopy (CLEM)}{70}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Introduction}{70}{section.6.1}% 
+\contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{71}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Introduction}{71}{section.7.1}% 
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{72}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of results}{72}{section.8.1}% 
+\contentsline {chapter}{Bibliography}{73}{chapter*.85}% 
