@@ -37,15 +37,10 @@
         \parbox[c]{0pt}{\makebox[0pt][c]{%
             \includegraphics[width=#1]{#2}}}}}}
 \definecolor{lightblue}{RGB}{49,130,189}
-\hypersetup{
-	colorlinks=true,
-	allcolors=lightblue,
-	linktoc=page,
-	}
+\hypersetup{colorlinks=true, allcolors=lightblue,linktoc=page,}
 
 %-------------------------------------------------------------------------------
 % Special units
 %-------------------------------------------------------------------------------
-\DeclareSIUnit\Molar{\textsc{m}}
-\setcounter{secnumdepth}{5}
-\setcounter{tocdepth}{5}
+\setsecnumdepth{subsubsection}
+\maxtocdepth{subsubsection}
