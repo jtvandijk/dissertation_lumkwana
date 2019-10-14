@@ -113,4 +113,6 @@
 \contentsline {section}{\numberline {7.1}Introduction}{78}{section.7.1}% 
 \contentsline {chapter}{\chapternumberline {8}Conclusion}{79}{chapter.8}% 
 \contentsline {section}{\numberline {8.1}Summary of results}{79}{section.8.1}% 
-\contentsline {chapter}{Bibliography}{80}{chapter*.33}% 
+\contentsline {chapter}{\chapternumberline {9}Appendix}{80}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Summary of results}{80}{section.9.1}% 
+\contentsline {chapter}{Bibliography}{81}{chapter*.33}% 
