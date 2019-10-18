@@ -22,14 +22,14 @@
 \contentsline {subsection}{\numberline {1.6.1}Definition and role}{14}{subsection.1.6.1}% 
 \contentsline {subsection}{\numberline {1.6.2}The autophagic machinery and its regulation}{16}{subsection.1.6.2}% 
 \contentsline {subsection}{\numberline {1.6.3}Autophagy in healthy neurons \IeC {\textendash } characterized by highly efficient autophagy}{19}{subsection.1.6.3}% 
-\contentsline {subsection}{\numberline {1.6.4}Basal autophagy is essential for neuronal homeostasis}{19}{subsection.1.6.4}% 
+\contentsline {subsection}{\numberline {1.6.4}Basal autophagy is essential for neuronal homeostasis}{20}{subsection.1.6.4}% 
 \contentsline {subsection}{\numberline {1.6.5}Neuronal autophagy and aging}{21}{subsection.1.6.5}% 
-\contentsline {section}{\numberline {1.7}Autophagy dysfunction in AD}{21}{section.1.7}% 
-\contentsline {subsection}{\numberline {1.7.1}Brain autophagy flux differs regionally}{21}{subsection.1.7.1}% 
-\contentsline {subsection}{\numberline {1.7.2}Autophagy defects are diverse and distinct - a need for precision targeting}{23}{subsection.1.7.2}% 
-\contentsline {section}{\numberline {1.8}Autophagic flux control}{25}{section.1.8}% 
-\contentsline {subsection}{\numberline {1.8.1}Assessment of the autophagic machinery}{25}{subsection.1.8.1}% 
-\contentsline {subsection}{\numberline {1.8.2}Assessment of autophagic flux toward a standardized characterization}{27}{subsection.1.8.2}% 
+\contentsline {section}{\numberline {1.7}Autophagy dysfunction in AD}{22}{section.1.7}% 
+\contentsline {subsection}{\numberline {1.7.1}Brain autophagy flux differs regionally}{22}{subsection.1.7.1}% 
+\contentsline {subsection}{\numberline {1.7.2}Autophagy defects are diverse and distinct - a need for precision targeting}{24}{subsection.1.7.2}% 
+\contentsline {section}{\numberline {1.8}Autophagic flux control}{26}{section.1.8}% 
+\contentsline {subsection}{\numberline {1.8.1}Assessment of the autophagic machinery}{26}{subsection.1.8.1}% 
+\contentsline {subsection}{\numberline {1.8.2}Assessment of autophagic flux toward a standardized characterization}{28}{subsection.1.8.2}% 
 \contentsline {section}{\numberline {1.9}Autophagy modulation in therapy-achieving flux control}{29}{section.1.9}% 
 \contentsline {subsection}{\numberline {1.9.1}mTOR-dependent autophagy control}{35}{subsection.1.9.1}% 
 \contentsline {subsection}{\numberline {1.9.2}mTOR-independent autophagy control}{36}{subsection.1.9.2}% 
