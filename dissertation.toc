@@ -94,29 +94,29 @@
 \contentsline {section}{\numberline {3.3}Effect of spermidine and rilmenidine on autophagic flux using western blotting}{63}{section.3.3}% 
 \contentsline {subsection}{\numberline {3.3.1}Abundance of LC3 II and p62}{64}{subsection.3.3.1}% 
 \contentsline {subsection}{\numberline {3.3.2}LC3 II and p62 protein turnover}{65}{subsection.3.3.2}% 
-\contentsline {section}{\numberline {3.4}Effect of low and high concentration spermidine and rilmenidine on autophagy pathway intermediates and autophagosome flux using quantitative FM}{67}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}Effect of a low and high concentration spermidine and rilmenidine on autophagy pathway intermediates, autophagosome flux and transition time using quantitative FM}{67}{section.3.4}% 
 \contentsline {subsection}{\numberline {3.4.1}Assessment of autophagosome pool size}{68}{subsection.3.4.1}% 
 \contentsline {subsection}{\numberline {3.4.2}Assessment of autolysosome pool size}{68}{subsection.3.4.2}% 
 \contentsline {subsection}{\numberline {3.4.3}Assessment of autophagosomes flux and transition time}{70}{subsection.3.4.3}% 
-\contentsline {section}{\numberline {3.5}Effect of low and high concentration of spermidine and rilmenidine on p62 puncta using FM}{70}{section.3.5}% 
+\contentsline {section}{\numberline {3.5}Effect of a low and high concentration of spermidine and rilmenidine on p62 puncta using FM}{70}{section.3.5}% 
 \contentsline {subsection}{\numberline {3.5.1}Assessment of p62 puncta}{70}{subsection.3.5.1}% 
-\contentsline {section}{\numberline {3.6}Effect of low and high concentration spermidine and rilmenidine on autophagic vacuoles using TEM}{72}{section.3.6}% 
+\contentsline {section}{\numberline {3.6}Effect of a low and high concentration spermidine and rilmenidine on autophagic vacuoles using TEM}{72}{section.3.6}% 
 \contentsline {subsection}{\numberline {3.6.1}Assessment of AVs}{72}{subsection.3.6.1}% 
 \contentsline {section}{\numberline {3.7}Discussion: Autophagic flux assessment}{74}{section.3.7}% 
-\contentsline {subsection}{\numberline {3.7.1}Effect of spermidine and rilmenidine on cell viability}{75}{subsection.3.7.1}% 
-\contentsline {subsection}{\numberline {3.7.2}Effect of spermidine and rilmenidine concentration on autophagic flux using WB}{76}{subsection.3.7.2}% 
-\contentsline {subsection}{\numberline {3.7.3}Assessment of autophagosome, autolysosome pool size, autophagosome flux and transition time}{77}{subsection.3.7.3}% 
-\contentsline {subsection}{\numberline {3.7.4}Effect of low and high concentration spermidine and rilmenidine on p62 puncta using FM}{79}{subsection.3.7.4}% 
-\contentsline {subsection}{\numberline {3.7.5}Effect of low and high concentration spermidine and rilmenidine on autophagic vacuoles using TEM}{80}{subsection.3.7.5}% 
-\contentsline {chapter}{\chapternumberline {4}Role of spermidine and rilmenidine in a paraquat-induced neuronal toxicity model}{82}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Introduction}{82}{section.4.1}% 
-\contentsline {chapter}{\chapternumberline {5}Concentration dependent characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model }{83}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Introduction}{83}{section.5.1}% 
-\contentsline {chapter}{\chapternumberline {6}Method development for Correlative Light and Electron Microscopy (CLEM)}{84}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Introduction}{84}{section.6.1}% 
-\contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{85}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Introduction}{85}{section.7.1}% 
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{86}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Summary of results}{86}{section.8.1}% 
-\contentsline {chapter}{Addendum A}{87}{chapter*.33}% 
-\contentsline {chapter}{Bibliography}{88}{chapter*.34}% 
+\contentsline {subsection}{\numberline {3.7.1}The effect of spermidine and rilmenidine on cell viability}{75}{subsection.3.7.1}% 
+\contentsline {subsection}{\numberline {3.7.2}The effect of spermidine and rilmenidine on autophagic flux using WB}{76}{subsection.3.7.2}% 
+\contentsline {subsection}{\numberline {3.7.3}The effect of a low and high concentrations of spermidine and rilmenidine on autophagy pathway intermediates, autophagosome flux and transition time using quantitative FM}{77}{subsection.3.7.3}% 
+\contentsline {subsection}{\numberline {3.7.4}The effect of a low and high concentration spermidine and rilmenidine on p62 puncta using FM}{79}{subsection.3.7.4}% 
+\contentsline {subsection}{\numberline {3.7.5}The effect of a low and high concentration spermidine and rilmenidine on autophagic vacuoles using TEM}{80}{subsection.3.7.5}% 
+\contentsline {chapter}{\chapternumberline {4}Role of spermidine and rilmenidine in a paraquat-induced neuronal toxicity model}{83}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Introduction}{83}{section.4.1}% 
+\contentsline {chapter}{\chapternumberline {5}Concentration dependent characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model }{84}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Introduction}{84}{section.5.1}% 
+\contentsline {chapter}{\chapternumberline {6}Method development for Correlative Light and Electron Microscopy (CLEM)}{85}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Introduction}{85}{section.6.1}% 
+\contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{86}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Introduction}{86}{section.7.1}% 
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{87}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of results}{87}{section.8.1}% 
+\contentsline {chapter}{Addendum A}{88}{chapter*.33}% 
+\contentsline {chapter}{Bibliography}{89}{chapter*.34}% 
