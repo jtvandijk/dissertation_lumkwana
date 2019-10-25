@@ -8,6 +8,7 @@
 % Packages
 %-------------------------------------------------------------------------------
 \usepackage[PhD,wideblock]{usthesis}
+\usepackage{datatool}
 \usepackage{babel}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
@@ -29,6 +30,7 @@
 \usepackage{array}
 \usepackage{makecell}
 \usepackage{multirow}
+\usepackage{enumitem}
 
 %-------------------------------------------------------------------------------
 % Various settings
@@ -40,9 +42,16 @@
             \includegraphics[width=#1]{#2}}}}}}
 \definecolor{lightblue}{RGB}{49,130,189}
 \hypersetup{colorlinks=true, allcolors=lightblue,linktoc=page,}
+\pagestyle{plain}
 
 %-------------------------------------------------------------------------------
 % Special units
 %-------------------------------------------------------------------------------
 \setsecnumdepth{subsubsection}
 \maxtocdepth{subsubsection}
+
+%-------------------------------------------------------------------------------
+% List of abbreviations
+%-------------------------------------------------------------------------------
+\DTLloaddb{acronyms}{chapters/00_abbreviations.csv}
+ \DTLsort{Acronym}{acronyms}
