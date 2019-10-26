@@ -114,21 +114,25 @@
 \contentsline {section}{\numberline {4.2}Effect of PQ on cell viability}{89}{section.4.2}% 
 \contentsline {section}{\numberline {4.3}Effect Spd and Ril on neuronal toxicity induced by PQ}{90}{section.4.3}% 
 \contentsline {subsection}{\numberline {4.3.1}Effect of low and high concentration Spd and Ril on cellular viability}{90}{subsection.4.3.1}% 
-\contentsline {subsection}{\numberline {4.3.2}Effect of low and high concentration of Spd and Ril reactive oxygen species (ROS)}{90}{subsection.4.3.2}% 
-\contentsline {subsection}{\numberline {4.3.3}Effect of low and high concentration of Spd and Ril on reactive oxygen species cell death}{91}{subsection.4.3.3}% 
-\contentsline {chapter}{\chapternumberline {5}The characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model }{92}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Introduction}{92}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}The effect of a low and high concentration spermidine and rilmenidine on cellular viability in the context of APP over-expression}{93}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}Effect of a low and high concentration spermidine on the clearance of APP clusters using d-STORM}{93}{section.5.3}% 
-\contentsline {section}{\numberline {5.4}Effect of a low and high concentration rilmenidine on the clearance of APP clusters using d-STORM}{98}{section.5.4}% 
-\contentsline {section}{\numberline {5.5}Discussion: The characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model}{101}{section.5.5}% 
-\contentsline {subsection}{\numberline {5.5.1}The effect of a low and high concentration spermidine and rilmenidine on cellular viability in the context of APP over-expression}{101}{subsection.5.5.1}% 
-\contentsline {subsection}{\numberline {5.5.2}The effect of a low and high concentration spermidine and rilmenidine on the clearance of APP clusters using d-STORM}{102}{subsection.5.5.2}% 
-\contentsline {chapter}{\chapternumberline {6}Method development for Correlative Light and Electron Microscopy (CLEM)}{105}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Introduction}{105}{section.6.1}% 
-\contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{106}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Introduction}{106}{section.7.1}% 
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{107}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Summary of results}{107}{section.8.1}% 
-\contentsline {chapter}{Addendum A}{108}{chapter*.48}% 
-\contentsline {chapter}{Bibliography}{109}{chapter*.49}% 
+\contentsline {subsection}{\numberline {4.3.2}Effect of low and high concentration of Spd and Ril on reactive oxygen species (ROS)}{91}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Effect of low and high concentration of Spd and Ril on cell death}{92}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}Effect of low and high concentration of Spd and Ril on autophagy}{94}{subsection.4.3.4}% 
+\contentsline {subsubsection}{\numberline {4.3.4.1}Autophagy assessment using fluorescence microscopy}{94}{subsubsection.4.3.4.1}% 
+\contentsline {chapter}{\chapternumberline {5}The characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model }{98}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Introduction}{98}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}The effect of a low and high concentration spermidine and rilmenidine on cellular viability in the context of APP over-expression}{99}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Effect of a low and high concentration spermidine on the clearance of APP clusters using d-STORM}{99}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Effect of a low and high concentration rilmenidine on the clearance of APP clusters using d-STORM}{104}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Discussion: The characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model}{107}{section.5.5}% 
+\contentsline {subsection}{\numberline {5.5.1}The effect of a low and high concentration spermidine and rilmenidine on cellular viability in the context of APP over-expression}{107}{subsection.5.5.1}% 
+\contentsline {subsection}{\numberline {5.5.2}The effect of a low and high concentration spermidine and rilmenidine on the clearance of APP clusters using d-STORM}{108}{subsection.5.5.2}% 
+\contentsline {chapter}{\chapternumberline {6}Method development for Correlative Light and Electron Microscopy (CLEM)}{111}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Introduction}{111}{section.6.1}% 
+\contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{112}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Introduction}{112}{section.7.1}% 
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{113}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of results}{113}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Conclusions and future outlook}{114}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Limitations}{115}{section.8.3}% 
+\contentsline {chapter}{Addendum A}{116}{chapter*.55}% 
+\contentsline {chapter}{Bibliography}{119}{chapter*.57}% 
