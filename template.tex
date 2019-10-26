@@ -25,7 +25,6 @@
 \usepackage[LGRgreek]{mathastext}
 \usepackage{lscape} 
 \usepackage{booktabs}
-\usepackage{longtable}
 \usepackage[utf8x]{inputenc}
 \usepackage{array}
 \usepackage{makecell}
@@ -33,25 +32,39 @@
 \usepackage{enumitem}
 
 %-------------------------------------------------------------------------------
-% Various settings
+% Bibliography style
 %-------------------------------------------------------------------------------
 \bibliographystyle{usmeg-a}
+
+%-------------------------------------------------------------------------------
+% SU watermark cover page
+%-------------------------------------------------------------------------------
 \newcommand*{\WaterMark}[2][0.15\paperwidth]{%
     \AddToShipoutPicture*{\AtTextCenter{%
         \parbox[c]{0pt}{\makebox[0pt][c]{%
             \includegraphics[width=#1]{#2}}}}}}
+            
+%-------------------------------------------------------------------------------
+% Link settings
+%-------------------------------------------------------------------------------
 \definecolor{lightblue}{RGB}{49,130,189}
 \hypersetup{colorlinks=true, allcolors=lightblue,linktoc=page,}
-\pagestyle{plain}
 
 %-------------------------------------------------------------------------------
-% Special units
+% Page headings
+%-------------------------------------------------------------------------------
+ \pagestyle{plain}
+
+%-------------------------------------------------------------------------------
+% Table of contents settings
 %-------------------------------------------------------------------------------
 \setsecnumdepth{subsubsection}
 \maxtocdepth{subsubsection}
 
 %-------------------------------------------------------------------------------
-% List of abbreviations
+% Nomenclature files
 %-------------------------------------------------------------------------------
 \DTLloaddb{acronyms}{chapters/00_abbreviations.csv}
- \DTLsort{Acronym}{acronyms}
+\DTLsort{Acronym}{acronyms}
+ 
+\DTLloaddb{units}{chapters/00_units.csv}

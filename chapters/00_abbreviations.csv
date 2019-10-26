@@ -1,7 +1,72 @@
 Acronym,Description
 AD,Alzheimer’s disease
-AD,Alzheimer’s disease
 FAD,Familial Alzheimer’s disease
 LOAD,Late-onset Alzheimer’s disease
 APP,Amyloid precursor protein
 PSEN,Presenilins
+MCI,Mild cognitive impairment
+A$\beta$,Amyloid beta
+NTFs,Neurofibrillary tangles 
+ACH,Amyloid cascade hypothesis 
+UPS,Ubiquitin-proteasome system 
+ALP,Autophagy-lysosomal pathway 
+ELP,Endocytic-lysosomal pathway 
+GLUTs,Glucose transporters 
+HK,Hexokinase
+Glucose-6P,Glucose-6 phosphate 
+PPP,Pentose phosphate pathway 
+ATP,Adenosine triphosphate
+NADH,Nicotinamide adenine dinucleotide
+TCA,Tricarboxylic acid 
+OxPhos,Oxidative phosphorylation
+LDH,Lactate dehydrogenase 
+NADPH,Nicotinamide adenine dinucleotide phosphate
+ROS,Reactive oxygen species 
+O\textsubscript{2}\textsuperscript{-},Superoxide 
+OH\textsuperscript{-},Hydroxyl ion
+H\textsubscript{2}O\textsubscript{2},Hydrogen peroxide
+SOD,Superoxide dismutase 
+ER,Endoplasmic reticulum 
+Ca\textsuperscript{2+},Calcium ion
+GSH,Glutathione 
+4HNE,4-hydroxynonal 
+MDA,Malondialdehyde 
+ETC,Electron transport chain
+PQ,Paraquat
+AV,Autophagic vacuoles
+SSIM,Saturated structured illumination microscopy  
+PALM,Photoactivation localization microscopy 
+CLEM,Correlative light and electron microscopy 
+LM,Light microscopy 
+EM,Electron microscopy 
+TEM,Transmission electron microscopy 
+SEM,Scanning electron microscopy
+FIB-SEM,Focused ion beam scanning electron microscopy 
+SBF-SEM,Serial blockface scanning electron microscopy
+LAMP2A,Lysosome associated membrane protein type 2A
+CMA,Chaperone mediated autophagy
+ATG,Autophagy related genes
+PI3P,Phosphatidylinositol 3-phosphate 
+mTOR,Mammalian target of rapamycin 
+mTORC1,Mammalian target of rapamycin complex 1
+mTORC2,Mammalian target of rapamycin complex 1
+LC3,microtubule-associated protein 1 light chain 3
+ULK1,Unc-51-like kinase 
+FIP200,Focal adhesion kinase family interacting protein of 200kDa 
+PI3KCIII,Class III phosphatidylinositol 3-kinase 
+UVRAG,UV-irradiation- resistance-associated gene 
+PE,Phosphatidylethanolamine 
+SQSTM1,sequestersome 1
+KIFs,Kinesin superfamily proteins 
+SAMP8,Senescence-accelerated mouse-prone 8 
+BafA1,Bafilomycin
+PD,Parkinson’s disease 
+HD,Huntington’s disease
+CA,Cornu Ammonis 
+SNARE,soluble N-ethylmaleimide-sensitive factor attachment protein receptor DJ1 and PINK1 
+3-MA,3-Methyladenine
+SQSTM1,sequestosome 1
+FACS,Fluorescence-activated cell sorter
+IMPase,Inositol monophosphatase 
+FDA,Food and Drug Administration
+
