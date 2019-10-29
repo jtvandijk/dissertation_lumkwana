@@ -4,9 +4,9 @@
 \contentsline {chapter}{Opsomming}{iii}{chapter*.3}% 
 \contentsline {chapter}{Acknowledgements}{iv}{chapter*.4}% 
 \contentsline {chapter}{Contents}{v}{section*.5}% 
-\contentsline {chapter}{List of Figures}{xi}{section*.6}% 
-\contentsline {chapter}{List of Tables}{xiii}{section*.7}% 
-\contentsline {chapter}{Nomenclature}{xiv}{chapter*.8}% 
+\contentsline {chapter}{List of Figures}{xii}{section*.6}% 
+\contentsline {chapter}{List of Tables}{xv}{section*.7}% 
+\contentsline {chapter}{Nomenclature}{xvi}{chapter*.8}% 
 \contentsline {chapter}{\chapternumberline {1}Literature review}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}% 
 \contentsline {section}{\numberline {1.2}Neuronal metabolism}{4}{section.1.2}% 
@@ -142,22 +142,49 @@
 \contentsline {section}{\numberline {6.4}Permeabilization buffer optimization for enhanced contrast}{128}{section.6.4}% 
 \contentsline {section}{\numberline {6.5}Optimization of CLEM workflow for GT 1-7 transfected cells}{130}{section.6.5}% 
 \contentsline {section}{\numberline {6.6}Localization of autophagosome in response to spermidine treatment using 2D-CLEM}{132}{section.6.6}% 
-\contentsline {section}{\numberline {6.7}Final analysis of ultra-structure visualization for localization of autophagosomes in 3D}{132}{section.6.7}% 
-\contentsline {subsection}{\numberline {6.7.1}Area and volume analysis of autophagosomes in 3D}{133}{subsection.6.7.1}% 
-\contentsline {section}{\numberline {6.8}Discussion: Method development for CLEM}{133}{section.6.8}% 
-\contentsline {section}{\numberline {6.9}Localization of autophagosome in response to spermidine treatment using 2D-CLEM}{134}{section.6.9}% 
-\contentsline {section}{\numberline {6.10}Final analysis of ultra-structure visualization for localization of autophagosomes in 3D}{135}{section.6.10}% 
-\contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{137}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Introduction}{137}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Effect of treatment intervention on brain weight}{138}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Effect of treatment intervention on hippocampus and cortex}{138}{section.7.3}% 
-\contentsline {section}{\numberline {7.4}Hippocampus region}{138}{section.7.4}% 
-\contentsline {subsection}{\numberline {7.4.1}Heamatoxylin and Eosin (H \& E) staining}{138}{subsection.7.4.1}% 
-\contentsline {subsection}{\numberline {7.4.2}Lipid peroxidation (4HNE) assessment using western blotting}{139}{subsection.7.4.2}% 
-\contentsline {subsection}{\numberline {7.4.3}4HNE assessment using fluorescence Microscopy}{139}{subsection.7.4.3}% 
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{140}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Summary of results}{140}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}Conclusions and future outlook}{141}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}Limitations}{142}{section.8.3}% 
-\contentsline {chapter}{Addendum A}{143}{chapter*.64}% 
-\contentsline {chapter}{Bibliography}{146}{chapter*.66}% 
+\contentsline {section}{\numberline {6.7}Final analysis of ultra-structure visualization for localization of autophagosomes in 3D}{135}{section.6.7}% 
+\contentsline {subsection}{\numberline {6.7.1}Area and volume analysis of autophagosomes in 3D}{135}{subsection.6.7.1}% 
+\contentsline {section}{\numberline {6.8}Discussion: Method development for CLEM}{135}{section.6.8}% 
+\contentsline {section}{\numberline {6.9}Localization of autophagosome in response to spermidine treatment using 2D-CLEM}{136}{section.6.9}% 
+\contentsline {section}{\numberline {6.10}Final analysis of ultra-structure visualization for localization of autophagosomes in 3D}{137}{section.6.10}% 
+\contentsline {chapter}{\chapternumberline {7}The effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{140}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Introduction}{140}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Effect of treatment intervention on brain weight}{141}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Effect of treatment intervention on hippocampus and cortex}{141}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Hippocampus region}{141}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}Heamatoxylin and Eosin (H\&E) staining}{141}{subsection.7.4.1}% 
+\contentsline {subsection}{\numberline {7.4.2}Lipid peroxidation (4HNE) assessment using western blotting}{142}{subsection.7.4.2}% 
+\contentsline {subsection}{\numberline {7.4.3}4HNE assessment using fluorescence microscopy}{142}{subsection.7.4.3}% 
+\contentsline {subsection}{\numberline {7.4.4}GFAP assessment using fluorescence microscopy}{142}{subsection.7.4.4}% 
+\contentsline {subsection}{\numberline {7.4.5}APP assessment using western blotting}{143}{subsection.7.4.5}% 
+\contentsline {subsection}{\numberline {7.4.6}Acetylated $\alpha $-tubulin assessment using western blotting}{143}{subsection.7.4.6}% 
+\contentsline {subsection}{\numberline {7.4.7}Autophagy activity assessment using western blotting}{143}{subsection.7.4.7}% 
+\contentsline {subsection}{\numberline {7.4.8}GFP-LC3 assessment using fluorescence microscopy}{144}{subsection.7.4.8}% 
+\contentsline {subsection}{\numberline {7.4.9}p62 assessment using fluorescence microscopy}{144}{subsection.7.4.9}% 
+\contentsline {section}{\numberline {7.5}Cortex region}{144}{section.7.5}% 
+\contentsline {subsection}{\numberline {7.5.1}Heamatoxylin and Eosin (H\&E) staining}{144}{subsection.7.5.1}% 
+\contentsline {subsection}{\numberline {7.5.2}Lipid peroxidation (4HNE) assessment using western blotting}{144}{subsection.7.5.2}% 
+\contentsline {subsection}{\numberline {7.5.3}4HNE signal assessment using fluorescence microscopy}{145}{subsection.7.5.3}% 
+\contentsline {subsection}{\numberline {7.5.4}GFAP assessment using fluorescence microscopy}{145}{subsection.7.5.4}% 
+\contentsline {subsection}{\numberline {7.5.5}APP assessment using western blotting}{145}{subsection.7.5.5}% 
+\contentsline {subsection}{\numberline {7.5.6}Acetylated $\alpha $-tubulin assessment using western blotting}{145}{subsection.7.5.6}% 
+\contentsline {subsection}{\numberline {7.5.7}Autophagy activity assessment using western blotting}{146}{subsection.7.5.7}% 
+\contentsline {subsection}{\numberline {7.5.8}GFP-LC3 assessment using fluorescence microscopy}{146}{subsection.7.5.8}% 
+\contentsline {subsection}{\numberline {7.5.9}p62 assessment using fluorescence microscopy}{146}{subsection.7.5.9}% 
+\contentsline {section}{\numberline {7.6}Discussion: The effect of spermidine on a PQ-induced brain injury model of Alzheimer's Disease}{146}{section.7.6}% 
+\contentsline {section}{\numberline {7.7}Effect of treatment intervention on brain weight}{147}{section.7.7}% 
+\contentsline {section}{\numberline {7.8}Hippocampus region analysis}{148}{section.7.8}% 
+\contentsline {subsection}{\numberline {7.8.1}The effect of treatment intervention on H\&E staining}{148}{subsection.7.8.1}% 
+\contentsline {subsection}{\numberline {7.8.2}The effect of treatment intervention on lipid peroxidation}{148}{subsection.7.8.2}% 
+\contentsline {subsection}{\numberline {7.8.3}The effect of spermidine treatment intervention on GFAP in a PQ-induced brain injury model}{149}{subsection.7.8.3}% 
+\contentsline {subsection}{\numberline {7.8.4}The effect of spermidine treatment intervention on APP expression upon PQ-induced brain injury}{150}{subsection.7.8.4}% 
+\contentsline {subsection}{\numberline {7.8.5}The effect of spermidine treatment intervention on APP expression upon PQ-induced brain injury}{150}{subsection.7.8.5}% 
+\contentsline {section}{\numberline {7.9}Cortex region assessment}{152}{section.7.9}% 
+\contentsline {subsection}{\numberline {7.9.1}The effect of treatment intervention on H\&E staining}{152}{subsection.7.9.1}% 
+\contentsline {subsection}{\numberline {7.9.2}The effect of treatment intervention on lipid peroxidation}{153}{subsection.7.9.2}% 
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{155}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of results}{155}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Conclusions and future outlook}{156}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Limitations}{157}{section.8.3}% 
+\contentsline {chapter}{Addendum A}{158}{chapter*.66}% 
+\contentsline {chapter}{Bibliography}{161}{chapter*.68}% 
