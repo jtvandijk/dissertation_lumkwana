@@ -149,9 +149,15 @@
 \contentsline {section}{\numberline {6.10}Final analysis of ultra-structure visualization for localization of autophagosomes in 3D}{135}{section.6.10}% 
 \contentsline {chapter}{\chapternumberline {7}Effect of spermidine on PQ induced brain injury model of Alzheimer\IeC {\textquoteright }s disease}{137}{chapter.7}% 
 \contentsline {section}{\numberline {7.1}Introduction}{137}{section.7.1}% 
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{138}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Summary of results}{138}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}Conclusions and future outlook}{139}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}Limitations}{140}{section.8.3}% 
-\contentsline {chapter}{Addendum A}{141}{chapter*.64}% 
-\contentsline {chapter}{Bibliography}{144}{chapter*.66}% 
+\contentsline {section}{\numberline {7.2}Effect of treatment intervention on brain weight}{138}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Effect of treatment intervention on hippocampus and cortex}{138}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Hippocampus region}{138}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}Heamatoxylin and Eosin (H \& E) staining}{138}{subsection.7.4.1}% 
+\contentsline {subsection}{\numberline {7.4.2}Lipid peroxidation (4HNE) assessment using western blotting}{139}{subsection.7.4.2}% 
+\contentsline {subsection}{\numberline {7.4.3}4HNE assessment using fluorescence Microscopy}{139}{subsection.7.4.3}% 
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{140}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of results}{140}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Conclusions and future outlook}{141}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Limitations}{142}{section.8.3}% 
+\contentsline {chapter}{Addendum A}{143}{chapter*.64}% 
+\contentsline {chapter}{Bibliography}{146}{chapter*.66}% 
