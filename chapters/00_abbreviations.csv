@@ -1,73 +1,105 @@
 Acronym,Description
-AD,Alzheimer’s disease
-FAD,Familial Alzheimer’s disease
-LOAD,Late-onset Alzheimer’s disease
-APP,Amyloid precursor protein
-PSEN,Presenilins
-MCI,Mild cognitive impairment
+3-MA,3-Methyladenine
+3NP,3 Nitropropanoic acid
+4HNE,4-Hydroxynonal 
 A$\beta$,Amyloid beta
-NTFs,Neurofibrillary tangles 
 ACH,Amyloid cascade hypothesis 
-UPS,Ubiquitin-proteasome system 
+AD,Alzheimer’s disease
+ADAM10,A disintegrin and metalloproteinase domain-containing protein 10
 ALP,Autophagy-lysosomal pathway 
-ELP,Endocytic-lysosomal pathway 
-GLUTs,Glucose transporters 
-HK,Hexokinase
-Glucose-6P,Glucose-6 phosphate 
-PPP,Pentose phosphate pathway 
-ATP,Adenosine triphosphate
-NADH,Nicotinamide adenine dinucleotide
-TCA,Tricarboxylic acid 
-OxPhos,Oxidative phosphorylation
-LDH,Lactate dehydrogenase 
-NADPH,Nicotinamide adenine dinucleotide phosphate
-ROS,Reactive oxygen species 
-O\textsubscript{2}\textsuperscript{-},Superoxide 
-OH\textsuperscript{-},Hydroxyl ion
-H\textsubscript{2}O\textsubscript{2},Hydrogen peroxide
-SOD,Superoxide dismutase 
-ER,Endoplasmic reticulum 
-Ca\textsuperscript{2+},Calcium ion
-GSH,Glutathione 
-4HNE,4-hydroxynonal 
-MDA,Malondialdehyde 
-ETC,Electron transport chain
-PQ,Paraquat
-AV,Autophagic vacuoles
-SSIM,Saturated structured illumination microscopy  
-PALM,Photoactivation localization microscopy 
-CLEM,Correlative light and electron microscopy 
-LM,Light microscopy 
-EM,Electron microscopy 
-TEM,Transmission electron microscopy 
-SEM,Scanning electron microscopy
-FIB-SEM,Focused ion beam scanning electron microscopy 
-SBF-SEM,Serial blockface scanning electron microscopy
-LAMP2A,Lysosome associated membrane protein type 2A
-CMA,Chaperone mediated autophagy
+ALS,Amyotrophic lateral sclerosis
+APOE,Apolipoprotein E
+APP,Amyloid precursor protein
 ATG,Autophagy related genes
-PI3P,Phosphatidylinositol 3-phosphate 
+ATP,Adenosine triphosphate
+AV,Autophagic vacuoles
+BafA1,Bafilomycin
+Bcl2,B-cell lymphoma 2
+BSE,Backscattered electron
+CA,Cornu Ammonis 
+Ca\textsuperscript{2+},Calcium ion
+CLEM,Correlative light and electron microscopy 
+CMA,Chaperone mediated autophagy
+CRM,Caloric restriction mimetic
+CSF,Cerebrospinal fluid 
+CTF $\alpha$,C-terminal fragments alpha
+ELP,Endocytic-lysosomal pathway 
+EM,Electron microscopy 
+EP300,E1A-binding protein p300
+ER,Endoplasmic reticulum 
+ETC,Electron transport chain
+FACS,Fluorescence-activated cell sorter
+FAD,Familial Alzheimer’s disease
+FDA,Food and Drug Administration
+FIB-SEM,Focused ion beam scanning electron microscopy 
+FIP200,Focal adhesion kinase family interacting protein of 200kDa 
+GFP-LC3,Green fluorescent protein microtubule-associated protein 1 light chain 3
+Glucose-6P,Glucose-6 phosphate 
+GLUTs,Glucose transporters 
+GPX,Glutathione peroxidase
+GSH,Glutathione 
+H\&E,Heamatoxylin and eosin
+H\textsubscript{2}O\textsubscript{2},Hydrogen peroxide
+HD,Huntington’s disease
+HK,Hexokinase
+HSC70,Heat shock cognate 71 kDa 
+I/R,Ischemia/reperfusion
+IF,Immunofluorescence
+IFN$\gamma$,Interferon gamma
+IL-1$\beta$,Interleukin-1beta
+IMPase,Inositol monophosphatase 
+KIFs,Kinesin superfamily proteins 
+LAMP2A,Lysosome associated membrane protein type 2A
+LC3-II,Microtubule-associated protein 2 light chain 3
+LC3,microtubule-associated protein 1 light chain 3
+LDH,Lactate dehydrogenase 
+LM,Light microscopy 
+LOAD,Late-onset Alzheimer’s disease
+MAP1S,Microtubule-associated protein 1S
+MCI,Mild cognitive impairment
+MDA,Malondialdehyde 
 mTOR,Mammalian target of rapamycin 
 mTORC1,Mammalian target of rapamycin complex 1
-mTORC2,Mammalian target of rapamycin complex 1
-LC3,microtubule-associated protein 1 light chain 3
-ULK1,Unc-51-like kinase 
-FIP200,Focal adhesion kinase family interacting protein of 200kDa 
-PI3KCIII,Class III phosphatidylinositol 3-kinase 
-UVRAG,UV-irradiation- resistance-associated gene 
-PE,Phosphatidylethanolamine 
-KIFs,Kinesin superfamily proteins 
-SAMP8,Senescence-accelerated mouse-prone 8 
-BafA1,Bafilomycin
-PD,Parkinson’s disease 
-HD,Huntington’s disease
-CA,Cornu Ammonis 
-SNARE,Soluble N-ethylmaleimide-sensitive factor attachment protein receptor
-3-MA,3-Methyladenine
-SQSTM1,Sequestosome 1
-FACS,Fluorescence-activated cell sorter
-IMPase,Inositol monophosphatase 
-FDA,Food and Drug Administration
+mTORC2,Mammalian target of rapamycin complex 2
 NAC,N-acetylcysteine,
-GPX,Glutathione peroxidase
-SOD,Superoxide dismutase
+NADH,Nicotinamide adenine dinucleotide
+NADPH,Nicotinamide adenine dinucleotide phosphate
+NTFs,Neurofibrillary tangles 
+O\textsubscript{2}\textsuperscript{-},Superoxide 
+OH\textsuperscript{-},Hydroxyl ion
+OxPhos,Oxidative phosphorylation
+PALM,Photoactivation localization microscopy 
+PBMC,Peripheral blood mononuclear cell
+PD,Parkinson’s disease 
+PE,Phosphatidylethanolamine 
+PI,Propidium iodide
+PI3KCIII,Class III phosphatidylinositol 3-kinase 
+PI3P,Phosphatidylinositol 3-phosphate 
+PPP,Pentose phosphate pathway 
+PQ,Paraquat
+PS-1,Presenilin-1
+PSEN,Presenilins
+RAP7,Rhoptry-associated protein 7
+ROS,Reactive oxygen species 
+SAMP8,Senescence-accelerated mouse-prone 8 
+SBF-SEM,Serial blockface scanning electron microscopy
+SEM,Scanning electron microscopy
+SN,Substantia nigra
+SNARE,Soluble N-ethylmaleimide-sensitive factor attachment protein receptor
+SOD,Superoxide dismutase 
+SQSTM1,Sequestosome 1
+SR-SIM,Super resolution structured illumination microscopy 
+SSIM,Saturated structured illumination microscopy  
+STED,Stimulated emission depletion
+STEM,Scanning transmission electron microscopy
+STORM,Stochastic optical reconstruction microscopy
+TBS-T,"Tris-buffered saline, 0.1\% Tween 20"
+TCA,Tricarboxylic acid 
+TCH,Thiocarbohydrazide
+TEM,Transmission electron microscopy 
+TNF-$\alpha$,Tumor necrosis factor alpha
+TOMM 20,Translocase of outer mitochondrial membrane 20
+ULK1,Unc-51-like kinase 
+UPS,Ubiquitin-proteasome system 
+UVRAG,UV-irradiation- resistance-associated gene 
+WB,Western blotting
