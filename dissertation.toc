@@ -92,100 +92,100 @@
 \contentsline {section}{\numberline {2.18}Statistical Analysis}{63}{section.2.18}% 
 \contentsline {chapter}{\chapternumberline {3}Autophagic flux assessment}{64}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Introduction}{64}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Effect of spermidine and rilmenidine on cell viability}{65}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Effect of spermidine and rilmenidine on autophagic flux using western blotting}{65}{section.3.3}% 
+\contentsline {section}{\numberline {3.2} The effect of spermidine and rilmenidine concentrations on cell viability}{65}{section.3.2}% 
+\contentsline {section}{\numberline {3.3} The effect of spermidine and rilmenidine concentrations on autophagic flux using western blotting}{66}{section.3.3}% 
 \contentsline {subsection}{\numberline {3.3.1}Abundance of LC3-II and p62}{66}{subsection.3.3.1}% 
 \contentsline {subsection}{\numberline {3.3.2}LC3-II protein turnover}{69}{subsection.3.3.2}% 
-\contentsline {section}{\numberline {3.4}Effect of low and high concentrations spermidine and rilmenidine on autophagy pathway intermediates, autophagosome flux and transition time using quantitative FM}{70}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}The effect of a low and a high concentration of spermidine and rilmenidine on autophagy pathway intermediates, autophagosome flux and transition time using quantitative FM}{70}{section.3.4}% 
 \contentsline {subsection}{\numberline {3.4.1}Assessment of autophagosome pool size}{70}{subsection.3.4.1}% 
 \contentsline {subsection}{\numberline {3.4.2}Assessment of autolysosome pool size}{71}{subsection.3.4.2}% 
-\contentsline {subsection}{\numberline {3.4.3}Assessment of autophagosomes flux and transition time}{71}{subsection.3.4.3}% 
-\contentsline {section}{\numberline {3.5}Effect of low and high concentrations of spermidine and rilmenidine on p62 puncta using FM}{74}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.4.3}Assessment of autophagosome flux and transition time}{72}{subsection.3.4.3}% 
+\contentsline {section}{\numberline {3.5}The effect of a low and a high concentration of spermidine and rilmenidine on p62 puncta using FM}{74}{section.3.5}% 
 \contentsline {subsection}{\numberline {3.5.1}Assessment of p62 puncta}{74}{subsection.3.5.1}% 
-\contentsline {section}{\numberline {3.6}Effect of low and high concentrations spermidine and rilmenidine on autophagic vacuoles using TEM}{76}{section.3.6}% 
-\contentsline {subsection}{\numberline {3.6.1}Assessment of AVs}{76}{subsection.3.6.1}% 
+\contentsline {section}{\numberline {3.6}The effect of a low and a high concentration spermidine and rilmenidine on autophagic vacuoles (AVs) using TEM}{74}{section.3.6}% 
+\contentsline {subsection}{\numberline {3.6.1}Assessment of AVs}{74}{subsection.3.6.1}% 
 \contentsline {section}{\numberline {3.7}Discussion: Autophagic flux assessment}{80}{section.3.7}% 
-\contentsline {subsection}{\numberline {3.7.1}The effect of spermidine and rilmenidine on cell viability}{80}{subsection.3.7.1}% 
-\contentsline {subsection}{\numberline {3.7.2}The effect of spermidine and rilmenidine on autophagic flux using WB}{81}{subsection.3.7.2}% 
-\contentsline {subsection}{\numberline {3.7.3}The effect of low and high concentrations of spermidine and rilmenidine on autophagy pathway intermediates, autophagosome flux and transition time using quantitative FM}{83}{subsection.3.7.3}% 
-\contentsline {subsection}{\numberline {3.7.4}The effect of low and high concentrations spermidine and rilmenidine on p62 puncta using FM}{85}{subsection.3.7.4}% 
-\contentsline {subsection}{\numberline {3.7.5}The effect of low and high concentrations spermidine and rilmenidine on autophagic vacuoles using TEM}{85}{subsection.3.7.5}% 
+\contentsline {subsection}{\numberline {3.7.1}The effect of spermidine and rilmenidine concentrations on cell viability}{80}{subsection.3.7.1}% 
+\contentsline {subsection}{\numberline {3.7.2}The effect of spermidine and rilmenidine concentrations on autophagic flux using WB}{81}{subsection.3.7.2}% 
+\contentsline {subsection}{\numberline {3.7.3}The effect of a low and a high concentration of spermidine and rilmenidine on autophagy pathway intermediates, autophagosome flux and transition time using quantitative FM}{83}{subsection.3.7.3}% 
+\contentsline {subsection}{\numberline {3.7.4}The effect of a low and a high concentration of spermidine and rilmenidine on p62 puncta using FM}{85}{subsection.3.7.4}% 
+\contentsline {subsection}{\numberline {3.7.5}The effect of a low and a high concentration of spermidine and rilmenidine on autophagic vacuoles using TEM}{85}{subsection.3.7.5}% 
 \contentsline {chapter}{\chapternumberline {4}The role of spermidine and rilmenidine in a paraquat-induced neuronal toxicity model}{88}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Introduction}{88}{section.4.1}% 
 \contentsline {section}{\numberline {4.2}The effect of PQ on cell viability}{89}{section.4.2}% 
 \contentsline {section}{\numberline {4.3}The effect of spermidine and rilmenidine on neuronal toxicity induced by PQ}{89}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}The effect of low and high concentrations spermidine and rilmenidine on cellular viability upon PQ-induced neuronal toxicity}{90}{subsection.4.3.1}% 
-\contentsline {subsection}{\numberline {4.3.2}The effect of low and high concentrations spermidine and rilmenidine on reactive oxygen species (ROS) generation upon PQ-induced neuronal toxicity}{90}{subsection.4.3.2}% 
-\contentsline {subsection}{\numberline {4.3.3}The effect of low and high concentrations of spermidine and rilmenidine on cell death onset upon PQ-induced neuronal toxicity}{92}{subsection.4.3.3}% 
-\contentsline {subsection}{\numberline {4.3.4}The effect of low and high concentrations of spermidine and rilmenidine on autophagy upon PQ-induced neuronal toxicity}{93}{subsection.4.3.4}% 
-\contentsline {subsubsection}{\numberline {4.3.4.1}Autophagy assessment using fluorescence microscopy}{93}{subsubsection.4.3.4.1}% 
-\contentsline {subsubsection}{\numberline {4.3.4.2}Autophagy assessment using western blotting}{94}{subsubsection.4.3.4.2}% 
-\contentsline {subsection}{\numberline {4.3.5}The effect of low and high concentrations of spermidine on microtubule stability and structure upon PQ-induced neuronal toxicity}{100}{subsection.4.3.5}% 
+\contentsline {subsection}{\numberline {4.3.1}The effect of a low and a high concentration of spermidine and rilmenidine on cellular viability upon PQ-induced neuronal toxicity}{90}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}The effect of a low and a high concentration of spermidine and rilmenidine on reactive oxygen species (ROS) generation upon PQ-induced neuronal toxicity}{90}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}The effect of a low and a high concentration of spermidine and rilmenidine on cell death onset upon PQ-induced neuronal toxicity}{92}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}The effect of a low and a high concentrations of spermidine and rilmenidine on autophagy upon PQ-induced neuronal toxicity}{94}{subsection.4.3.4}% 
+\contentsline {subsubsection}{\numberline {4.3.4.1}Autophagy assessment using fluorescence microscopy}{94}{subsubsection.4.3.4.1}% 
+\contentsline {subsubsection}{\numberline {4.3.4.2}Autophagy assessment using western blotting}{98}{subsubsection.4.3.4.2}% 
+\contentsline {subsection}{\numberline {4.3.5}The effect of a low and a high concentration of spermidine on microtubule stability and structure upon PQ-induced neuronal toxicity}{98}{subsection.4.3.5}% 
 \contentsline {section}{\numberline {4.4}Discussion: The role of spermidine and rilmenidine in a paraquat-induced neuronal toxicity model}{101}{section.4.4}% 
 \contentsline {subsection}{\numberline {4.4.1} The effect of PQ on cell viability}{101}{subsection.4.4.1}% 
-\contentsline {subsection}{\numberline {4.4.2}The effect of low and high concentrations spermidine and rilmenidine on cellular viability upon PQ-induced neuronal toxicity}{104}{subsection.4.4.2}% 
-\contentsline {subsection}{\numberline {4.4.3}The effect of low and high concentration spermidine and rilmenidine on ROS generation upon PQ-induced neuronal toxicity}{104}{subsection.4.4.3}% 
-\contentsline {subsection}{\numberline {4.4.4}The effect of low and high concentration spermidine and rilmenidine on cell death upon PQ-induced neuronal toxicity}{105}{subsection.4.4.4}% 
-\contentsline {subsection}{\numberline {4.4.5}The effect of low and high concentration of spermidine and rilmenidine on autophagy upon PQ-induced neuronal toxicity}{106}{subsection.4.4.5}% 
-\contentsline {subsection}{\numberline {4.4.6} The effect of low and high concentrations of spermidine on microtubule stability and structure upon PQ-induced neuronal toxicity}{108}{subsection.4.4.6}% 
-\contentsline {chapter}{\chapternumberline {5}The characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model }{110}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Introduction}{110}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}The effect of low and high concentrations spermidine and rilmenidine on cellular viability in the context of APP over-expression}{111}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}The effect of low and high concentrations spermidine on the clearance of APP clusters using d-STORM}{111}{section.5.3}% 
-\contentsline {section}{\numberline {5.4}The effect of low and high concentrations rilmenidine on the clearance of APP clusters using d-STORM}{113}{section.5.4}% 
-\contentsline {section}{\numberline {5.5}Discussion: The characterization of autophagy modulation using spermidine and rilmenidine in an APP over-expression model}{118}{section.5.5}% 
-\contentsline {subsection}{\numberline {5.5.1}The effects of low and high concentrations spermidine and rilmenidine on cellular viability in the context of APP over-expression}{118}{subsection.5.5.1}% 
-\contentsline {subsection}{\numberline {5.5.2}The effect of low and high concentrations spermidine and rilmenidine on the clearance of APP clusters using d-STORM}{119}{subsection.5.5.2}% 
-\contentsline {chapter}{\chapternumberline {6}Method development for Correlative Light and Electron Microscopy (CLEM)}{122}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Introduction}{122}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}2D \& 3D-CLEM optimization of \textit {in vitro} workflow}{123}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}The effects of low and high concentrations of spermidine on the localization and ultrastructure of acetylated $\alpha $-tubulin upon PQ-induced toxicity using CLEM}{123}{section.6.3}% 
-\contentsline {section}{\numberline {6.4}Permeabilization buffer optimization for enhanced contrast}{126}{section.6.4}% 
-\contentsline {section}{\numberline {6.5}Optimization of CLEM workflow for GT 1-7 transfected cells}{129}{section.6.5}% 
-\contentsline {section}{\numberline {6.6}Localization of autophagosome in response to a low and high concentration of spermidine in 2D}{131}{section.6.6}% 
-\contentsline {section}{\numberline {6.7}3D ultra-structure visualization and localization of autophagosomes in response to a low and high concentration of spermidine}{134}{section.6.7}% 
-\contentsline {subsection}{\numberline {6.7.1}3D models of autophagosomes}{137}{subsection.6.7.1}% 
-\contentsline {subsection}{\numberline {6.7.2}Morphometric analysis of autophagosomes in response to a low and high concentration of spermidine in 3D}{137}{subsection.6.7.2}% 
-\contentsline {section}{\numberline {6.8}Discussion: Method development for CLEM}{145}{section.6.8}% 
-\contentsline {subsection}{\numberline {6.8.1}Localization of autophagosome in response to spermidine treatment using 2D-CLEM}{146}{subsection.6.8.1}% 
-\contentsline {subsection}{\numberline {6.8.2}Final analysis of ultra-structure visualization for localization of autophagosomes in 3D}{147}{subsection.6.8.2}% 
-\contentsline {chapter}{\chapternumberline {7}The effect of spermidine in PQ-induced brain injury}{150}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Introduction}{150}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}The effect of spermidine treatment intervention on brain weight in PQ-induced brain injury}{151}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}The effect of spermidine treatment intervention on hippocampus and cortex in PQ-induced brain injury}{151}{section.7.3}% 
-\contentsline {section}{\numberline {7.4}Hippocampus region}{152}{section.7.4}% 
-\contentsline {subsection}{\numberline {7.4.1}The effect of spermidine treatment intervention on Heamatoxylin and Eosin (H\&E) in PQ-induced brain injury}{152}{subsection.7.4.1}% 
-\contentsline {subsection}{\numberline {7.4.2}The effect of spermidine treatment intervention on lipid peroxidation (4HNE) in PQ-induced brain injury using WB}{153}{subsection.7.4.2}% 
-\contentsline {subsection}{\numberline {7.4.3}The effect of spermidine treatment intervention on lipid peroxidation (4HNE) in PQ-induced brain injury using FM}{155}{subsection.7.4.3}% 
-\contentsline {subsection}{\numberline {7.4.4}The effect of spermidine treatment intervention on GFAP in PQ-induced brain injury using FM}{155}{subsection.7.4.4}% 
-\contentsline {subsection}{\numberline {7.4.5}The effect of spermidine treatment intervention on APP in PQ-induced brain injury using WB}{158}{subsection.7.4.5}% 
-\contentsline {subsection}{\numberline {7.4.6}The effect of spermidine treatment intervention on acetylated $\alpha $-tubulin in PQ-induced brain injury using WB}{158}{subsection.7.4.6}% 
-\contentsline {subsection}{\numberline {7.4.7}The effect of spermidine treatment intervention on autophagy in PQ-induced brain injury using WB}{159}{subsection.7.4.7}% 
-\contentsline {subsection}{\numberline {7.4.8}The effect of spermidine treatment intervention on GFP-LC3 in PQ-induced brain injury using FM}{160}{subsection.7.4.8}% 
-\contentsline {subsection}{\numberline {7.4.9}The effect of spermidine treatment intervention on p62 in PQ-induced brain injury using FM}{160}{subsection.7.4.9}% 
-\contentsline {section}{\numberline {7.5}Cortex region}{164}{section.7.5}% 
-\contentsline {subsection}{\numberline {7.5.1}The effect of spermidine treatment intervention on H\&E in PQ-induced brain injury}{164}{subsection.7.5.1}% 
-\contentsline {subsection}{\numberline {7.5.2}The effect of spermidine treatment intervention on lipid peroxidation in PQ-induced brain injury using WB}{164}{subsection.7.5.2}% 
-\contentsline {subsection}{\numberline {7.5.3}The effect of spermidine treatment intervention on lipid peroxidation in PQ-induced brain injury using FM}{165}{subsection.7.5.3}% 
-\contentsline {subsection}{\numberline {7.5.4}The effect of spermidine treatment intervention on GFAP in PQ-induced brain injury using FM}{165}{subsection.7.5.4}% 
-\contentsline {subsection}{\numberline {7.5.5}The effect of spermidine treatment intervention on APP in PQ-induced brain injury using WB}{169}{subsection.7.5.5}% 
-\contentsline {subsection}{\numberline {7.5.6}The effect of spermidine treatment intervention on acetylated $\alpha $-tubulin in PQ-induced brain injury using WB}{169}{subsection.7.5.6}% 
-\contentsline {subsection}{\numberline {7.5.7}The effect of spermidine treatment intervention on autophagy in PQ-induced brain injury using WB}{170}{subsection.7.5.7}% 
-\contentsline {subsection}{\numberline {7.5.8}The effect of spermidine treatment intervention on GFP-LC3 in PQ-induced brain injury using FM}{171}{subsection.7.5.8}% 
-\contentsline {subsection}{\numberline {7.5.9}The effect of spermidine treatment intervention on p62 in PQ-induced brain injury using FM}{171}{subsection.7.5.9}% 
-\contentsline {section}{\numberline {7.6}Discussion: The effect of spermidine in PQ-induced brain injury}{175}{section.7.6}% 
-\contentsline {subsection}{\numberline {7.6.1}The effect of spermidine treatment intervention on brain weight in PQ-induced brain injury}{175}{subsection.7.6.1}% 
-\contentsline {subsection}{\numberline {7.6.2}Hippocampus region analysis}{176}{subsection.7.6.2}% 
-\contentsline {subsubsection}{\numberline {7.6.2.1}The effect of spermidine treatment intervention on H\&E staining in PQ-induced brain injury}{176}{subsubsection.7.6.2.1}% 
-\contentsline {subsubsection}{\numberline {7.6.2.2}The effect of spermidine treatment intervention on lipid peroxidation in PQ-induced brain injury}{176}{subsubsection.7.6.2.2}% 
-\contentsline {subsubsection}{\numberline {7.6.2.3}The effect of spermidine treatment intervention on GFAP in PQ-induced brain injury}{177}{subsubsection.7.6.2.3}% 
-\contentsline {subsubsection}{\numberline {7.6.2.4}The effect of spermidine treatment intervention on APP expression in PQ-induced brain injury}{178}{subsubsection.7.6.2.4}% 
-\contentsline {subsubsection}{\numberline {7.6.2.5}The effect of spermidine treatment intervention on acetylated $\alpha $- tubulin in PQ-induced brain injury}{179}{subsubsection.7.6.2.5}% 
-\contentsline {subsubsection}{\numberline {7.6.2.6}The effect of spermidine treatment intervention on autophagy in PQ-induced brain injury}{180}{subsubsection.7.6.2.6}% 
-\contentsline {subsection}{\numberline {7.6.3}Cortex region assessment}{181}{subsection.7.6.3}% 
-\contentsline {subsubsection}{\numberline {7.6.3.1}The effect of spermidine treatment intervention on H\&E staining in PQ-induced brain injury}{181}{subsubsection.7.6.3.1}% 
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{184}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Summary of results}{184}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}Conclusions and future outlook}{185}{section.8.2}% 
-\contentsline {chapter}{Bibliography}{187}{chapter*.101}% 
-\contentsline {chapter}{Addendum A}{233}{chapter*.102}% 
+\contentsline {subsection}{\numberline {4.4.2}The effect of low and high concentrations spermidine and rilmenidine on cellular viability upon PQ-induced neuronal toxicity}{105}{subsection.4.4.2}% 
+\contentsline {subsection}{\numberline {4.4.3}The effect of low and high concentration spermidine and rilmenidine on ROS generation upon PQ-induced neuronal toxicity}{105}{subsection.4.4.3}% 
+\contentsline {subsection}{\numberline {4.4.4}The effect of low and high concentration spermidine and rilmenidine on cell death upon PQ-induced neuronal toxicity}{106}{subsection.4.4.4}% 
+\contentsline {subsection}{\numberline {4.4.5}The effect of low and high concentration of spermidine and rilmenidine on autophagy upon PQ-induced neuronal toxicity}{107}{subsection.4.4.5}% 
+\contentsline {subsection}{\numberline {4.4.6} The effect of low and high concentrations of spermidine on microtubule stability and structure upon PQ-induced neuronal toxicity}{109}{subsection.4.4.6}% 
+\contentsline {chapter}{\chapternumberline {5}The characterization of autophagy modulation using Spermidine and Rilmenidine in an APP over-expression model }{111}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Introduction}{111}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}The effect of low and high concentrations spermidine and rilmenidine on cellular viability in the context of APP over-expression}{112}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}The effect of low and high concentrations spermidine on the clearance of APP clusters using d-STORM}{112}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}The effect of low and high concentrations rilmenidine on the clearance of APP clusters using d-STORM}{114}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Discussion: The characterization of autophagy modulation using spermidine and rilmenidine in an APP over-expression model}{119}{section.5.5}% 
+\contentsline {subsection}{\numberline {5.5.1}The effects of low and high concentrations spermidine and rilmenidine on cellular viability in the context of APP over-expression}{119}{subsection.5.5.1}% 
+\contentsline {subsection}{\numberline {5.5.2}The effect of low and high concentrations spermidine and rilmenidine on the clearance of APP clusters using d-STORM}{120}{subsection.5.5.2}% 
+\contentsline {chapter}{\chapternumberline {6}Method development for Correlative Light and Electron Microscopy (CLEM)}{123}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Introduction}{123}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}2D \& 3D-CLEM optimization of \textit {in vitro} workflow}{124}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}The effects of low and high concentrations of spermidine on the localization and ultrastructure of acetylated $\alpha $-tubulin upon PQ-induced toxicity using CLEM}{124}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Permeabilization buffer optimization for enhanced contrast}{127}{section.6.4}% 
+\contentsline {section}{\numberline {6.5}Optimization of CLEM workflow for GT 1-7 transfected cells}{130}{section.6.5}% 
+\contentsline {section}{\numberline {6.6}Localization of autophagosome in response to a low and high concentration of spermidine in 2D}{132}{section.6.6}% 
+\contentsline {section}{\numberline {6.7}3D ultra-structure visualization and localization of autophagosomes in response to a low and high concentration of spermidine}{135}{section.6.7}% 
+\contentsline {subsection}{\numberline {6.7.1}3D models of autophagosomes}{138}{subsection.6.7.1}% 
+\contentsline {subsection}{\numberline {6.7.2}Morphometric analysis of autophagosomes in response to a low and high concentration of spermidine in 3D}{138}{subsection.6.7.2}% 
+\contentsline {section}{\numberline {6.8}Discussion: Method development for CLEM}{146}{section.6.8}% 
+\contentsline {subsection}{\numberline {6.8.1}Localization of autophagosome in response to spermidine treatment using 2D-CLEM}{147}{subsection.6.8.1}% 
+\contentsline {subsection}{\numberline {6.8.2}Final analysis of ultra-structure visualization for localization of autophagosomes in 3D}{148}{subsection.6.8.2}% 
+\contentsline {chapter}{\chapternumberline {7}The effect of spermidine in PQ-induced brain injury}{151}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Introduction}{151}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}The effect of spermidine treatment intervention on brain weight in PQ-induced brain injury}{152}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}The effect of spermidine treatment intervention on hippocampus and cortex in PQ-induced brain injury}{152}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Hippocampus region}{153}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}The effect of spermidine treatment intervention on Heamatoxylin and Eosin (H\&E) in PQ-induced brain injury}{153}{subsection.7.4.1}% 
+\contentsline {subsection}{\numberline {7.4.2}The effect of spermidine treatment intervention on lipid peroxidation (4HNE) in PQ-induced brain injury using WB}{154}{subsection.7.4.2}% 
+\contentsline {subsection}{\numberline {7.4.3}The effect of spermidine treatment intervention on lipid peroxidation (4HNE) in PQ-induced brain injury using FM}{156}{subsection.7.4.3}% 
+\contentsline {subsection}{\numberline {7.4.4}The effect of spermidine treatment intervention on GFAP in PQ-induced brain injury using FM}{156}{subsection.7.4.4}% 
+\contentsline {subsection}{\numberline {7.4.5}The effect of spermidine treatment intervention on APP in PQ-induced brain injury using WB}{159}{subsection.7.4.5}% 
+\contentsline {subsection}{\numberline {7.4.6}The effect of spermidine treatment intervention on acetylated $\alpha $-tubulin in PQ-induced brain injury using WB}{159}{subsection.7.4.6}% 
+\contentsline {subsection}{\numberline {7.4.7}The effect of spermidine treatment intervention on autophagy in PQ-induced brain injury using WB}{160}{subsection.7.4.7}% 
+\contentsline {subsection}{\numberline {7.4.8}The effect of spermidine treatment intervention on GFP-LC3 in PQ-induced brain injury using FM}{161}{subsection.7.4.8}% 
+\contentsline {subsection}{\numberline {7.4.9}The effect of spermidine treatment intervention on p62 in PQ-induced brain injury using FM}{161}{subsection.7.4.9}% 
+\contentsline {section}{\numberline {7.5}Cortex region}{165}{section.7.5}% 
+\contentsline {subsection}{\numberline {7.5.1}The effect of spermidine treatment intervention on H\&E in PQ-induced brain injury}{165}{subsection.7.5.1}% 
+\contentsline {subsection}{\numberline {7.5.2}The effect of spermidine treatment intervention on lipid peroxidation in PQ-induced brain injury using WB}{165}{subsection.7.5.2}% 
+\contentsline {subsection}{\numberline {7.5.3}The effect of spermidine treatment intervention on lipid peroxidation in PQ-induced brain injury using FM}{166}{subsection.7.5.3}% 
+\contentsline {subsection}{\numberline {7.5.4}The effect of spermidine treatment intervention on GFAP in PQ-induced brain injury using FM}{166}{subsection.7.5.4}% 
+\contentsline {subsection}{\numberline {7.5.5}The effect of spermidine treatment intervention on APP in PQ-induced brain injury using WB}{170}{subsection.7.5.5}% 
+\contentsline {subsection}{\numberline {7.5.6}The effect of spermidine treatment intervention on acetylated $\alpha $-tubulin in PQ-induced brain injury using WB}{170}{subsection.7.5.6}% 
+\contentsline {subsection}{\numberline {7.5.7}The effect of spermidine treatment intervention on autophagy in PQ-induced brain injury using WB}{171}{subsection.7.5.7}% 
+\contentsline {subsection}{\numberline {7.5.8}The effect of spermidine treatment intervention on GFP-LC3 in PQ-induced brain injury using FM}{172}{subsection.7.5.8}% 
+\contentsline {subsection}{\numberline {7.5.9}The effect of spermidine treatment intervention on p62 in PQ-induced brain injury using FM}{172}{subsection.7.5.9}% 
+\contentsline {section}{\numberline {7.6}Discussion: The effect of spermidine in PQ-induced brain injury}{176}{section.7.6}% 
+\contentsline {subsection}{\numberline {7.6.1}The effect of spermidine treatment intervention on brain weight in PQ-induced brain injury}{176}{subsection.7.6.1}% 
+\contentsline {subsection}{\numberline {7.6.2}Hippocampus region analysis}{177}{subsection.7.6.2}% 
+\contentsline {subsubsection}{\numberline {7.6.2.1}The effect of spermidine treatment intervention on H\&E staining in PQ-induced brain injury}{177}{subsubsection.7.6.2.1}% 
+\contentsline {subsubsection}{\numberline {7.6.2.2}The effect of spermidine treatment intervention on lipid peroxidation in PQ-induced brain injury}{177}{subsubsection.7.6.2.2}% 
+\contentsline {subsubsection}{\numberline {7.6.2.3}The effect of spermidine treatment intervention on GFAP in PQ-induced brain injury}{178}{subsubsection.7.6.2.3}% 
+\contentsline {subsubsection}{\numberline {7.6.2.4}The effect of spermidine treatment intervention on APP expression in PQ-induced brain injury}{179}{subsubsection.7.6.2.4}% 
+\contentsline {subsubsection}{\numberline {7.6.2.5}The effect of spermidine treatment intervention on acetylated $\alpha $- tubulin in PQ-induced brain injury}{180}{subsubsection.7.6.2.5}% 
+\contentsline {subsubsection}{\numberline {7.6.2.6}The effect of spermidine treatment intervention on autophagy in PQ-induced brain injury}{181}{subsubsection.7.6.2.6}% 
+\contentsline {subsection}{\numberline {7.6.3}Cortex region assessment}{182}{subsection.7.6.3}% 
+\contentsline {subsubsection}{\numberline {7.6.3.1}The effect of spermidine treatment intervention on H\&E staining in PQ-induced brain injury}{182}{subsubsection.7.6.3.1}% 
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{185}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of results}{185}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Conclusions and future outlook}{186}{section.8.2}% 
+\contentsline {chapter}{Bibliography}{188}{chapter*.101}% 
+\contentsline {chapter}{Addendum A}{234}{chapter*.102}% 
