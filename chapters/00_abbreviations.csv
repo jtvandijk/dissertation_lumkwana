@@ -10,10 +10,10 @@ ALP,Autophagy-lysosomal pathway
 ALS,Amyotrophic lateral sclerosis
 APOE,Apolipoprotein E
 APP,Amyloid precursor protein
-ATG,Autophagy related genes
+ATG,Autophagy related
 ATP,Adenosine triphosphate
 AV,Autophagic vacuoles
-BafA1,Bafilomycin
+BafA1,Bafilomycin A1
 Bcl2,B-cell lymphoma 2
 BSE,Backscattered electron
 CA,Cornu Ammonis 
@@ -23,6 +23,7 @@ CMA,Chaperone mediated autophagy
 CRM,Caloric restriction mimetic
 CSF,Cerebrospinal fluid 
 CTF $\alpha$,C-terminal fragments alpha
+dSTORM,Direct stochastic optical reconstruction microscopy
 ELP,Endocytic-lysosomal pathway 
 EM,Electron microscopy 
 EP300,E1A-binding protein p300
@@ -92,7 +93,6 @@ SR-SIM,Super resolution structured illumination microscopy
 SSIM,Saturated structured illumination microscopy  
 STED,Stimulated emission depletion
 STEM,Scanning transmission electron microscopy
-STORM,Stochastic optical reconstruction microscopy
 TBS-T,"Tris-buffered saline, 0.1\% Tween 20"
 TCA,Tricarboxylic acid 
 TCH,Thiocarbohydrazide
