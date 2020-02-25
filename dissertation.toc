@@ -195,5 +195,5 @@
 \contentsline {section}{\numberline {8.1}Summary}{192}{section.8.1}% 
 \contentsline {section}{\numberline {8.2}Conclusions and future outlook}{193}{section.8.2}% 
 \contentsline {chapter}{Bibliography}{197}{chapter*.100}% 
-\contentsline {chapter}{Addendum A}{242}{chapter*.101}% 
-\contentsline {chapter}{Supplementary material}{247}{chapter*.102}% 
+\contentsline {chapter}{Addendum A}{241}{chapter*.101}% 
+\contentsline {chapter}{Supplementary material}{246}{chapter*.102}% 
